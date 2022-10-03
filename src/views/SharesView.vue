@@ -16,11 +16,10 @@
    * date: 2022年10月3日
    */
   import { useFaucetStore } from "../stores/faucetStore"; 
+  import { getImageUrl } from "../util/faucet";
+
   const faucetStore = useFaucetStore();
-  //获取图片地址
-  function getImageUrl(name) {
-    return new URL(`../assets/image/${name}.png`, import.meta.url).href
-  } 
+
 </script>
 <style>
   .content img{

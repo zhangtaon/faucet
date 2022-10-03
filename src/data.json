@@ -23,6 +23,9 @@
                     "bidding":"1%",
                     "seals":"30w",
                     "sealsAmount":"5000w",
+                    "sealsChain":"-27.41",
+                    "volChain":"268.88",
+                    "discharge":"2.2",
                     "url":"ztkc-1"
                 }
             ]
@@ -36,7 +39,9 @@
                     "bidding":"3.2%",
                     "seals":"8w",
                     "sealsAmount":"3000w",
-                    "transactionAmount":"2亿",
+                    "sealsChain":"-37.41",
+                    "volChain":"138.88",
+                    "discharge":"3",
                     "url":"zjdc-0"
                 }
             ]
@@ -50,7 +55,9 @@
                     "bidding":"10%",
                     "seals":"11w",
                     "sealsAmount":"4000w",
-                    "transactionAmount":"4亿",
+                    "sealsChain":"-67.41",
+                    "volChain":"166.88",
+                    "discharge":"6",
                     "url":"zrgf-0"
                 }
             ]

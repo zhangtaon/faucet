@@ -1,9 +1,10 @@
 import { defineStore } from "pinia";
+import type { faucet } from "../util/faucet";
 
 export const useFaucetStore = defineStore("faucet", {
   state: () => {
     return {
-      data: {},
+      data:<faucet>{},
       currentIndex:0
     };
   },
@@ -22,5 +23,9 @@ export const useFaucetStore = defineStore("faucet", {
         this.currentIndex--;
       }
     },
+     setFaucetStore(item: faucet){
+      this.data = { ...item };
+      this.currentIndex = 0;
+    }
   },
 });

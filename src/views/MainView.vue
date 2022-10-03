@@ -3,7 +3,7 @@
     <a-layout-sider v-model:collapsed="collapsed" collapsible>
       <div class="logo" />
       <a-menu v-model:selectedKeys="selectedKeys" theme="dark" mode="inline">
-        <a-menu-item v-for="item in data.data" :key="item.id" @click="go(item)">
+        <a-menu-item v-for="item in data.data" :key="item.id" @click="faucetStore.setFaucetStore(item),go()">
           <pie-chart-outlined />
           <span>{{item.name}}</span>
         </a-menu-item>
@@ -37,22 +37,18 @@
    * date: 2022年10月3日
    */
   import { useRouter } from 'vue-router'
+  import { PieChartOutlined } from '@ant-design/icons-vue';
+  import { ref } from "vue";
   import data from "../data.json"; 
   import { useFaucetStore } from "../stores/faucetStore"; 
-  import { ref } from "vue";
-  import { PieChartOutlined } from '@ant-design/icons-vue';
-
   const selectedKeys = ref<string[]>(['1']);
   const collapsed = ref<boolean>(false);
-
   const faucetStore = useFaucetStore();
   const router = useRouter();
 
-  const go=(item)=>{
-      faucetStore.$state.data = {...item};
-      faucetStore.$state.currentIndex = 0;
-      router.push(`/shares/${item.id}`);
-    }
+  function go(){
+    router.push(`/shares/${faucetStore.$state.data.id}`);
+  }
 </script>
 <style>
 #components-layout-demo-side .logo {
