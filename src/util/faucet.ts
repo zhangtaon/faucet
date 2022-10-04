@@ -1,11 +1,13 @@
 interface faucetItem {
     date: string,
-    bidding: string,
     seals: string,
     sealsAmount: string,
+    sealsVol: string,
+    discharge: string,
+    bidding: string,
+    biddingChain: string,
     sealsChain: string,
     volChain: string,
-    discharge: string,
     url: string
 }
 

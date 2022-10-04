@@ -5,60 +5,146 @@
     },
     "data":[
         {
-            "id":"000957",
-            "name":"中通客车",
+            "id":"603696",
+            "name":"安记食品",
             "list":[
                 {
-                    "date":"2022-05-07",
-                    "bidding":"3",
-                    "seals":"10w",
-                    "sealsAmount":"2200w",
-                    "sealsChain":"-17.41",
-                    "volChain":"168.88",
+                    "date":"2022-04-15",
+                    "seals":"29.11万",
+                    "sealsAmount":"280.62万",
+                    "sealsVol":"1.47",
                     "discharge":"2",
-                    "url":"ztkc-0"
+                    "bidding":"0.11",
+                    "biddingChain":"",
+                    "sealsChain":"",
+                    "volChain":"",
+                    "url":"ajsp-0"
                 },
                 {
-                    "date":"2022-05-08",
-                    "bidding":"1%",
-                    "seals":"30w",
-                    "sealsAmount":"5000w",
-                    "sealsChain":"-27.41",
-                    "volChain":"268.88",
-                    "discharge":"2.2",
-                    "url":"ztkc-1"
+                    "date":"2022-04-18",
+                    "seals":"645.09万",
+                    "sealsAmount":"6,837.96万",
+                    "sealsVol":"64.80",
+                    "discharge":"",
+                    "bidding":"9.96",
+                    "biddingChain":"243.12万",
+                    "sealsChain":"2,116.05",
+                    "volChain":"-49.69",
+                    "url":"ajsp-1"
+                },
+                {
+                    "date":"2022-04-19",
+                    "seals":"236.18万",
+                    "sealsAmount":"2,753.89万",
+                    "sealsVol":"6.89",
+                    "discharge":"",
+                    "bidding":"0",
+                    "biddingChain":"-114.98万",
+                    "sealsChain":"-63.39",
+                    "volChain":"244.46",
+                    "url":"ajsp-2"
+                },
+                {
+                    "date":"2022-04-20",
+                    "seals":"700.69万",
+                    "sealsAmount":"8,989.89万",
+                    "sealsVol":"19.95",
+                    "discharge":"",
+                    "bidding":"-0.52",
+                    "biddingChain":"-27.10万",
+                    "sealsChain":"196.67",
+                    "volChain":"2.41",
+                    "url":"ajsp-3"
+                },
+                {
+                    "date":"2022-04-21",
+                    "seals":"238.23万",
+                    "sealsAmount":"3,361.36万",
+                    "sealsVol":"4.94",
+                    "discharge":"",
+                    "bidding":"9.67",
+                    "biddingChain":"188.03万",
+                    "sealsChain":"-66.00",
+                    "volChain":"37.42",
+                    "url":"ajsp-4"
+                },
+                {
+                    "date":"2022-04-22",
+                    "seals":"",
+                    "sealsAmount":"",
+                    "sealsVol":"",
+                    "discharge":"",
+                    "bidding":"-0.5",
+                    "biddingChain":"-95.89万",
+                    "sealsChain":"",
+                    "volChain":"",
+                    "url":"ajsp-5"
                 }
             ]
         },
         {
-            "id":"000736",
-            "name":"中交地产",
+            "id":"000595",
+            "name":"宝塔实业",
             "list":[
                 {
-                    "date":"2022-03-28",
-                    "bidding":"3.2%",
-                    "seals":"8w",
-                    "sealsAmount":"3000w",
-                    "sealsChain":"-37.41",
-                    "volChain":"138.88",
-                    "discharge":"3",
-                    "url":"zjdc-0"
-                }
-            ]
-        },
-        {
-            "id":"002374",
-            "name":"中锐股份",
-            "list":[
+                    "date":"2022-05-24",
+                    "seals":"705.43万",
+                    "sealsAmount":"2,856.99万",
+                    "sealsVol":"10.35",
+                    "discharge":"1.66",
+                    "bidding":"-2.17",
+                    "biddingChain":"",
+                    "sealsChain":"",
+                    "volChain":"",
+                    "url":"btsy-0"
+                },
                 {
-                    "date":"2021-11-29",
-                    "bidding":"10%",
-                    "seals":"11w",
-                    "sealsAmount":"4000w",
-                    "sealsChain":"-67.41",
-                    "volChain":"166.88",
-                    "discharge":"6",
-                    "url":"zrgf-0"
+                    "date":"2022-05-25",
+                    "seals":"541.77万",
+                    "sealsAmount":"2,416.31万",
+                    "sealsVol":"3.20",
+                    "discharge":"",
+                    "bidding":"10.12",
+                    "biddingChain":"372.17万",
+                    "sealsChain":"-23.20",
+                    "volChain":"148.12",
+                    "url":"btsy-1"
+                },
+                {
+                    "date":"2022-05-26",
+                    "seals":"1.03亿",
+                    "sealsAmount":"2,753.89万",
+                    "sealsVol":"22.96",
+                    "discharge":"",
+                    "bidding":"-3.14",
+                    "biddingChain":"-48.10万",
+                    "sealsChain":"287.11",
+                    "volChain":"-45.96",
+                    "url":"btsy-2"
+                },
+                {
+                    "date":"2022-06-02",
+                    "seals":"1,327.07万",
+                    "sealsAmount":"1.05亿",
+                    "sealsVol":"7.68",
+                    "discharge":"",
+                    "bidding":"8.77",
+                    "biddingChain":"5,380.45万",
+                    "sealsChain":"-80.60",
+                    "volChain":"3,429.69",
+                    "url":"btsy-3"
+                },
+                {
+                    "date":"2022-06-06",
+                    "seals":"",
+                    "sealsAmount":"",
+                    "sealsVol":"",
+                    "discharge":"",
+                    "bidding":"-2.66",
+                    "biddingChain":"-4,786.84万",
+                    "sealsChain":"",
+                    "volChain":"",
+                    "url":"btsy-4"
                 }
             ]
         }
