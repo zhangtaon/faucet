@@ -5,6 +5,96 @@
     },
     "data":[
         {
+            "id":"601700",
+            "name":"风范股份",
+            "list":[
+                {
+                    "date":"2021-12-13",
+                    "seals":"551.10万",
+                    "sealsAmount":"2,744.48万",
+                    "sealsVol":"14.45",
+                    "discharge":"0.56",
+                    "bidding":"0.66",
+                    "biddingChain":"",
+                    "sealsChain":"",
+                    "volChain":"",
+                    "url":"ffgf-0"
+                },
+                {
+                    "date":"2022-12-14",
+                    "seals":"1,177.04万",
+                    "sealsAmount":"6,450.18万",
+                    "sealsVol":"16.22",
+                    "discharge":"",
+                    "bidding":"0.00",
+                    "biddingChain":"5,390.65",
+                    "sealsChain":"113.58",
+                    "volChain":"90.36",
+                    "url":"ffgf-1"
+                },
+                {
+                    "date":"2021-12-15",
+                    "seals":"1,714.03万",
+                    "sealsAmount":"1.03亿",
+                    "sealsVol":"16.43",
+                    "discharge":"",
+                    "bidding":"6.93",
+                    "biddingChain":"195.49",
+                    "sealsChain":"45.62",
+                    "volChain":"43.74",
+                    "url":"ffgf-2"
+                },
+                {
+                    "date":"2022-12-16",
+                    "seals":"1,842.39万",
+                    "sealsAmount":"1.22亿",
+                    "sealsVol":"35.87",
+                    "discharge":"",
+                    "bidding":"9.95",
+                    "biddingChain":"53.78",
+                    "sealsChain":"7.49",
+                    "volChain":"-50.77",
+                    "url":"ffgf-3"
+                },
+                {
+                    "date":"2022-12-17",
+                    "seals":"1,557.34万",
+                    "sealsAmount":"1.14亿",
+                    "sealsVol":"13.76",
+                    "discharge":"",
+                    "bidding":"7.09",
+                    "biddingChain":"24.72",
+                    "sealsChain":"-15.47",
+                    "volChain":"120.34",
+                    "url":"ffgf-4"
+                },
+                {
+                    "date":"2022-12-20",
+                    "seals":"1,915.15万",
+                    "sealsAmount":"1.54亿",
+                    "sealsVol":"77.96",
+                    "discharge":"",
+                    "bidding":"10.01",
+                    "biddingChain":"-73.26",
+                    "sealsChain":"22.98",
+                    "volChain":"-78.30",
+                    "url":"ffgf-5"
+                },
+                {
+                    "date":"2022-12-21",
+                    "seals":"",
+                    "sealsAmount":"",
+                    "sealsVol":"",
+                    "discharge":"",
+                    "bidding":"5.99",
+                    "biddingChain":"349.89",
+                    "sealsChain":"",
+                    "volChain":"",
+                    "url":"ffgf-6"
+                }
+            ]
+        },
+        {
             "id":"002037",
             "name":"保利联合",
             "list":[
@@ -27,7 +117,7 @@
                     "sealsVol":"8.51",
                     "discharge":"",
                     "bidding":"9.99",
-                    "biddingChain":"-38.10万",
+                    "biddingChain":"-22.68",
                     "sealsChain":"-20.41",
                     "volChain":"17.85",
                     "url":"bllh-1"
@@ -39,7 +129,7 @@
                     "sealsVol":"24.01",
                     "discharge":"",
                     "bidding":"9.97",
-                    "biddingChain":"199.83万",
+                    "biddingChain":"153.87",
                     "sealsChain":"147.63",
                     "volChain":"-12.24",
                     "url":"bllh-2"
@@ -51,7 +141,7 @@
                     "sealsVol":"1.56",
                     "discharge":"",
                     "bidding":"4.23",
-                    "biddingChain":"2,175.17万",
+                    "biddingChain":"3,069.24",
                     "sealsChain":"-91.99",
                     "volChain":"1,633.87",
                     "url":"bllh-3"
@@ -63,7 +153,7 @@
                     "sealsVol":"",
                     "discharge":"",
                     "bidding":"0.28",
-                    "biddingChain":"-1,540.31万",
+                    "biddingChain":"-68.58",
                     "sealsChain":"",
                     "volChain":"",
                     "url":"bllh-4"
@@ -93,7 +183,7 @@
                     "sealsVol":"140.24",
                     "discharge":"",
                     "bidding":"10.02",
-                    "biddingChain":"400.99万",
+                    "biddingChain":"1,065.90",
                     "sealsChain":"-2.20",
                     "volChain":"-77.26",
                     "url":"bbgf-1"
@@ -105,7 +195,7 @@
                     "sealsVol":"167.46",
                     "discharge":"",
                     "bidding":"9.94",
-                    "biddingChain":"-69.06万",
+                    "biddingChain":"-15.75",
                     "sealsChain":"-7.97",
                     "volChain":"-22.93",
                     "url":"bbgf-2"
@@ -117,7 +207,7 @@
                     "sealsVol":"48.29",
                     "discharge":"",
                     "bidding":"9.98",
-                    "biddingChain":"2,521.06万",
+                    "biddingChain":"682.20",
                     "sealsChain":"101.87",
                     "volChain":"600.12",
                     "url":"bbgf-3"
@@ -129,7 +219,7 @@
                     "sealsVol":"0.98",
                     "discharge":"",
                     "bidding":"10.06",
-                    "biddingChain":"1,764.99万",
+                    "biddingChain":"2,247.90",
                     "sealsChain":"-94.86",
                     "volChain":"4,264.30",
                     "url":"bbgf-4"
@@ -141,7 +231,7 @@
                     "sealsVol":"7.36",
                     "discharge":"",
                     "bidding":"-2.06",
-                    "biddingChain":"-883.40万",
+                    "biddingChain":"-47.92",
                     "sealsChain":"572.37",
                     "volChain":"-10.15",
                     "url":"bbgf-5"
@@ -153,22 +243,148 @@
                     "sealsVol":"0.62",
                     "discharge":"",
                     "bidding":"6.43",
-                    "biddingChain":"880.55万",
+                    "biddingChain":"91.71",
                     "sealsChain":"-91.37",
                     "volChain":"2.26",
                     "url":"bbgf-6"
                 },
                 {
-                    "date":"2022-03-29",
+                    "date":"2022-03-28",
                     "seals":"",
                     "sealsAmount":"",
                     "sealsVol":"",
                     "discharge":"",
                     "bidding":"-9.99",
-                    "biddingChain":"-626.42万",
+                    "biddingChain":"-34.03",
                     "sealsChain":"",
                     "volChain":"",
                     "url":"bbgf-7"
+                }
+            ]
+        },
+        {
+            "id":"002251",
+            "name":"步步高",
+            "list":[
+                {
+                    "date":"2022-04-11",
+                    "seals":"623.03万",
+                    "sealsAmount":"4,323.81万",
+                    "sealsVol":"9.61",
+                    "discharge":"6.04",
+                    "bidding":"1.27",
+                    "biddingChain":"",
+                    "sealsChain":"",
+                    "volChain":"",
+                    "url":"bbg-0"
+                },
+                {
+                    "date":"2022-04-12",
+                    "seals":"1,712.02万",
+                    "sealsAmount":"1.31亿",
+                    "sealsVol":"57.10",
+                    "discharge":"",
+                    "bidding":"4.32",
+                    "biddingChain":"318.31",
+                    "sealsChain":"174.79",
+                    "volChain":"-53.77",
+                    "url":"bbg-1"
+                },
+                {
+                    "date":"2022-04-13",
+                    "seals":"4,516.28万",
+                    "sealsAmount":"3.79亿",
+                    "sealsVol":"453.26",
+                    "discharge":"",
+                    "bidding":"9.96",
+                    "biddingChain":"-47.65",
+                    "sealsChain":"163.80",
+                    "volChain":"-66.77",
+                    "url":"bbg-2"
+                },
+                {
+                    "date":"2022-04-14",
+                    "seals":"1,451.90万",
+                    "sealsAmount":"1.34亿",
+                    "sealsVol":"9.84",
+                    "discharge":"",
+                    "bidding":"7.27",
+                    "biddingChain":"816.37",
+                    "sealsChain":"-67.85",
+                    "volChain":"1,381.42",
+                    "url":"bbg-3"
+                },
+                {
+                    "date":"2022-04-15",
+                    "seals":"1,408.15万",
+                    "sealsAmount":"1.43亿",
+                    "sealsVol":"11.62",
+                    "discharge":"",
+                    "bidding":"1.73",
+                    "biddingChain":"-43.72",
+                    "sealsChain":"-3.01",
+                    "volChain":"-17.88",
+                    "url":"bbg-4"
+                },
+                {
+                    "date":"2022-04-18",
+                    "seals":"",
+                    "sealsAmount":"",
+                    "sealsVol":"",
+                    "discharge":"",
+                    "bidding":"6.40",
+                    "biddingChain":"-37.33",
+                    "sealsChain":"",
+                    "volChain":"",
+                    "url":"bbg-5"
+                },
+                {
+                    "date":"2022-04-19",
+                    "seals":"1,454.60万",
+                    "sealsAmount":"1.52亿",
+                    "sealsVol":"7.18",
+                    "discharge":"",
+                    "bidding":"-10.02",
+                    "biddingChain":"-65.10",
+                    "sealsChain":"",
+                    "volChain":"",
+                    "url":"bbg-6"
+                },
+                {
+                    "date":"2022-04-20",
+                    "seals":"1,114.55万",
+                    "sealsAmount":"1.28亿",
+                    "sealsVol":"7.93",
+                    "discharge":"",
+                    "bidding":"5.66",
+                    "biddingChain":"237.83",
+                    "sealsChain":"-23.38",
+                    "volChain":"-30.67",
+                    "url":"bbg-7"
+                },
+                {
+                    "date":"2022-04-21",
+                    "seals":"1,563.20万",
+                    "sealsAmount":"1.97亿",
+                    "sealsVol":"7.22",
+                    "discharge":"",
+                    "bidding":"4.62",
+                    "biddingChain":"-0.96",
+                    "sealsChain":"40.25",
+                    "volChain":"54.20",
+                    "url":"bbg-8"
+                },
+                {
+                    "date":"2022-04-22",
+                    "seals":"",
+                    "sealsAmount":"",
+                    "sealsVol":"",
+                    "discharge":"",
+                    "bidding":"4.75",
+                    "biddingChain":"-6.31",
+                    "sealsChain":"",
+                    "volChain":"",
+                    "url":"bbg-9"
                 }
             ]
         },
@@ -195,7 +411,7 @@
                     "sealsVol":"64.80",
                     "discharge":"",
                     "bidding":"9.96",
-                    "biddingChain":"243.12万",
+                    "biddingChain":"3,149.22",
                     "sealsChain":"2,116.05",
                     "volChain":"-49.69",
                     "url":"ajsp-1"
@@ -207,7 +423,7 @@
                     "sealsVol":"6.89",
                     "discharge":"",
                     "bidding":"0",
-                    "biddingChain":"-114.98万",
+                    "biddingChain":"-45.84",
                     "sealsChain":"-63.39",
                     "volChain":"244.46",
                     "url":"ajsp-2"
@@ -219,7 +435,7 @@
                     "sealsVol":"19.95",
                     "discharge":"",
                     "bidding":"-0.52",
-                    "biddingChain":"-27.10万",
+                    "biddingChain":"-19.95",
                     "sealsChain":"196.67",
                     "volChain":"2.41",
                     "url":"ajsp-3"
@@ -231,7 +447,7 @@
                     "sealsVol":"4.94",
                     "discharge":"",
                     "bidding":"9.67",
-                    "biddingChain":"188.03万",
+                    "biddingChain":"172.89",
                     "sealsChain":"-66.00",
                     "volChain":"37.42",
                     "url":"ajsp-4"
@@ -243,7 +459,7 @@
                     "sealsVol":"",
                     "discharge":"",
                     "bidding":"-0.5",
-                    "biddingChain":"-95.89万",
+                    "biddingChain":"-32.31",
                     "sealsChain":"",
                     "volChain":"",
                     "url":"ajsp-5"
@@ -273,19 +489,19 @@
                     "sealsVol":"3.20",
                     "discharge":"",
                     "bidding":"10.12",
-                    "biddingChain":"372.17万",
+                    "biddingChain":"726.89",
                     "sealsChain":"-23.20",
                     "volChain":"148.12",
                     "url":"btsy-1"
                 },
                 {
                     "date":"2022-05-26",
-                    "seals":"1.03亿",
-                    "sealsAmount":"2,753.89万",
+                    "seals":"2,097.25万",
+                    "sealsAmount":"1.03亿",
                     "sealsVol":"22.96",
                     "discharge":"",
                     "bidding":"-3.14",
-                    "biddingChain":"-48.10万",
+                    "biddingChain":"-11.36",
                     "sealsChain":"287.11",
                     "volChain":"-45.96",
                     "url":"btsy-2"
@@ -297,7 +513,7 @@
                     "sealsVol":"7.68",
                     "discharge":"",
                     "bidding":"8.77",
-                    "biddingChain":"5,380.45万",
+                    "biddingChain":"4,522.91",
                     "sealsChain":"-80.60",
                     "volChain":"3,429.69",
                     "url":"btsy-3"
@@ -309,7 +525,7 @@
                     "sealsVol":"",
                     "discharge":"",
                     "bidding":"-2.66",
-                    "biddingChain":"-4,786.84万",
+                    "biddingChain":"-87.04",
                     "sealsChain":"",
                     "volChain":"",
                     "url":"btsy-4"

@@ -18,7 +18,7 @@
           <a-descriptions-item :class="{'active':!faucetStore.$state.currentIndex}" label="封成比(%)" style="width:150px">{{faucetStore.$state.data.list[faucetStore.$state.currentIndex].sealsVol}}</a-descriptions-item>
           <a-descriptions-item :class="{'active':!faucetStore.$state.currentIndex}" label="放量" style="width:126px">{{faucetStore.$state.data.list[faucetStore.$state.currentIndex].discharge}}</a-descriptions-item>
           <a-descriptions-item :class="{'active':faucetStore.$state.currentIndex}" label="竞价(%)" style="width:130px">{{faucetStore.$state.data.list[faucetStore.$state.currentIndex].bidding}}</a-descriptions-item>
-          <a-descriptions-item :class="{'active':faucetStore.$state.currentIndex}" label="竞环比">{{faucetStore.$state.data.list[faucetStore.$state.currentIndex].biddingChain}}</a-descriptions-item>
+          <a-descriptions-item :class="{'active':faucetStore.$state.currentIndex}" label="竞环比(%)">{{faucetStore.$state.data.list[faucetStore.$state.currentIndex].biddingChain}}</a-descriptions-item>
           <a-descriptions-item :class="{'active':faucetStore.$state.currentIndex}" label="封环比(%)">{{faucetStore.$state.data.list[faucetStore.$state.currentIndex].sealsChain}}</a-descriptions-item>
           <a-descriptions-item :class="{'active':faucetStore.$state.currentIndex}" label="成环比(%)">{{faucetStore.$state.data.list[faucetStore.$state.currentIndex].volChain}}</a-descriptions-item>
         </a-descriptions>
