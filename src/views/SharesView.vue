@@ -4,7 +4,7 @@
     <img
       ref="img"
       :alt="faucetStore.$state.data.name"
-      :src="getImageUrl(faucetStore.$state.data.list[faucetStore.$state.currentIndex].url)"
+      :src="faucetStore.$state.data.list[faucetStore.$state.currentIndex].url"
       @click="faucetStore.next()"
     />
   </div>
@@ -16,10 +16,7 @@
    * date: 2022年10月3日
    */
   import { useFaucetStore } from "../stores/faucetStore"; 
-  import { getImageUrl } from "../util/faucet";
-
   const faucetStore = useFaucetStore();
-
 </script>
 <style>
   .content img{

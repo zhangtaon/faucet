@@ -19,5 +19,9 @@ export interface faucet {
 
 //获取图片地址
 export const getImageUrl = (name: string) => {
-    return new URL(`../assets/image/${name}.png`, import.meta.url).href
+    // return new URL(`../assets/image/${name}.png`, import.meta.url).href
+    const img = new URL(`../assets/image/${name}.png`, import.meta.url)
+    //图片缓存处理
+    new Image().src = img.href;
+    return img.href;
 } 

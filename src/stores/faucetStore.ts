@@ -1,5 +1,7 @@
 import { defineStore } from "pinia";
 import type { faucet } from "../util/faucet";
+import { getImageUrl } from "../util/faucet";
+
 
 export const useFaucetStore = defineStore("faucet", {
   state: () => {
@@ -23,8 +25,13 @@ export const useFaucetStore = defineStore("faucet", {
         this.currentIndex--;
       }
     },
-     setFaucetStore(item: faucet){
-      this.data = { ...item };
+     setFaucetStore(faucet: faucet){
+      faucet.list.forEach((item)=>{
+        if(item.url.indexOf(":") == -1){
+          item.url= getImageUrl(item.url);
+        }
+      })
+      this.data = { ...faucet };
       this.currentIndex = 0;
     }
   },
