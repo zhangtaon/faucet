@@ -6,7 +6,7 @@
         <a-menu-item v-for="item in data.data" :key="item.id" @click="faucetStore.setFaucetStore(item),go()">
           <pie-chart-outlined />
           <span>{{item.name}}</span>
-          <span style="float: right;font-size: 12px; padding-right: 15px;">({{item.id}})</span>
+          <span class="code">({{item.id}})</span>
         </a-menu-item>
       </a-menu>
     </a-layout-sider>
@@ -48,6 +48,8 @@
   const collapsed = ref<boolean>(false);
   const faucetStore = useFaucetStore();
   const router = useRouter();
+  //反转数组
+  data.data.reverse();
 
   function go(){
     router.push(`/shares/${faucetStore.$state.data.id}`);
@@ -72,6 +74,16 @@
 }
 .main-view .ant-layout-header{
   padding: 0 16px;
+}
+.main-view .ant-layout-sider-children{
+  position: absolute;
+  overflow: scroll;
+  padding-bottom: 180px;
+}
+.main-view .code{
+  font-size: 12px; 
+  padding-left: 8px;
+  float: right;
 }
 .active .ant-descriptions-item-label,
 .active .ant-descriptions-item-content{
