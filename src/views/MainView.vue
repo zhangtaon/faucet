@@ -6,6 +6,7 @@
         <a-menu-item v-for="item in data.data" :key="item.id" @click="faucetStore.setFaucetStore(item),go()">
           <pie-chart-outlined />
           <span>{{item.name}}</span>
+          <span style="float: right;font-size: 12px; padding-right: 15px;">({{item.id}})</span>
         </a-menu-item>
       </a-menu>
     </a-layout-sider>
