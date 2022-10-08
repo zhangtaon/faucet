@@ -6,6 +6,7 @@
         <a-menu-item v-for="item in data.data" :key="item.id" @click="faucetStore.setFaucetStore(item),go()">
           <pie-chart-outlined />
           <span>{{item.name}}</span>
+          <span>{{item.count}}</span>
           <span class="code">({{item.id}})</span>
         </a-menu-item>
       </a-menu>
@@ -82,7 +83,7 @@
 }
 .main-view .code{
   font-size: 12px; 
-  padding-left: 8px;
+  padding-left: 3px;
   float: right;
 }
 .active .ant-descriptions-item-label,
