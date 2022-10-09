@@ -1,5 +1,6 @@
 import { createRouter, createWebHistory } from "vue-router";
 import SharesView from "../views/SharesView.vue";
+import ListView from "../views/ListView.vue";
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -21,6 +22,11 @@ const router = createRouter({
       path: "/shares/:id",
       name: "shares",
       component: SharesView,
+    },
+    {
+      path: "/list",
+      name: "list",
+      component: ListView,
     },
   ],
 });

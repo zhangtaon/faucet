@@ -3,17 +3,28 @@
     <a-layout-sider v-model:collapsed="collapsed" collapsible>
       <div class="logo" />
       <a-menu v-model:selectedKeys="selectedKeys" theme="dark" mode="inline">
-        <a-menu-item v-for="item in data.data" :key="item.id" @click="faucetStore.setFaucetStore(item),go()">
-          <pie-chart-outlined />
-          <span>{{item.name}}</span>
-          <span>{{item.count}}</span>
-          <span class="code">({{item.id}})</span>
+        <a-sub-menu key="sub1">
+          <template #title>
+            <span>
+              <pie-chart-outlined />
+              <span>个股</span>
+            </span>
+          </template>
+          <a-menu-item v-for="item in data.data" :key="item.id" @click="faucetStore.setFaucetStore(item),go()">
+            <span>{{item.name}}</span>
+            <span>{{item.count}}</span>
+            <span class="code">({{item.id}})</span>
+          </a-menu-item>
+        </a-sub-menu>
+        <a-menu-item key="list" @click="()=>{router.push('/list')}">
+          <desktop-outlined />
+          <span>列表</span>
         </a-menu-item>
       </a-menu>
     </a-layout-sider>
     <a-layout>
       <a-layout-header style="background: #fff; padding: 5 16px">
-        <a-descriptions :title="faucetStore.$state.data.name"  :column="9">
+        <a-descriptions :title="faucetStore.$state.data.name"  :column="9" v-if="router.currentRoute.value.name == 'shares'">
           <a-descriptions-item label="日期" style="width:150px">{{faucetStore.$state.data.list[faucetStore.$state.currentIndex].date}}</a-descriptions-item>
           <a-descriptions-item :class="{'active':!faucetStore.$state.currentIndex}" label="封单量(股)" style="width:170px">{{faucetStore.$state.data.list[faucetStore.$state.currentIndex].seals}}</a-descriptions-item>
           <a-descriptions-item :class="{'active':!faucetStore.$state.currentIndex}" label="封单额(元)" style="width:180px">{{faucetStore.$state.data.list[faucetStore.$state.currentIndex].sealsAmount}}</a-descriptions-item>
@@ -24,6 +35,9 @@
           <a-descriptions-item :class="{'active':faucetStore.$state.currentIndex}" label="封环比(%)">{{faucetStore.$state.data.list[faucetStore.$state.currentIndex].sealsChain}}</a-descriptions-item>
           <a-descriptions-item :class="{'active':faucetStore.$state.currentIndex}" label="成环比(%)">{{faucetStore.$state.data.list[faucetStore.$state.currentIndex].volChain}}</a-descriptions-item>
         </a-descriptions>
+        <div v-if="router.currentRoute.value.name =='list'">
+          列表数据
+        </div>
       </a-layout-header>
       <a-layout-content style="margin: 0 16px">
         <RouterView />
@@ -41,7 +55,7 @@
    * date: 2022年10月3日
    */
   import { useRouter } from 'vue-router'
-  import { PieChartOutlined } from '@ant-design/icons-vue';
+  import { PieChartOutlined, DesktopOutlined } from '@ant-design/icons-vue';
   import { ref } from "vue";
   import data from "../data.json"; 
   import { useFaucetStore } from "../stores/faucetStore"; 
@@ -80,6 +94,7 @@
   position: absolute;
   overflow: scroll;
   padding-bottom: 180px;
+  width: 100%;
 }
 .main-view .code{
   font-size: 12px; 
