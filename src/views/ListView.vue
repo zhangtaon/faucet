@@ -58,7 +58,7 @@
     dataIndex: 'date'
   },
   {
-    title: '封单量',
+    title: '封单量(股)',
     dataIndex: 'seals',
     sorter: {
       compare: (a: faucetItem, b: faucetItem) => numberOf( a.seals ) - numberOf( b.seals ),
@@ -66,11 +66,11 @@
     }
   },
   {
-    title: '封单额',
+    title: '封单额(元)',
     dataIndex: 'sealsAmount'
   },
   {
-    title: '封成比',
+    title: '封成比(%)',
     dataIndex: 'sealsVol'
   },
   {
@@ -86,7 +86,7 @@
     }
   },
   {
-    title: '竞环比',
+    title: '竞环比(%)',
     dataIndex: 'biddingChain',
     sorter: {
       compare: (a: faucetItem, b: faucetItem) => numberOf(a.biddingChain) - numberOf(b.biddingChain),
@@ -94,7 +94,7 @@
     }
   },
   {
-    title: '封环比',
+    title: '封环比(%)',
     dataIndex: 'sealsChain',
     sorter: {
       compare: (a: faucetItem, b: faucetItem) => numberOf(a.sealsChain) - numberOf(b.sealsChain),
@@ -102,7 +102,7 @@
     }
   },
   {
-    title: '成环比',
+    title: '成环比(%)',
     dataIndex: 'volChain',
     sorter: {
       compare: (a: faucetItem, b: faucetItem) => numberOf(a.volChain) - numberOf(b.volChain),

@@ -32,12 +32,12 @@
   .shares-item img{
     width: 100%;
   }
-  .shares-item >>> .ant-descriptions-row > th, 
-  .shares-item >>> .ant-descriptions-row > td {
+  .shares-item :deep() .ant-descriptions-row > th, 
+  .shares-item :deep() .ant-descriptions-row > td {
     padding-bottom: 10px;
   }
-  .shares-item >>> .active .ant-descriptions-item-label,
-  .shares-item >>> .active .ant-descriptions-item-content{
+  .shares-item :deep() .active .ant-descriptions-item-label,
+  .shares-item :deep() .active .ant-descriptions-item-content{
     color: red;
     font-weight: bold;
   }

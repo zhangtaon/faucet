@@ -24,11 +24,7 @@
     </a-layout-sider>
     <a-layout>
       <a-layout-content style="margin: 0 16px">
-        <router-view v-slot="{ Component, route }">
-          <transition name="fade">
-            <component :is="Component" :key="route.path" />
-          </transition>
-        </router-view>
+        <router-view/>
       </a-layout-content>
       <a-layout-footer style="text-align: center">
         龙头主升启动案例 ©2022 Created by zto

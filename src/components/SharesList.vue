@@ -20,15 +20,15 @@
       dataIndex: 'date'
     },
     {
-      title: '封单量',
+      title: '封单量(股)',
       dataIndex: 'seals'
     },
     {
-      title: '封单额',
+      title: '封单额(元)',
       dataIndex: 'sealsAmount'
     },
     {
-      title: '封成比',
+      title: '封成比(%)',
       dataIndex: 'sealsVol'
     },
     {
@@ -36,25 +36,25 @@
       dataIndex: 'discharge'
     },
     {
-      title: '竞价',
+      title: '竞价(%)',
       dataIndex: 'bidding'
     },
     {
-      title: '竞环比',
+      title: '竞环比(%)',
       dataIndex: 'biddingChain'
     },
     {
-      title: '封环比',
+      title: '封环比(%)',
       dataIndex: 'sealsChain'
     },
     {
-      title: '成环比',
+      title: '成环比(%)',
       dataIndex: 'volChain'
     }
   ];
 </script>
 <style scoped>
-   .shares-list >>> .ant-table-wrapper{
+   .shares-list :deep() .ant-table-wrapper{
     margin-top: 20px;
   }
 </style>
