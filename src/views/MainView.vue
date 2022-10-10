@@ -7,7 +7,7 @@
           <template #title>
             <span>
               <pie-chart-outlined />
-              <span>个股</span>
+              <span>股票列表</span>
             </span>
           </template>
           <a-menu-item v-for="item in data.data" :key="item.id" @click="faucetStore.setFaucetStore(item),go()">
@@ -18,29 +18,17 @@
         </a-sub-menu>
         <a-menu-item key="list" @click="()=>{router.push('/list')}">
           <desktop-outlined />
-          <span>列表</span>
+          <span>数据分析</span>
         </a-menu-item>
       </a-menu>
     </a-layout-sider>
     <a-layout>
-      <a-layout-header style="background: #fff; padding: 5 16px">
-        <a-descriptions :title="faucetStore.$state.data.name"  :column="9" v-if="router.currentRoute.value.name == 'shares'">
-          <a-descriptions-item label="日期" style="width:150px">{{faucetStore.$state.data.list[faucetStore.$state.currentIndex].date}}</a-descriptions-item>
-          <a-descriptions-item :class="{'active':!faucetStore.$state.currentIndex}" label="封单量(股)" style="width:170px">{{faucetStore.$state.data.list[faucetStore.$state.currentIndex].seals}}</a-descriptions-item>
-          <a-descriptions-item :class="{'active':!faucetStore.$state.currentIndex}" label="封单额(元)" style="width:180px">{{faucetStore.$state.data.list[faucetStore.$state.currentIndex].sealsAmount}}</a-descriptions-item>
-          <a-descriptions-item :class="{'active':!faucetStore.$state.currentIndex}" label="封成比(%)" style="width:150px">{{faucetStore.$state.data.list[faucetStore.$state.currentIndex].sealsVol}}</a-descriptions-item>
-          <a-descriptions-item :class="{'active':!faucetStore.$state.currentIndex}" label="放量" style="width:126px">{{faucetStore.$state.data.list[faucetStore.$state.currentIndex].discharge}}</a-descriptions-item>
-          <a-descriptions-item :class="{'active':faucetStore.$state.currentIndex}" label="竞价(%)" style="width:130px">{{faucetStore.$state.data.list[faucetStore.$state.currentIndex].bidding}}</a-descriptions-item>
-          <a-descriptions-item :class="{'active':faucetStore.$state.currentIndex}" label="竞环比(%)">{{faucetStore.$state.data.list[faucetStore.$state.currentIndex].biddingChain}}</a-descriptions-item>
-          <a-descriptions-item :class="{'active':faucetStore.$state.currentIndex}" label="封环比(%)">{{faucetStore.$state.data.list[faucetStore.$state.currentIndex].sealsChain}}</a-descriptions-item>
-          <a-descriptions-item :class="{'active':faucetStore.$state.currentIndex}" label="成环比(%)">{{faucetStore.$state.data.list[faucetStore.$state.currentIndex].volChain}}</a-descriptions-item>
-        </a-descriptions>
-        <div v-if="router.currentRoute.value.name =='list'">
-          列表数据
-        </div>
-      </a-layout-header>
       <a-layout-content style="margin: 0 16px">
-        <RouterView />
+        <router-view v-slot="{ Component, route }">
+          <transition name="fade">
+            <component :is="Component" :key="route.path" />
+          </transition>
+        </router-view>
       </a-layout-content>
       <a-layout-footer style="text-align: center">
         龙头主升启动案例 ©2022 Created by zto
@@ -63,6 +51,7 @@
   const collapsed = ref<boolean>(false);
   const faucetStore = useFaucetStore();
   const router = useRouter();
+
   //反转数组
   data.data.reverse();
 
@@ -84,12 +73,6 @@
   background: #141414;
 }
 
-.main-view .ant-descriptions-header{
-  margin: 8px 0 0px;
-}
-.main-view .ant-layout-header{
-  padding: 0 16px;
-}
 .main-view .ant-layout-sider-children{
   position: absolute;
   overflow: scroll;
@@ -100,10 +83,5 @@
   font-size: 12px; 
   padding-left: 3px;
   float: right;
-}
-.active .ant-descriptions-item-label,
-.active .ant-descriptions-item-content{
-  color: red;
-  font-weight: bold;
 }
 </style>

@@ -19,7 +19,7 @@ const router = createRouter({
     //   component: () => import("../views/AboutView.vue"),
     // },
     {
-      path: "/shares/:id",
+      path: "/shares/:id/:checked?",
       name: "shares",
       component: SharesView,
     },

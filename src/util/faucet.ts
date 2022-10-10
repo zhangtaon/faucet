@@ -1,5 +1,6 @@
 import data from "../data.json";
 export interface faucetItem {
+    pid: string,
     date: string,
     seals: string,
     sealsAmount: string,
@@ -18,10 +19,6 @@ export interface faucet {
     list: faucetItem[];
 }
 
-// const innerData = ref<faucet[]>();
-// innerData.value = data.data;
-// console.log("innerData......aaaa:",innerData.value);
-
 //获取图片地址
 export const getImageUrl = (name: string) => {
     // return new URL(`../assets/image/${name}.png`, import.meta.url).href
@@ -35,7 +32,8 @@ export const numberOf = (numberStr: string) => {
     const separate = numberStr.indexOf(",");
     const unit = numberStr.indexOf("万");
 
-    let n;
+    let n: number = 0;
+
     // 3,896.02万
     if (separate != -1 && unit != -1) {
         n = Number(numberStr.substring(0, separate)) * 10000000 + Number(numberStr.substring(separate + 1, unit)) * 10000
@@ -55,16 +53,19 @@ export const numberOf = (numberStr: string) => {
 
     return n;
 }
-
 //指定几板数据
 export const getFaucetItemByIndex = (index: number) => {
     const list: (faucetItem | undefined)[] = [];
     data.data.forEach((item) => {
-        if(index != -1){
+        if (index != -1) {
             list.push(item.list[index]);
-        }else{
-            list.push(item.list.find((innerItem)=>innerItem.seals==""));
+        } else {
+            list.push(item.list.find((innerItem) => innerItem.seals == ""));
         }
     })
     return list;
+}
+//获取股票
+export const getFaucetById = (id: string) => {
+    return data.data.find((item) => item.id == id);
 }
