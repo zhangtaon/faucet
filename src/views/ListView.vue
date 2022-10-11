@@ -78,7 +78,7 @@
     dataIndex: 'discharge'
   },
   {
-    title: '竞价',
+    title: '竞价(%)',
     dataIndex: 'bidding',
     sorter: {
       compare: (a: faucetItem, b: faucetItem) => numberOf(a.bidding) - numberOf(b.bidding),

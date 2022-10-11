@@ -20,6 +20,10 @@
           <desktop-outlined />
           <span>数据分析</span>
         </a-menu-item>
+        <a-menu-item key="chart" @click="()=>{router.push('/chart')}">
+          <desktop-outlined />
+          <span>图表展示</span>
+        </a-menu-item>
       </a-menu>
     </a-layout-sider>
     <a-layout>
