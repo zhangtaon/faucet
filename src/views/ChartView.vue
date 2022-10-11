@@ -38,7 +38,7 @@
   // 图标相关
   type EChartsOption = echarts.EChartsOption;
   let myChart1,myChart2,chartData1,chartData2,option1: EChartsOption,option2: EChartsOption;
-
+  const colors = ['#5470C6','#EE6666','#91CC75'];
   // 声明一个 ref 来存放该元素的引用
   // 必须和模板里的 ref 同名
   const chartDom1 = ref(null);
@@ -57,19 +57,62 @@
         text: '2板竞价量增长率<1w'
       },
       tooltip: {
-        trigger: 'axis'
+        trigger: 'axis',
+        axisPointer: {
+          type: 'cross'
+        }
+      },
+      legend: {
+        data: ['竞价量增长率', '空间高度']
       },
       xAxis: {
         type: 'category',
         data: chartData1.date
       },
-      yAxis: {
-        type: 'value'
-      },
+      yAxis:[
+        {
+          type: 'value',
+          name: '竞价量增长率',
+          position: 'left',
+          alignTicks: true,
+          axisLine: {
+            show: true,
+            lineStyle: {
+              color: colors[0]
+            }
+          },
+          axisLabel: {
+            formatter: '{value} %'
+          }
+        },
+        {
+          type: 'value',
+          name: '空间高度',
+          position: 'right',
+          alignTicks: true,
+          axisLine: {
+            show: true,
+            lineStyle: {
+              color: colors[1]
+            }
+          },
+          axisLabel: {
+            formatter: '{value} 板'
+          }
+        }
+      ],
       series: [
         {
+          name:"竞价量增长率",
           data: chartData1.biddingChain,
-          type: 'line'
+          type: 'line',
+          smooth: true,
+        },
+        {
+          name: '空间高度',
+          type: 'bar',
+          data: chartData1.count,
+          yAxisIndex: 1
         }
       ]
     };

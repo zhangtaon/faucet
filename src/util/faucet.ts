@@ -73,7 +73,7 @@ export const getFaucetById = (id: string) => {
 //获取图标数据
 export const getChartData = (index: number, num: number, pass: boolean) => {
     // console.log("index:",index,typeof index)
-    const chartData = { date: <any>[], biddingChain: <any>[] };
+    const chartData = { date: <any>[], biddingChain: <any>[], count: <any>[] };
     data.data.forEach((item) => {
         let biddingChain;
         let date;
@@ -94,6 +94,7 @@ export const getChartData = (index: number, num: number, pass: boolean) => {
             if(biddingChain<num){
                 chartData.date.push(date);
                 chartData.biddingChain.push(biddingChain);
+                chartData.count.push(item.count);
             }
         }
     })
