@@ -8,6 +8,7 @@
             "id":"603518",
             "name":"锦泓集团",
             "count":11,
+            "yearLine":true,
             "list":[
                 {
                     "pid":"603518",
@@ -119,6 +120,7 @@
             "id":"600860",
             "name":"京城股份",
             "count":7,
+            "yearLine":false,
             "list":[
                 {
                     "pid":"600860",
@@ -282,6 +284,7 @@
             "id":"002374",
             "name":"中锐股份",
             "count":5,
+            "yearLine":false,
             "list":[
                 {
                     "pid":"002374",
@@ -497,6 +500,7 @@
             "id":"002725",
             "name":"跃岭股份",
             "count":7,
+            "yearLine":true,
             "list":[
                 {
                     "pid":"002725",
@@ -595,6 +599,7 @@
             "id":"000665",
             "name":"湖北广电",
             "count":7,
+            "yearLine":true,
             "list":[
                 {
                     "pid":"000665",
@@ -693,6 +698,7 @@
             "id":"601700",
             "name":"风范股份",
             "count":6,
+            "yearLine":false,
             "list":[
                 {
                     "pid":"601700",
@@ -791,6 +797,7 @@
             "id":"002750",
             "name":"龙津药业",
             "count":10,
+            "yearLine":true,
             "list":[
                 {
                     "pid":"002750",
@@ -928,6 +935,7 @@
             "id":"002349",
             "name":"精华制药",
             "count":8,
+            "yearLine":false,
             "list":[
                 {
                     "pid":"002349",
@@ -1026,6 +1034,7 @@
             "id":"002530",
             "name":"金财互联",
             "count":7,
+            "yearLine":false,
             "list":[
                 {
                     "pid":"002530",
@@ -1124,6 +1133,7 @@
             "id":"002037",
             "name":"保利联合",
             "count":8,
+            "yearLine":false,
             "list":[
                 {
                     "pid":"002037",
@@ -1196,6 +1206,7 @@
             "id":"002104",
             "name":"恒宝股份",
             "count":6,
+            "yearLine":false,
             "list":[
                 {
                     "pid":"002104",
@@ -1281,6 +1292,7 @@
             "id":"002761",
             "name":"浙江建投",
             "count":10,
+            "yearLine":false,
             "list":[
                 {
                     "pid":"002761",
@@ -1457,6 +1469,7 @@
             "id":"600056",
             "name":"中国医药",
             "count":4,
+            "yearLine":true,
             "list":[
                 {
                     "pid":"600056",
@@ -1633,6 +1646,7 @@
             "id":"002613",
             "name":"北玻股份",
             "count":9,
+            "yearLine":false,
             "list":[
                 {
                     "pid":"002613",
@@ -1744,6 +1758,7 @@
             "id":"000965",
             "name":"天保基建",
             "count":9,
+            "yearLine":false,
             "list":[
                 {
                     "pid":"000965",
@@ -1881,6 +1896,7 @@
             "id":"000736",
             "name":"中交地产",
             "count":7,
+            "yearLine":false,
             "list":[
                 {
                     "pid":"000736",
@@ -2031,6 +2047,7 @@
             "id":"002596",
             "name":"海南瑞泽",
             "count":6,
+            "yearLine":false,
             "list":[
                 {
                     "pid":"002596",
@@ -2129,6 +2146,7 @@
             "id":"002205",
             "name":"国统股份",
             "count":6,
+            "yearLine":false,
             "list":[
                 {
                     "pid":"002205",
@@ -2240,6 +2258,7 @@
             "id":"002251",
             "name":"步步高",
             "count":5,
+            "yearLine":true,
             "list":[
                 {
                     "pid":"002251",
@@ -2377,6 +2396,7 @@
             "id":"603696",
             "name":"安记食品",
             "count":5,
+            "yearLine":true,
             "list":[
                 {
                     "pid":"603696",
@@ -2462,6 +2482,7 @@
             "id":"000722",
             "name":"湖南发展",
             "count":7,
+            "yearLine":false,
             "list":[
                 {
                     "pid":"000722",
@@ -2638,6 +2659,7 @@
             "id":"002883",
             "name":"中设股份",
             "count":6,
+            "yearLine":true,
             "list":[
                 {
                     "pid":"002883",
@@ -2749,6 +2771,7 @@
             "id":"000957",
             "name":"中通客车",
             "count":13,
+            "yearLine":false,
             "list":[
                 {
                     "pid":"000957",
@@ -2912,6 +2935,7 @@
             "id":"000595",
             "name":"宝塔实业",
             "count":8,
+            "yearLine":false,
             "list":[
                 {
                     "pid":"000595",
@@ -2984,6 +3008,7 @@
             "id":"600283",
             "name":"钱江水利",
             "count":5,
+            "yearLine":false,
             "list":[
                 {
                     "pid":"600283",
@@ -3069,6 +3094,7 @@
             "id":"002909",
             "name":"集泰股份",
             "count":11,
+            "yearLine":true,
             "list":[
                 {
                     "pid":"002909",
@@ -3232,6 +3258,7 @@
             "id":"002031",
             "name":"巨轮智能",
             "count":7,
+            "yearLine":true,
             "list":[
                 {
                     "pid":"002031",
@@ -3330,6 +3357,7 @@
             "id":"000899",
             "name":"赣能股份",
             "count":9,
+            "yearLine":false,
             "list":[
                 {
                     "pid":"000899",
@@ -3464,9 +3492,169 @@
             ]
         },
         {
+            "id":"000755",
+            "name":"山西路桥",
+            "count":7,
+            "yearLine":false,
+            "list":[
+                {
+                    "pid":"000755",
+                    "date":"2022-07-06",
+                    "seals":"3,494.91万",
+                    "sealsAmount":"1.57亿",
+                    "sealsVol":"113.95",
+                    "discharge":"2.23",
+                    "bidding":"1.23",
+                    "biddingChain":"",
+                    "sealsChain":"",
+                    "volChain":"",
+                    "url":"sxlq-0"
+                },
+                {
+                    "pid":"000755",
+                    "date":"2022-07-07",
+                    "seals":"419.78万",
+                    "sealsAmount":"2,069.54万",
+                    "sealsVol":"6.10",
+                    "discharge":"",
+                    "bidding":"-87.99",
+                    "biddingChain":"4,486.35",
+                    "sealsChain":"-87.26",
+                    "volChain":"124.23",
+                    "url":"sxlq-1"
+                },
+                {
+                    "pid":"000755",
+                    "date":"2022-07-08",
+                    "seals":"937.86万",
+                    "sealsAmount":"5,083.20万",
+                    "sealsVol":"18.52",
+                    "discharge":"",
+                    "bidding":"3.45",
+                    "biddingChain":"45.62",
+                    "sealsChain":"123.41",
+                    "volChain":"-26.37",
+                    "url":"sxlq-2"
+                },
+                {
+                    "pid":"000755",
+                    "date":"2022-07-14",
+                    "seals":"294.94万",
+                    "sealsAmount":"2,341.80万",
+                    "sealsVol":"1.74",
+                    "discharge":"",
+                    "bidding":"7.06",
+                    "biddingChain":"3,212.36",
+                    "sealsChain":"-96.18",
+                    "volChain":"1,955.57",
+                    "url":"sxlq-3"
+                },
+                {
+                    "pid":"000755",
+                    "date":"2022-07-15",
+                    "seals":"",
+                    "sealsAmount":"",
+                    "sealsVol":"",
+                    "discharge":"",
+                    "bidding":"-9.07",
+                    "biddingChain":"-68.33",
+                    "sealsChain":"",
+                    "volChain":"",
+                    "url":"sxlq-4"
+                },
+                {
+                    "pid":"000755",
+                    "date":"2022-08-01",
+                    "seals":"",
+                    "sealsAmount":"",
+                    "sealsVol":"",
+                    "discharge":"",
+                    "bidding":"",
+                    "biddingChain":"",
+                    "sealsChain":"",
+                    "volChain":"",
+                    "url":"sxlq-5"
+                }
+            ]
+        },
+        {
+            "id":"002593",
+            "name":"日上股份",
+            "count":5,
+            "yearLine":true,
+            "list":[
+                {
+                    "pid":"002593",
+                    "date":"2022-07-26",
+                    "seals":"838.54万",
+                    "sealsAmount":"3,303.87万",
+                    "sealsVol":"15.78",
+                    "discharge":"3.63",
+                    "bidding":"-0.28",
+                    "biddingChain":"",
+                    "sealsChain":"",
+                    "volChain":"",
+                    "url":"rsjt-0"
+                },
+                {
+                    "pid":"002593",
+                    "date":"2022-07-27",
+                    "seals":"1,072.11万",
+                    "sealsAmount":"4,642.24万",
+                    "sealsVol":"20.09",
+                    "discharge":"",
+                    "bidding":"9.90",
+                    "biddingChain":"3.24万",
+                    "sealsChain":"27.85",
+                    "volChain":"0.41",
+                    "url":"rsjt-1"
+                },
+                {
+                    "pid":"002593",
+                    "date":"2022-07-28",
+                    "seals":"2,084.18万",
+                    "sealsAmount":"9,920.69万",
+                    "sealsVol":"31.00",
+                    "discharge":"",
+                    "bidding":"9.93",
+                    "biddingChain":"143.05",
+                    "sealsChain":"94.40",
+                    "volChain":"26.02",
+                    "url":"rsjt-2"
+                },
+                {
+                    "pid":"002593",
+                    "date":"2022-08-01",
+                    "seals":"1,696.38万",
+                    "sealsAmount":"9,771.17万",
+                    "sealsVol":"15.45",
+                    "discharge":"",
+                    "bidding":"9.92",
+                    "biddingChain":"-11.72",
+                    "sealsChain":"-49.00",
+                    "volChain":"1,306.18",
+                    "url":"rsjt-3"
+                },
+                {
+                    "pid":"002593",
+                    "date":"2022-08-02",
+                    "seals":"",
+                    "sealsAmount":"",
+                    "sealsVol":"",
+                    "discharge":"",
+                    "bidding":"-1.04",
+                    "biddingChain":"261.43",
+                    "sealsChain":"",
+                    "volChain":"",
+                    "url":"rsjt-4"
+                }
+            ]
+        },
+        {
             "id":"002800",
             "name":"天顺股份",
             "count":7,
+            "yearLine":false,
             "list":[
                 {
                     "pid":"002800",
@@ -3552,6 +3740,7 @@
             "id":"000759",
             "name":"中百集团",
             "count":4,
+            "yearLine":false,
             "list":[
                 {
                     "pid":"000759",
@@ -3643,6 +3832,191 @@
                     "sealsChain":"",
                     "volChain":"",
                     "url":"zbjt-6"
+                }
+            ]
+        },
+        {
+            "id":"000620",
+            "name":"新华联",
+            "count":5,
+            "yearLine":true,
+            "list":[
+                {
+                    "pid":"000620",
+                    "date":"2022-09-14",
+                    "seals":"2,319.22万",
+                    "sealsAmount":"6,331.47万",
+                    "sealsVol":"39.69",
+                    "discharge":"0.25",
+                    "bidding":"0.00",
+                    "biddingChain":"",
+                    "sealsChain":"",
+                    "volChain":"",
+                    "url":"xhl-0"
+                },
+                {
+                    "pid":"000620",
+                    "date":"2022-09-15",
+                    "seals":"2,757.11万",
+                    "sealsAmount":"8,271.33万",
+                    "sealsVol":"21.42",
+                    "discharge":"",
+                    "bidding":"3.30",
+                    "biddingChain":"283.55",
+                    "sealsChain":"18.88",
+                    "volChain":"120.27",
+                    "url":"xhl-1"
+                },
+                {
+                    "pid":"000620",
+                    "date":"2022-09-16",
+                    "seals":"1,086.21万",
+                    "sealsAmount":"3,584.48万",
+                    "sealsVol":"3.67",
+                    "discharge":"",
+                    "bidding":"10.00",
+                    "biddingChain":"104.10",
+                    "sealsChain":"-60.60",
+                    "volChain":"130.24",
+                    "url":"xhl-2"
+                },
+                {
+                    "pid":"000620",
+                    "date":"2022-09-19",
+                    "seals":"1,266.35万",
+                    "sealsAmount":"4,596.85万",
+                    "sealsVol":"4.15",
+                    "discharge":"",
+                    "bidding":"-0.61",
+                    "biddingChain":"10.45",
+                    "sealsChain":"16.58",
+                    "volChain":"3.05",
+                    "url":"xhl-3"
+                },
+                {
+                    "pid":"000620",
+                    "date":"2022-09-20",
+                    "seals":"2,103.22万",
+                    "sealsAmount":"8,391.84万",
+                    "sealsVol":"8.15",
+                    "discharge":"",
+                    "bidding":"4.13",
+                    "biddingChain":"15.77",
+                    "sealsChain":"66.09",
+                    "volChain":"-15.49",
+                    "url":"xhl-4"
+                },
+                {
+                    "pid":"000620",
+                    "date":"2022-09-21",
+                    "seals":"",
+                    "sealsAmount":"",
+                    "sealsVol":"",
+                    "discharge":"",
+                    "bidding":"-10.03",
+                    "biddingChain":"108.82",
+                    "sealsChain":"",
+                    "volChain":"",
+                    "url":"xhl-5"
+                },
+                {
+                    "pid":"000620",
+                    "date":"2022-09-29",
+                    "seals":"",
+                    "sealsAmount":"",
+                    "sealsVol":"",
+                    "discharge":"",
+                    "bidding":"",
+                    "biddingChain":"",
+                    "sealsChain":"",
+                    "volChain":"",
+                    "url":"xhl-6"
+                }
+            ]
+        },
+        {
+            "id":"002084",
+            "name":"海鸥住工",
+            "count":5,
+            "yearLine":true,
+            "list":[
+                {
+                    "pid":"002084",
+                    "date":"2022-09-26",
+                    "seals":"1,335.51万",
+                    "sealsAmount":"6,143.32万",
+                    "sealsVol":"41.53",
+                    "discharge":"0.98",
+                    "bidding":"-1.44",
+                    "biddingChain":"",
+                    "sealsChain":"",
+                    "volChain":"",
+                    "url":"hozg-0"
+                },
+                {
+                    "pid":"002084",
+                    "date":"2022-09-27",
+                    "seals":"2,089.23万",
+                    "sealsAmount":"1.06亿",
+                    "sealsVol":"53.41",
+                    "discharge":"",
+                    "bidding":"9.13",
+                    "biddingChain":"1,503.44",
+                    "sealsChain":"56.44",
+                    "volChain":"21.64",
+                    "url":"hozg-1"
+                },
+                {
+                    "pid":"002084",
+                    "date":"2022-09-28",
+                    "seals":"2,382.69万",
+                    "sealsAmount":"1.33亿",
+                    "sealsVol":"32.34",
+                    "discharge":"",
+                    "bidding":"10.08",
+                    "biddingChain":"-57.45",
+                    "sealsChain":"14.05",
+                    "volChain":"88.34",
+                    "url":"hozg-2"
+                },
+                {
+                    "pid":"002084",
+                    "date":"2022-09-29",
+                    "seals":"1,269.05万",
+                    "sealsAmount":"7,779.30万",
+                    "sealsVol":"6.50",
+                    "discharge":"",
+                    "bidding":"5.57",
+                    "biddingChain":"484.45",
+                    "sealsChain":"-46.74",
+                    "volChain":"164.89",
+                    "url":"hozg-3"
+                },
+                {
+                    "pid":"002084",
+                    "date":"2022-09-30",
+                    "seals":"928.78万",
+                    "sealsAmount":"6,260.00万",
+                    "sealsVol":"4.22",
+                    "discharge":"",
+                    "bidding":"2.61",
+                    "biddingChain":"-52.71",
+                    "sealsChain":"-26.81",
+                    "volChain":"12.74",
+                    "url":"hozg-4"
+                },
+                {
+                    "pid":"002084",
+                    "date":"2022-10-10",
+                    "seals":"",
+                    "sealsAmount":"",
+                    "sealsVol":"",
+                    "discharge":"",
+                    "bidding":"-9.94",
+                    "biddingChain":"-1.55",
+                    "sealsChain":"",
+                    "volChain":"",
+                    "url":"hozg-5"
                 }
             ]
         }
