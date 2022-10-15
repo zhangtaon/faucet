@@ -2,7 +2,7 @@
   <div class="content">
     <div class="page-title">
       <a-switch v-model:checked="checked" checked-children="图片视图" un-checked-children="列表视图" />
-    <span>{{faucetStore.$state.data.name}}</span>
+    <span>{{faucetStore.$state.faucet.name}}</span>
     </div>
     <SharesItem v-if="checked"/>
     <SharesList v-else/>

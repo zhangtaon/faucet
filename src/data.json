@@ -8,7 +8,7 @@
             "id":"603518",
             "name":"锦泓集团",
             "count":11,
-            "yearLine":true,
+            "yearLine":1,
             "list":[
                 {
                     "pid":"603518",
@@ -120,7 +120,7 @@
             "id":"600860",
             "name":"京城股份",
             "count":7,
-            "yearLine":false,
+            "yearLine":2,
             "list":[
                 {
                     "pid":"600860",
@@ -284,7 +284,7 @@
             "id":"002374",
             "name":"中锐股份",
             "count":5,
-            "yearLine":false,
+            "yearLine":2,
             "list":[
                 {
                     "pid":"002374",
@@ -500,7 +500,7 @@
             "id":"002725",
             "name":"跃岭股份",
             "count":7,
-            "yearLine":true,
+            "yearLine":1,
             "list":[
                 {
                     "pid":"002725",
@@ -599,7 +599,7 @@
             "id":"000665",
             "name":"湖北广电",
             "count":7,
-            "yearLine":true,
+            "yearLine":1,
             "list":[
                 {
                     "pid":"000665",
@@ -698,7 +698,7 @@
             "id":"601700",
             "name":"风范股份",
             "count":6,
-            "yearLine":false,
+            "yearLine":2,
             "list":[
                 {
                     "pid":"601700",
@@ -797,7 +797,7 @@
             "id":"002750",
             "name":"龙津药业",
             "count":10,
-            "yearLine":true,
+            "yearLine":1,
             "list":[
                 {
                     "pid":"002750",
@@ -935,7 +935,7 @@
             "id":"002349",
             "name":"精华制药",
             "count":8,
-            "yearLine":false,
+            "yearLine":2,
             "list":[
                 {
                     "pid":"002349",
@@ -1034,7 +1034,7 @@
             "id":"002530",
             "name":"金财互联",
             "count":7,
-            "yearLine":false,
+            "yearLine":2,
             "list":[
                 {
                     "pid":"002530",
@@ -1133,7 +1133,7 @@
             "id":"002037",
             "name":"保利联合",
             "count":8,
-            "yearLine":false,
+            "yearLine":2,
             "list":[
                 {
                     "pid":"002037",
@@ -1206,7 +1206,7 @@
             "id":"002104",
             "name":"恒宝股份",
             "count":6,
-            "yearLine":false,
+            "yearLine":2,
             "list":[
                 {
                     "pid":"002104",
@@ -1292,7 +1292,7 @@
             "id":"002761",
             "name":"浙江建投",
             "count":10,
-            "yearLine":false,
+            "yearLine":2,
             "list":[
                 {
                     "pid":"002761",
@@ -1469,7 +1469,7 @@
             "id":"600056",
             "name":"中国医药",
             "count":4,
-            "yearLine":true,
+            "yearLine":1,
             "list":[
                 {
                     "pid":"600056",
@@ -1646,7 +1646,7 @@
             "id":"002613",
             "name":"北玻股份",
             "count":9,
-            "yearLine":false,
+            "yearLine":2,
             "list":[
                 {
                     "pid":"002613",
@@ -1758,7 +1758,7 @@
             "id":"000965",
             "name":"天保基建",
             "count":9,
-            "yearLine":false,
+            "yearLine":2,
             "list":[
                 {
                     "pid":"000965",
@@ -1896,7 +1896,7 @@
             "id":"000736",
             "name":"中交地产",
             "count":7,
-            "yearLine":false,
+            "yearLine":2,
             "list":[
                 {
                     "pid":"000736",
@@ -2047,7 +2047,7 @@
             "id":"002596",
             "name":"海南瑞泽",
             "count":6,
-            "yearLine":false,
+            "yearLine":2,
             "list":[
                 {
                     "pid":"002596",
@@ -2146,7 +2146,7 @@
             "id":"002205",
             "name":"国统股份",
             "count":6,
-            "yearLine":false,
+            "yearLine":2,
             "list":[
                 {
                     "pid":"002205",
@@ -2258,7 +2258,7 @@
             "id":"002251",
             "name":"步步高",
             "count":5,
-            "yearLine":true,
+            "yearLine":1,
             "list":[
                 {
                     "pid":"002251",
@@ -2396,7 +2396,7 @@
             "id":"603696",
             "name":"安记食品",
             "count":5,
-            "yearLine":true,
+            "yearLine":1,
             "list":[
                 {
                     "pid":"603696",
@@ -2482,7 +2482,7 @@
             "id":"000722",
             "name":"湖南发展",
             "count":7,
-            "yearLine":false,
+            "yearLine":2,
             "list":[
                 {
                     "pid":"000722",
@@ -2659,7 +2659,7 @@
             "id":"002883",
             "name":"中设股份",
             "count":6,
-            "yearLine":true,
+            "yearLine":1,
             "list":[
                 {
                     "pid":"002883",
@@ -2771,7 +2771,7 @@
             "id":"000957",
             "name":"中通客车",
             "count":13,
-            "yearLine":false,
+            "yearLine":2,
             "list":[
                 {
                     "pid":"000957",
@@ -2935,7 +2935,7 @@
             "id":"000595",
             "name":"宝塔实业",
             "count":8,
-            "yearLine":false,
+            "yearLine":2,
             "list":[
                 {
                     "pid":"000595",
@@ -3008,7 +3008,7 @@
             "id":"600283",
             "name":"钱江水利",
             "count":5,
-            "yearLine":false,
+            "yearLine":2,
             "list":[
                 {
                     "pid":"600283",
@@ -3094,7 +3094,7 @@
             "id":"002909",
             "name":"集泰股份",
             "count":11,
-            "yearLine":true,
+            "yearLine":1,
             "list":[
                 {
                     "pid":"002909",
@@ -3258,7 +3258,7 @@
             "id":"002031",
             "name":"巨轮智能",
             "count":7,
-            "yearLine":true,
+            "yearLine":1,
             "list":[
                 {
                     "pid":"002031",
@@ -3357,7 +3357,7 @@
             "id":"000899",
             "name":"赣能股份",
             "count":9,
-            "yearLine":false,
+            "yearLine":2,
             "list":[
                 {
                     "pid":"000899",
@@ -3495,7 +3495,7 @@
             "id":"000755",
             "name":"山西路桥",
             "count":7,
-            "yearLine":false,
+            "yearLine":2,
             "list":[
                 {
                     "pid":"000755",
@@ -3581,7 +3581,7 @@
             "id":"600192",
             "name":"长城电工",
             "count":4,
-            "yearLine":false,
+            "yearLine":2,
             "list":[
                 {
                     "pid":"600192",
@@ -3654,7 +3654,7 @@
             "id":"002591",
             "name":"恒大高新",
             "count":7,
-            "yearLine":true,
+            "yearLine":1,
             "list":[
                 {
                     "pid":"002591",
@@ -3779,7 +3779,7 @@
             "id":"002593",
             "name":"日上股份",
             "count":5,
-            "yearLine":true,
+            "yearLine":1,
             "list":[
                 {
                     "pid":"002593",
@@ -3852,7 +3852,7 @@
             "id":"002445",
             "name":"中南文化",
             "count":4,
-            "yearLine":true,
+            "yearLine":1,
             "list":[
                 {
                     "pid":"002445",
@@ -3925,7 +3925,7 @@
             "id":"000820",
             "name":"神雾节能",
             "count":5,
-            "yearLine":false,
+            "yearLine":2,
             "list":[
                 {
                     "pid":"000820",
@@ -4024,7 +4024,7 @@
             "id":"000593",
             "name":"德龙汇能",
             "count":6,
-            "yearLine":false,
+            "yearLine":2,
             "list":[
                 {
                     "pid":"000593",
@@ -4123,7 +4123,7 @@
             "id":"000892",
             "name":"欢瑞世纪",
             "count":5,
-            "yearLine":false,
+            "yearLine":2,
             "list":[
                 {
                     "pid":"000892",
@@ -4196,7 +4196,7 @@
             "id":"002800",
             "name":"天顺股份",
             "count":7,
-            "yearLine":false,
+            "yearLine":2,
             "list":[
                 {
                     "pid":"002800",
@@ -4282,7 +4282,7 @@
             "id":"000759",
             "name":"中百集团",
             "count":4,
-            "yearLine":false,
+            "yearLine":2,
             "list":[
                 {
                     "pid":"000759",
@@ -4381,7 +4381,7 @@
             "id":"000620",
             "name":"新华联",
             "count":5,
-            "yearLine":true,
+            "yearLine":1,
             "list":[
                 {
                     "pid":"000620",
@@ -4480,7 +4480,7 @@
             "id":"002084",
             "name":"海鸥住工",
             "count":5,
-            "yearLine":true,
+            "yearLine":1,
             "list":[
                 {
                     "pid":"002084",
@@ -4566,7 +4566,7 @@
             "id":"003005",
             "name":"竞业达",
             "count":4,
-            "yearLine":false,
+            "yearLine":2,
             "list":[
                 {
                     "pid":"003005",

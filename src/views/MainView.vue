@@ -2,6 +2,18 @@
   <a-layout class="main-view" style="min-height: 100vh">
     <a-layout-sider v-model:collapsed="collapsed" collapsible>
       <div class="logo" />
+      <a-select
+        ref="select"
+        v-model:value="faucetStore.$state.yearLine"
+        style="width: 170px;
+        margin: 13px auto 0;
+        display: block;"
+        @change="faucetStore.setMenuByYearLine"
+      >
+        <a-select-option :value="0">全部</a-select-option>
+        <a-select-option :value="1">穿年线</a-select-option>
+        <a-select-option :value="2">非穿年线</a-select-option>
+      </a-select>
       <a-menu v-model:selectedKeys="selectedKeys" theme="dark" mode="inline">
         <a-sub-menu key="sub1">
           <template #title>
@@ -10,7 +22,7 @@
               <span>股票列表</span>
             </span>
           </template>
-          <a-menu-item v-for="item in data.data" :key="item.id" @click="faucetStore.setFaucetStore(item),go()">
+          <a-menu-item v-for="item in faucetStore.$state.menu" :key="item.id" @click="faucetStore.setFaucet(item),go()">
             <span>{{item.name}}</span>
             <span>{{item.count}}</span>
             <span class="code">({{item.id}})</span>
@@ -45,18 +57,15 @@
   import { useRouter } from 'vue-router'
   import { PieChartOutlined, DesktopOutlined } from '@ant-design/icons-vue';
   import { ref } from "vue";
-  import data from "../data.json"; 
   import { useFaucetStore } from "../stores/faucetStore"; 
   const selectedKeys = ref<string[]>(['1']);
   const collapsed = ref<boolean>(false);
   const faucetStore = useFaucetStore();
   const router = useRouter();
-
-  //反转数组
-  data.data.reverse();
+  const yearLine = ref<Number>(0);
 
   function go(){
-    router.push(`/shares/${faucetStore.$state.data.id}`);
+    router.push(`/shares/${faucetStore.$state.faucet.id}`);
   }
 </script>
 <style>

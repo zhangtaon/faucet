@@ -18,10 +18,12 @@
    */
   import { ref, onMounted } from 'vue'
   import * as echarts from 'echarts';
-  import { getChartData } from "../util/faucet";
+  import { useFaucetStore } from "../stores/faucetStore"; 
+
+  const faucetStore = useFaucetStore();
 
   // 单选按钮
-  const radioVal = ref<string>("1");
+  const radioVal = ref<Number>(1);
   const radioChange=(event: Event)=>{
     // chartData1 = getChartData(Number((event.target as HTMLInputElement).value), 10000,false);
     // chartData2 = getChartData(Number((event.target as HTMLInputElement).value), 10000,true);
@@ -44,13 +46,24 @@
   const chartDom1 = ref(null);
   const chartDom2 = ref(null);
 
+  faucetStore.$subscribe(() => {
+    // chartData1 = faucetStore.getChartData(radioVal.value, 10000,false);
+    // chartData2 = faucetStore.getChartData(radioVal.value, 10000, true);
+    // option1.xAxis.data = chartData1.date;
+    // option1.series[0].data = chartData1.biddingChain;
+    // option2.xAxis.data = chartData2.date;
+    // option2.series[0].data = chartData2.biddingChain;
+    // option1 && myChart1.setOption(option1);
+    // option2 && myChart2.setOption(option2);
+  });
+
   onMounted(() => {
     
     myChart1 = echarts.init((chartDom1 as any).value);
-    chartData1 = getChartData(Number(radioVal.value), 10000,false);
+    chartData1 = faucetStore.getChartData(Number(radioVal.value), 10000,false);
 
     myChart2 = echarts.init((chartDom2 as any).value);
-    chartData2 = getChartData(Number(radioVal.value), 10000, true);
+    chartData2 = faucetStore.getChartData(Number(radioVal.value), 10000, true);
 
     option1 = {
       title: {

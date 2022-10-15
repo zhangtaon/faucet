@@ -1,5 +1,3 @@
-import { number } from "vue-types";
-import data from "../data.json";
 export interface faucetItem {
     pid: string,
     date: string,
@@ -17,6 +15,8 @@ export interface faucetItem {
 export interface faucet {
     id: string;
     name: string;
+    count:number,
+    yearLine:number,
     list: faucetItem[];
 }
 
@@ -28,7 +28,8 @@ export const getImageUrl = (name: string) => {
     new Image().src = img.href;
     return img.href;
 }
-//获取图片地址
+
+//数字格式转换
 export const numberOf = (numberStr: string) => {
     const separate = numberStr.indexOf(",");
     const unit = numberStr.indexOf("万");
@@ -53,50 +54,4 @@ export const numberOf = (numberStr: string) => {
     }
 
     return n;
-}
-//指定几板数据
-export const getFaucetItemByIndex = (index: number) => {
-    const list: (faucetItem | undefined)[] = [];
-    data.data.forEach((item) => {
-        if (index != -1) {
-            list.push(item.list[index]);
-        } else {
-            list.push(item.list.find((innerItem) => innerItem.seals == ""));
-        }
-    })
-    return list;
-}
-//获取股票
-export const getFaucetById = (id: string) => {
-    return data.data.find((item) => item.id == id);
-}
-//获取图标数据
-export const getChartData = (index: number, num: number, pass: boolean) => {
-    // console.log("index:",index,typeof index)
-    const chartData = { date: <any>[], biddingChain: <any>[], count: <any>[] };
-    data.data.forEach((item) => {
-        let biddingChain;
-        let date;
-        if (index != -1) {
-            biddingChain = numberOf(item.list[index].biddingChain);
-            date = item.list[index].date;
-        } else {
-            let brokenItem = item.list.find((innerItem) => innerItem.seals == "");
-            biddingChain = numberOf(brokenItem!.biddingChain);
-            date = brokenItem!.date;
-        }
-        if(pass){
-            if(biddingChain>num){
-                chartData.date.push(date);
-                chartData.biddingChain.push(biddingChain);
-            }
-        }else{
-            if(biddingChain<num){
-                chartData.date.push(date);
-                chartData.biddingChain.push(biddingChain);
-                chartData.count.push(item.count);
-            }
-        }
-    })
-    return chartData;
 }

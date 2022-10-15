@@ -1,11 +1,11 @@
 <template>
   <div class="list">
     <a-radio-group v-model:value="radioVal" button-style="solid" @change="radioChange">
-      <a-radio-button value="0">一板</a-radio-button>
-      <a-radio-button value="1">二板</a-radio-button>
-      <a-radio-button value="2">三板</a-radio-button>
-      <a-radio-button value="3">四版</a-radio-button>
-      <a-radio-button value="-1">断板</a-radio-button>
+      <a-radio-button :value="0">一板</a-radio-button>
+      <a-radio-button :value="1">二板</a-radio-button>
+      <a-radio-button :value="2">三板</a-radio-button>
+      <a-radio-button :value="3">四版</a-radio-button>
+      <a-radio-button :value="-1">断板</a-radio-button>
     </a-radio-group>
     <a-table :columns="columns" :data-source="(list as any).value" :pagination="pagination" :customRow="customRow" :scroll="scroll"/>
   </div>
@@ -18,17 +18,19 @@
    */
   import { useRouter } from 'vue-router'
   import { ref, reactive } from 'vue';
-  import {numberOf, getFaucetItemByIndex, getFaucetById} from "../util/faucet"; 
+  import {numberOf} from "../util/faucet"; 
   import { useFaucetStore } from "../stores/faucetStore"; 
   import type { faucetItem, faucet } from "../util/faucet";
 
   const router = useRouter();
   const faucetStore = useFaucetStore();
-
+  faucetStore.$subscribe(() => {
+    radioChange();
+  });
   //单选按钮
-  const radioVal = ref<string>("1");
-  const radioChange=(event: Event)=>{
-    (list as any).value = getFaucetItemByIndex(Number((event.target as HTMLInputElement).value));
+  const radioVal = ref<number>(1);
+  const radioChange=()=>{
+    (list as any).value = faucetStore.getFaucetItemByIndex(radioVal.value);
   }
 
   // 列表相关**********************
@@ -43,14 +45,14 @@
   const customRow = (record: faucetItem) => {
     return {
       onClick: () => {
-        faucetStore.setFaucetStore((getFaucetById(record.pid) as faucet));
-        router.push(`/shares/${faucetStore.$state.data.id}/false`);
+        faucetStore.setFaucetById(record.pid);
+        router.push(`/shares/${faucetStore.$state.faucet.id}/false`);
       }       // 点击行
     };
   };
   // 列表数据
   let list: (faucetItem | undefined)[] = reactive([]);
-  (list as any).value = getFaucetItemByIndex(Number(radioVal.value));
+  (list as any).value = faucetStore.getFaucetItemByIndex(radioVal.value);
   // 列表列配置
   const columns = [
   {

@@ -1,6 +1,6 @@
 <template>
   <div class="shares-list">
-    <a-table :columns="columns" :data-source="faucetStore.$state.data.list" :pagination="pagination"/>
+    <a-table :columns="columns" :data-source="faucetStore.$state.faucet.list" :pagination="pagination"/>
   </div>
 </template>
 <script setup lang="ts">
