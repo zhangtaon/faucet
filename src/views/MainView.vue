@@ -19,7 +19,7 @@
           <template #title>
             <span>
               <pie-chart-outlined />
-              <span>股票列表</span>
+              <span>股票列表（{{faucetStore.$state.menu.length}}）</span>
             </span>
           </template>
           <a-menu-item v-for="item in faucetStore.$state.menu" :key="item.id" @click="faucetStore.setFaucet(item),go()">
