@@ -131,25 +131,89 @@
     };
     option2 = {
       title: {
-        text: '2板竞价量增长率>1w'
+        text: '2板竞价量增长率<1w'
       },
       tooltip: {
-        trigger: 'axis'
+        trigger: 'axis',
+        axisPointer: {
+          type: 'cross'
+        }
+      },
+      legend: {
+        data: ['竞价量增长率', '空间高度']
       },
       xAxis: {
         type: 'category',
         data: chartData2.date
       },
-      yAxis: {
-        type: 'value'
-      },
+      yAxis:[
+        {
+          type: 'value',
+          name: '竞价量增长率',
+          position: 'left',
+          alignTicks: true,
+          axisLine: {
+            show: true,
+            lineStyle: {
+              color: colors[0]
+            }
+          },
+          axisLabel: {
+            formatter: '{value} %'
+          }
+        },
+        {
+          type: 'value',
+          name: '空间高度',
+          position: 'right',
+          alignTicks: true,
+          axisLine: {
+            show: true,
+            lineStyle: {
+              color: colors[1]
+            }
+          },
+          axisLabel: {
+            formatter: '{value} 板'
+          }
+        }
+      ],
       series: [
         {
+          name:"竞价量增长率",
           data: chartData2.biddingChain,
-          type: 'line'
+          type: 'line',
+          smooth: true,
+        },
+        {
+          name: '空间高度',
+          type: 'bar',
+          data: chartData2.count,
+          yAxisIndex: 1
         }
       ]
     };
+    // option2 = {
+    //   title: {
+    //     text: '2板竞价量增长率>1w'
+    //   },
+    //   tooltip: {
+    //     trigger: 'axis'
+    //   },
+    //   xAxis: {
+    //     type: 'category',
+    //     data: chartData2.date
+    //   },
+    //   yAxis: {
+    //     type: 'value'
+    //   },
+    //   series: [
+    //     {
+    //       data: chartData2.biddingChain,
+    //       type: 'line'
+    //     }
+    //   ]
+    // };
   
     option1 && myChart1.setOption(option1);
     option2 && myChart2.setOption(option2);

@@ -85,6 +85,7 @@ export const useFaucetStore = defineStore("faucet", {
               if(biddingChain>num){
                   chartData.date.push(date);
                   chartData.biddingChain.push(biddingChain);
+                  chartData.count.push(item.count);
               }
           }else{
               if(biddingChain<num){
