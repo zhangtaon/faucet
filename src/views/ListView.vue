@@ -7,7 +7,15 @@
       <a-radio-button :value="3">四版</a-radio-button>
       <a-radio-button :value="-1">断板</a-radio-button>
     </a-radio-group>
-    <a-table :columns="columns" :data-source="(list as any).value" :pagination="pagination" :customRow="customRow" :scroll="scroll"/>
+    <a-table :columns="columns" :data-source="(list as any).value" :pagination="pagination" :customRow="customRow" :scroll="scroll">
+      <template #bodyCell="{ column, record }">
+        <template v-if="column.key === 'biddingChain'">
+          <a-tooltip  :title=faucetStore.getAllBiddingChainById(record.pid) color="green" overlayStyle="max-width:600px">
+            <span>{{ record.biddingChain }}</span>
+          </a-tooltip>
+        </template>
+      </template>
+    </a-table>
   </div>
 </template>
 <script setup lang="ts">
@@ -77,7 +85,7 @@
   },
   {
     title: '放量',
-    dataIndex: 'discharge'
+    dataIndex: 'discharge',
   },
   {
     title: '竞价(%)',
@@ -93,7 +101,8 @@
     sorter: {
       compare: (a: faucetItem, b: faucetItem) => numberOf(a.biddingChain) - numberOf(b.biddingChain),
       multiple: 3,
-    }
+    },
+    key:"biddingChain"
   },
   {
     title: '封环比(%)',

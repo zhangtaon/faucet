@@ -38,8 +38,18 @@ export const useFaucetStore = defineStore("faucet", {
       this.faucet = { ...faucet };
       this.currentIndex = 0;
     },
+    // 设置当前浏览某支票
     setFaucetById(id: string){
       this.setFaucet(this.menu.find((item) => item.id == id) as faucet);
+    },
+    // 获取某支票所有的竞环比数据
+    getAllBiddingChainById(id: string){
+      const faucet = this.menu.find((item) => item.id == id) as faucet;
+      const biddingChains: string[] = [];
+      faucet.list.forEach((item) =>{
+        biddingChains.push(item.biddingChain)
+      })
+      return biddingChains.join(" ♍️ ");
     },
     // 设置菜单列表数据
     setMenuByYearLine(yearLine: number){
