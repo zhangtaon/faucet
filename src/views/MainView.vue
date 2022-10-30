@@ -2,18 +2,9 @@
   <a-layout class="main-view" style="min-height: 100vh">
     <a-layout-sider v-model:collapsed="collapsed" collapsible>
       <div class="logo" />
-      <a-select
-        ref="select"
-        v-model:value="faucetStore.$state.yearLine"
-        style="width: 170px;
-        margin: 13px auto 0;
-        display: block;"
-        @change="faucetStore.setMenuByYearLine"
-      >
-        <a-select-option :value="0">全部</a-select-option>
-        <a-select-option :value="1">穿年线</a-select-option>
-        <a-select-option :value="2">非穿年线</a-select-option>
-      </a-select>
+      <div>
+        <MenuConfigButton/>
+      </div>
       <a-menu v-model:selectedKeys="selectedKeys" theme="dark" mode="inline">
         <a-sub-menu key="sub1">
           <template #title>
@@ -57,6 +48,7 @@
   import { useRouter } from 'vue-router'
   import { PieChartOutlined, DesktopOutlined } from '@ant-design/icons-vue';
   import { ref } from "vue";
+  import MenuConfigButton from "../components/MenuConfigButton.vue"; 
   import { useFaucetStore } from "../stores/faucetStore"; 
   const selectedKeys = ref<string[]>(['1']);
   const collapsed = ref<boolean>(false);

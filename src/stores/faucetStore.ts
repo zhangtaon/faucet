@@ -8,10 +8,12 @@ import data from "../data.json";
 export const useFaucetStore = defineStore("faucet", {
   state: () => {
     return {
-      faucet:<faucet>{},
-      currentIndex:0,
-      yearLine:0,
-      menu: <faucet[]>data.data.reverse() 
+      faucet:<faucet>{},//当前浏览股票
+      currentIndex:0,//当前股票浏览到第几板
+      yearLine:0,//穿年线
+      count:0,//一次性连板数量
+      idFirstCharacter:'',//股票代码首字符(用于判断股票所属交易所)
+      menu: <faucet[]>data.data.reverse()
     };
   },
   actions: {
@@ -52,16 +54,24 @@ export const useFaucetStore = defineStore("faucet", {
       return biddingChains.join(" ♍️ ");
     },
     // 设置菜单列表数据
-    setMenuByYearLine(yearLine: number){
+    setMenu(){
       let menu: (faucet)[] = [];
-      if(yearLine){
-        data.data.forEach((faucet: faucet)=>{
-          if(faucet.yearLine == yearLine){
-            menu.push(faucet);
-          }
+      if(this.yearLine){
+        menu = data.data.filter((faucet: faucet)=>{
+          return faucet.yearLine == this.yearLine;
         })
       }else{
         menu = data.data;
+      }
+      if(this.count){
+        menu = menu.filter((faucet: faucet)=>{
+          return faucet.count == this.count;
+        })
+      }
+      if(this.idFirstCharacter){
+        menu = menu.filter((faucet: faucet)=>{
+          return faucet.id.indexOf(this.idFirstCharacter) == 0;
+        })
       }
       this.menu = menu;
     },
