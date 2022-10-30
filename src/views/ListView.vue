@@ -35,7 +35,9 @@
   const router = useRouter();
   const faucetStore = useFaucetStore();
   faucetStore.$subscribe((mutation) => {
+    console.log("mutation：",mutation);
     if((mutation as SubscriptionCallbackMutationDirect).events .key == 'menu'){
+      console.log("mutation if：",mutation);
       radioChange();
     }
   });
