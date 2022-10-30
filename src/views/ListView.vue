@@ -10,7 +10,7 @@
     <a-table :columns="columns" :data-source="(list as any).value" :pagination="pagination" :customRow="customRow" :scroll="scroll">
       <template #bodyCell="{ column, record }">
         <template v-if="column.key === 'biddingChain'">
-          <a-tooltip  :title=faucetStore.getAllBiddingChainById(record.pid) color="green" overlayStyle="max-width:600px">
+          <a-tooltip  :title=faucetStore.getAllBiddingChainById(record.pid) color="green" :overlayStyle="{maxWidth:'600px'}">
             <span>{{ record.biddingChain }}</span>
           </a-tooltip>
         </template>
@@ -29,11 +29,15 @@
   import {numberOf} from "../util/faucet"; 
   import { useFaucetStore } from "../stores/faucetStore"; 
   import type { faucetItem, faucet } from "../util/faucet";
+  import type { SubscriptionCallbackMutationDirect } from "pinia";
+
 
   const router = useRouter();
   const faucetStore = useFaucetStore();
-  faucetStore.$subscribe(() => {
-    radioChange();
+  faucetStore.$subscribe((mutation) => {
+    if((mutation as SubscriptionCallbackMutationDirect).events .key == 'menu'){
+      radioChange();
+    }
   });
   //单选按钮
   const radioVal = ref<number>(1);
