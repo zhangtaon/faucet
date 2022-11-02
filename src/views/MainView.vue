@@ -1,10 +1,8 @@
 <template>
   <a-layout class="main-view" style="min-height: 100vh">
     <a-layout-sider v-model:collapsed="collapsed" collapsible>
-      <div class="logo" />
-      <div>
-        <MenuConfigButton/>
-      </div>
+      <!-- <div class="logo" /> -->
+      <MenuConfigButton :collapsed="collapsed"/>
       <a-menu v-model:selectedKeys="selectedKeys" theme="dark" mode="inline">
         <a-sub-menu key="sub1">
           <template #title>
@@ -24,7 +22,7 @@
           <span>数据分析</span>
         </a-menu-item>
         <a-menu-item key="chart" @click="()=>{router.push('/chart')}">
-          <desktop-outlined />
+          <bar-chart-outlined />
           <span>图表展示</span>
         </a-menu-item>
       </a-menu>
@@ -46,7 +44,7 @@
    * date: 2022年10月3日
    */
   import { useRouter } from 'vue-router'
-  import { PieChartOutlined, DesktopOutlined } from '@ant-design/icons-vue';
+  import { PieChartOutlined, DesktopOutlined, BarChartOutlined } from '@ant-design/icons-vue';
   import { ref } from "vue";
   import MenuConfigButton from "../components/MenuConfigButton.vue"; 
   import { useFaucetStore } from "../stores/faucetStore"; 

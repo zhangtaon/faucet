@@ -1,5 +1,12 @@
 <template>
-  <a-button type="primary" style="width: 100%;" @click="showDrawer">股票列表配置</a-button>
+  <a-button type="primary" style="width: 100%;" @click="showDrawer">
+    <template #icon>
+      <a-tooltip title="股票列表配置" placement="right">
+        <setting-outlined v-if="props.collapsed" />
+      </a-tooltip>
+    </template>
+    <span v-if="!props.collapsed">股票列表配置</span>
+  </a-button>
   <a-drawer :width="520" class="menu-drawer" title="股票列表配置" placement="left" :visible="visible" @close="onClose">
     <div class="item">
       年线配置：
@@ -36,8 +43,12 @@
    * author：zto
    * date: 2022年10月30日
    */
+  import { SettingOutlined } from '@ant-design/icons-vue';
   import { ref } from 'vue';
   import { useFaucetStore } from "../stores/faucetStore";
+
+  const props = defineProps(['collapsed'])
+
   const faucetStore = useFaucetStore();
 
   const visible = ref < boolean > (false);
