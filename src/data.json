@@ -21,7 +21,8 @@
                     "biddingChain":"2,300.00",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jhjt-0"
+                    "url":"jhjt-0",
+                    "ddz":"54.687"
                 },
                 {
                     "pid":"603518",
@@ -34,7 +35,8 @@
                     "biddingChain":"3.22万",
                     "sealsChain":"-21.63",
                     "volChain":"246.32",
-                    "url":"jhjt-1"
+                    "url":"jhjt-1",
+                    "ddz":""
                 },
                 {
                     "pid":"603518",
@@ -47,7 +49,8 @@
                     "biddingChain":"31.76",
                     "sealsChain":"-4.04",
                     "volChain":"80.78",
-                    "url":"jhjt-2"
+                    "url":"jhjt-2",
+                    "ddz":""
                 },
                 {
                     "pid":"603518",
@@ -60,7 +63,8 @@
                     "biddingChain":"119.40",
                     "sealsChain":"200.63",
                     "volChain":"-44.96",
-                    "url":"jhjt-3"
+                    "url":"jhjt-3",
+                    "ddz":""
                 },
                 {
                     "pid":"603518",
@@ -73,7 +77,8 @@
                     "biddingChain":"442.24",
                     "sealsChain":"-75.97",
                     "volChain":"13.46",
-                    "url":"jhjt-4"
+                    "url":"jhjt-4",
+                    "ddz":""
                 },
                 {
                     "pid":"603518",
@@ -86,7 +91,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jhjt-5"
+                    "url":"jhjt-5",
+                    "ddz":""
                 },
                 {
                     "pid":"603518",
@@ -99,7 +105,8 @@
                     "biddingChain":"-59.11",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jhjt-6"
+                    "url":"jhjt-6",
+                    "ddz":""
                 },
                 {
                     "pid":"603518",
@@ -112,7 +119,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jhjt-7"
+                    "url":"jhjt-7",
+                    "ddz":""
                 }
             ]
         },
@@ -133,7 +141,8 @@
                     "biddingChain":"-33.37",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jcgf-0"
+                    "url":"jcgf-0",
+                    "ddz":"44.645"
                 },
                 {
                     "pid":"600860",
@@ -146,7 +155,8 @@
                     "biddingChain":"1,422.03",
                     "sealsChain":"-97.08",
                     "volChain":"368.73",
-                    "url":"jcgf-1"
+                    "url":"jcgf-1",
+                    "ddz":""
                 },
                 {
                     "pid":"600860",
@@ -159,7 +169,8 @@
                     "biddingChain":"-9.28",
                     "sealsChain":"720.98",
                     "volChain":"12.14",
-                    "url":"jcgf-2"
+                    "url":"jcgf-2",
+                    "ddz":""
                 },
                 {
                     "pid":"600860",
@@ -172,7 +183,8 @@
                     "biddingChain":"-5.34",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jcgf-3"
+                    "url":"jcgf-3",
+                    "ddz":""
                 },
                 {
                     "pid":"600860",
@@ -185,7 +197,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jcgf-4"
+                    "url":"jcgf-4",
+                    "ddz":""
                 },
                 {
                     "pid":"600860",
@@ -198,7 +211,8 @@
                     "biddingChain":"136.46",
                     "sealsChain":"-18.74",
                     "volChain":"17.62",
-                    "url":"jcgf-5"
+                    "url":"jcgf-5",
+                    "ddz":""
                 },
                 {
                     "pid":"600860",
@@ -211,7 +225,8 @@
                     "biddingChain":"-18.76",
                     "sealsChain":"11.87",
                     "volChain":"-38.68",
-                    "url":"jcgf-6"
+                    "url":"jcgf-6",
+                    "ddz":""
                 },
                 {
                     "pid":"600860",
@@ -224,7 +239,8 @@
                     "biddingChain":"36.60",
                     "sealsChain":"16.98",
                     "volChain":"28.11",
-                    "url":"jcgf-7"
+                    "url":"jcgf-7",
+                    "ddz":""
                 },
                 {
                     "pid":"600860",
@@ -237,7 +253,8 @@
                     "biddingChain":"25.81",
                     "sealsChain":"-41.58",
                     "volChain":"176.71",
-                    "url":"jcgf-8"
+                    "url":"jcgf-8",
+                    "ddz":""
                 },
                 {
                     "pid":"600860",
@@ -250,7 +267,8 @@
                     "biddingChain":"61.98",
                     "sealsChain":"145.84",
                     "volChain":"-55.43",
-                    "url":"jcgf-9"
+                    "url":"jcgf-9",
+                    "ddz":""
                 },
                 {
                     "pid":"600860",
@@ -263,7 +281,8 @@
                     "biddingChain":"-20.93",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jcgf-10"
+                    "url":"jcgf-10",
+                    "ddz":""
                 },
                 {
                     "pid":"600860",
@@ -276,7 +295,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jcgf-11"
+                    "url":"jcgf-11",
+                    "ddz":""
                 }
             ]
         },
@@ -297,7 +317,8 @@
                     "biddingChain":"2,872.70",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zrgf-0"
+                    "url":"zrgf-0",
+                    "ddz":"48.343"
                 },
                 {
                     "pid":"002374",
@@ -310,7 +331,8 @@
                     "biddingChain":"1,291.44",
                     "sealsChain":"271.94",
                     "volChain":"2.62",
-                    "url":"zrgf-1"
+                    "url":"zrgf-1",
+                    "ddz":""
                 },
                 {
                     "pid":"002374",
@@ -323,7 +345,8 @@
                     "biddingChain":"2,376.55",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zrgf-2"
+                    "url":"zrgf-2",
+                    "ddz":""
                 },
                 {
                     "pid":"002374",
@@ -336,7 +359,8 @@
                     "biddingChain":"53.95",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zrgf-3"
+                    "url":"zrgf-3",
+                    "ddz":""
                 },
                 {
                     "pid":"002374",
@@ -349,7 +373,8 @@
                     "biddingChain":"22.96",
                     "sealsChain":"-8.00",
                     "volChain":"-70.99",
-                    "url":"zrgf-4"
+                    "url":"zrgf-4",
+                    "ddz":""
                 },
                 {
                     "pid":"002374",
@@ -362,7 +387,8 @@
                     "biddingChain":"1,193.99",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zrgf-5"
+                    "url":"zrgf-5",
+                    "ddz":""
                 },
                 {
                     "pid":"002374",
@@ -375,7 +401,8 @@
                     "biddingChain":"-59.00",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zrgf-6"
+                    "url":"zrgf-6",
+                    "ddz":""
                 },
                 {
                     "pid":"002374",
@@ -388,7 +415,8 @@
                     "biddingChain":"30.76",
                     "sealsChain":"-65.90",
                     "volChain":"157.37",
-                    "url":"zrgf-7"
+                    "url":"zrgf-7",
+                    "ddz":""
                 },
                 {
                     "pid":"002374",
@@ -401,7 +429,8 @@
                     "biddingChain":"-20.99",
                     "sealsChain":"-21.83",
                     "volChain":"-24.85",
-                    "url":"zrgf-8"
+                    "url":"zrgf-8",
+                    "ddz":""
                 },
                 {
                     "pid":"002374",
@@ -414,7 +443,8 @@
                     "biddingChain":"-52.02",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zrgf-9"
+                    "url":"zrgf-9",
+                    "ddz":""
                 },
                 {
                     "pid":"002374",
@@ -427,7 +457,8 @@
                     "biddingChain":"47.86",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zrgf-10"
+                    "url":"zrgf-10",
+                    "ddz":""
                 },
                 {
                     "pid":"002374",
@@ -440,7 +471,8 @@
                     "biddingChain":"99.89",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zrgf-11"
+                    "url":"zrgf-11",
+                    "ddz":""
                 },
                 {
                     "pid":"002374",
@@ -453,7 +485,8 @@
                     "biddingChain":"-6.21",
                     "sealsChain":"5.94",
                     "volChain":"-29.81",
-                    "url":"zrgf-12"
+                    "url":"zrgf-12",
+                    "ddz":""
                 },
                 {
                     "pid":"002374",
@@ -466,7 +499,8 @@
                     "biddingChain":"36.03",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zrgf-13"
+                    "url":"zrgf-13",
+                    "ddz":""
                 },
                 {
                     "pid":"002374",
@@ -479,7 +513,8 @@
                     "biddingChain":"-36.12",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zrgf-14"
+                    "url":"zrgf-14",
+                    "ddz":""
                 },
                 {
                     "pid":"002374",
@@ -492,7 +527,8 @@
                     "biddingChain":"-19.93",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zrgf-15"
+                    "url":"zrgf-15",
+                    "ddz":""
                 }
             ]
         },
@@ -513,7 +549,8 @@
                     "biddingChain":"14.84",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"ylgf-0"
+                    "url":"ylgf-0",
+                    "ddz":"103.612"
                 },
                 {
                     "pid":"002725",
@@ -526,7 +563,8 @@
                     "biddingChain":"7,967.94",
                     "sealsChain":"88.41",
                     "volChain":"64.63",
-                    "url":"ylgf-1"
+                    "url":"ylgf-1",
+                    "ddz":""
                 },
                 {
                     "pid":"002725",
@@ -539,7 +577,8 @@
                     "biddingChain":"9.13",
                     "sealsChain":"-41.23",
                     "volChain":"151.55",
-                    "url":"ylgf-2"
+                    "url":"ylgf-2",
+                    "ddz":""
                 },
                 {
                     "pid":"002725",
@@ -552,7 +591,8 @@
                     "biddingChain":"0.08",
                     "sealsChain":"100.23",
                     "volChain":"-13.67",
-                    "url":"ylgf-3"
+                    "url":"ylgf-3",
+                    "ddz":""
                 },
                 {
                     "pid":"002725",
@@ -565,7 +605,8 @@
                     "biddingChain":"126.95",
                     "sealsChain":"-8.00",
                     "volChain":"558.39",
-                    "url":"ylgf-4"
+                    "url":"ylgf-4",
+                    "ddz":""
                 },
                 {
                     "pid":"002725",
@@ -578,7 +619,8 @@
                     "biddingChain":"-21.95",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"ylgf-5"
+                    "url":"ylgf-5",
+                    "ddz":""
                 },
                 {
                     "pid":"002725",
@@ -591,7 +633,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"ylgf-6"
+                    "url":"ylgf-6",
+                    "ddz":""
                 }
             ]
         },
@@ -612,7 +655,8 @@
                     "biddingChain":"720.67",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"hbgd-0"
+                    "url":"hbgd-0",
+                    "ddz":"183.363"
                 },
                 {
                     "pid":"000665",
@@ -625,7 +669,8 @@
                     "biddingChain":"4,656.70",
                     "sealsChain":"-15.10",
                     "volChain":"139.38",
-                    "url":"hbgd-1"
+                    "url":"hbgd-1",
+                    "ddz":""
                 },
                 {
                     "pid":"000665",
@@ -638,7 +683,8 @@
                     "biddingChain":"127.06",
                     "sealsChain":"108.20",
                     "volChain":"-48.14",
-                    "url":"hbgd-2"
+                    "url":"hbgd-2",
+                    "ddz":""
                 },
                 {
                     "pid":"000665",
@@ -651,7 +697,8 @@
                     "biddingChain":"-73.41",
                     "sealsChain":"-28.71",
                     "volChain":"-65.39",
-                    "url":"hbgd-3"
+                    "url":"hbgd-3",
+                    "ddz":""
                 },
                 {
                     "pid":"000665",
@@ -664,7 +711,8 @@
                     "biddingChain":"-6.02",
                     "sealsChain":"17.84",
                     "volChain":"-6.66",
-                    "url":"hbgd-4"
+                    "url":"hbgd-4",
+                    "ddz":""
                 },
                 {
                     "pid":"000665",
@@ -677,7 +725,8 @@
                     "biddingChain":"-10.22",
                     "sealsChain":"-71.61",
                     "volChain":"1,463.34",
-                    "url":"hbgd-5"
+                    "url":"hbgd-5",
+                    "ddz":""
                 },
                 {
                     "pid":"000665",
@@ -690,7 +739,8 @@
                     "biddingChain":"112.00",
                     "sealsChain":"-36.63",
                     "volChain":"13.02",
-                    "url":"hbgd-6"
+                    "url":"hbgd-6",
+                    "ddz":""
                 },
                 {
                     "pid":"000665",
@@ -703,7 +753,8 @@
                     "biddingChain":"39.96",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"hbgd-7"
+                    "url":"hbgd-7",
+                    "ddz":""
                 },
                 {
                     "pid":"000665",
@@ -716,7 +767,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"hbgd-8"
+                    "url":"hbgd-8",
+                    "ddz":""
                 }
             ]
         },
@@ -737,7 +789,8 @@
                     "biddingChain":"-68.69",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"ffgf-0"
+                    "url":"ffgf-0",
+                    "ddz":"79.285"
                 },
                 {
                     "pid":"601700",
@@ -750,7 +803,8 @@
                     "biddingChain":"5,390.65",
                     "sealsChain":"113.58",
                     "volChain":"90.36",
-                    "url":"ffgf-1"
+                    "url":"ffgf-1",
+                    "ddz":""
                 },
                 {
                     "pid":"601700",
@@ -763,7 +817,8 @@
                     "biddingChain":"195.49",
                     "sealsChain":"45.62",
                     "volChain":"43.74",
-                    "url":"ffgf-2"
+                    "url":"ffgf-2",
+                    "ddz":""
                 },
                 {
                     "pid":"601700",
@@ -776,7 +831,8 @@
                     "biddingChain":"53.78",
                     "sealsChain":"7.49",
                     "volChain":"-50.77",
-                    "url":"ffgf-3"
+                    "url":"ffgf-3",
+                    "ddz":""
                 },
                 {
                     "pid":"601700",
@@ -789,7 +845,8 @@
                     "biddingChain":"24.72",
                     "sealsChain":"-15.47",
                     "volChain":"120.34",
-                    "url":"ffgf-4"
+                    "url":"ffgf-4",
+                    "ddz":""
                 },
                 {
                     "pid":"601700",
@@ -802,7 +859,8 @@
                     "biddingChain":"-73.26",
                     "sealsChain":"22.98",
                     "volChain":"-78.30",
-                    "url":"ffgf-5"
+                    "url":"ffgf-5",
+                    "ddz":""
                 },
                 {
                     "pid":"601700",
@@ -815,7 +873,8 @@
                     "biddingChain":"349.89",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"ffgf-6"
+                    "url":"ffgf-6",
+                    "ddz":""
                 }
             ]
         },
@@ -836,7 +895,8 @@
                     "biddingChain":"-62.82",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"ljye-0"
+                    "url":"ljye-0",
+                    "ddz":"43.861"
                 },
                 {
                     "pid":"002750",
@@ -849,7 +909,8 @@
                     "biddingChain":"4.27万",
                     "sealsChain":"2.28",
                     "volChain":"-21.45",
-                    "url":"ljye-1"
+                    "url":"ljye-1",
+                    "ddz":""
                 },
                 {
                     "pid":"002750",
@@ -862,7 +923,8 @@
                     "biddingChain":"-11.01",
                     "sealsChain":"12.63",
                     "volChain":"185.00",
-                    "url":"ljye-2"
+                    "url":"ljye-2",
+                    "ddz":""
                 },
                 {
                     "pid":"002750",
@@ -875,7 +937,8 @@
                     "biddingChain":"530.17",
                     "sealsChain":"-50.81",
                     "volChain":"145.65",
-                    "url":"ljye-3"
+                    "url":"ljye-3",
+                    "ddz":""
                 },
                 {
                     "pid":"002750",
@@ -888,7 +951,8 @@
                     "biddingChain":"-24.11",
                     "sealsChain":"55.02",
                     "volChain":"-55.67",
-                    "url":"ljye-4"
+                    "url":"ljye-4",
+                    "ddz":""
                 },
                 {
                     "pid":"002750",
@@ -901,7 +965,8 @@
                     "biddingChain":"27.00",
                     "sealsChain":"-49.13",
                     "volChain":"237.97",
-                    "url":"ljye-5"
+                    "url":"ljye-5",
+                    "ddz":""
                 },
                 {
                     "pid":"002750",
@@ -914,7 +979,8 @@
                     "biddingChain":"56.17",
                     "sealsChain":"3.05",
                     "volChain":"-39.71",
-                    "url":"ljye-6"
+                    "url":"ljye-6",
+                    "ddz":""
                 },
                 {
                     "pid":"002750",
@@ -927,7 +993,8 @@
                     "biddingChain":"1,210.23",
                     "sealsChain":"-68.44",
                     "volChain":"-77.19",
-                    "url":"ljye-7"
+                    "url":"ljye-7",
+                    "ddz":""
                 },
                 {
                     "pid":"002750",
@@ -940,7 +1007,8 @@
                     "biddingChain":"44.28",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"ljye-8"
+                    "url":"ljye-8",
+                    "ddz":""
                 },
                 {
                     "pid":"002750",
@@ -953,7 +1021,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"ljye-9"
+                    "url":"ljye-9",
+                    "ddz":""
                 }
             ]
         },
@@ -974,7 +1043,8 @@
                     "biddingChain":"-65.85",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jhzy-0"
+                    "url":"jhzy-0",
+                    "ddz":"59.874"
                 },
                 {
                     "pid":"002349",
@@ -987,7 +1057,8 @@
                     "biddingChain":"433.87",
                     "sealsChain":"-30.34",
                     "volChain":"39.07",
-                    "url":"jhzy-1"
+                    "url":"jhzy-1",
+                    "ddz":""
                 },
                 {
                     "pid":"002349",
@@ -1000,7 +1071,8 @@
                     "biddingChain":"-10.26",
                     "sealsChain":"61.31",
                     "volChain":"24.71",
-                    "url":"jhzy-2"
+                    "url":"jhzy-2",
+                    "ddz":""
                 },
                 {
                     "pid":"002349",
@@ -1013,7 +1085,8 @@
                     "biddingChain":"59.42",
                     "sealsChain":"49.66",
                     "volChain":"-42.29",
-                    "url":"jhzy-3"
+                    "url":"jhzy-3",
+                    "ddz":""
                 },
                 {
                     "pid":"002349",
@@ -1026,7 +1099,8 @@
                     "biddingChain":"-64.30",
                     "sealsChain":"109.96",
                     "volChain":"-92.34",
-                    "url":"jhzy-4"
+                    "url":"jhzy-4",
+                    "ddz":""
                 },
                 {
                     "pid":"002349",
@@ -1039,7 +1113,8 @@
                     "biddingChain":"-73.24",
                     "sealsChain":"9.11",
                     "volChain":"145.98",
-                    "url":"jhzy-5"
+                    "url":"jhzy-5",
+                    "ddz":""
                 },
                 {
                     "pid":"002349",
@@ -1052,7 +1127,8 @@
                     "biddingChain":"763.51",
                     "sealsChain":"-38.69",
                     "volChain":"21.87",
-                    "url":"jhzy-6"
+                    "url":"jhzy-6",
+                    "ddz":""
                 },
                 {
                     "pid":"002349",
@@ -1065,7 +1141,8 @@
                     "biddingChain":"-90.02",
                     "sealsChain":"-80.04",
                     "volChain":"1,250.95",
-                    "url":"jhzy-7"
+                    "url":"jhzy-7",
+                    "ddz":""
                 },
                 {
                     "pid":"002349",
@@ -1078,7 +1155,8 @@
                     "biddingChain":"1,210.23",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jhzy-8"
+                    "url":"jhzy-8",
+                    "ddz":""
                 },
                 {
                     "pid":"002349",
@@ -1091,7 +1169,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jhzy-9"
+                    "url":"jhzy-9",
+                    "ddz":""
                 },
                 {
                     "pid":"002349",
@@ -1104,7 +1183,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jhzy-10"
+                    "url":"jhzy-10",
+                    "ddz":""
                 }
             ]
         },
@@ -1125,7 +1205,8 @@
                     "biddingChain":"36.02",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jchl-0"
+                    "url":"jchl-0",
+                    "ddz":"61.488"
                 },
                 {
                     "pid":"002530",
@@ -1138,7 +1219,8 @@
                     "biddingChain":"3,160.01",
                     "sealsChain":"-77.45",
                     "volChain":"264.81",
-                    "url":"jchl-1"
+                    "url":"jchl-1",
+                    "ddz":""
                 },
                 {
                     "pid":"002530",
@@ -1151,7 +1233,8 @@
                     "biddingChain":"13.36",
                     "sealsChain":"1,549.15",
                     "volChain":"-85.91",
-                    "url":"jchl-2"
+                    "url":"jchl-2",
+                    "ddz":""
                 },
                 {
                     "pid":"002530",
@@ -1164,7 +1247,8 @@
                     "biddingChain":"496.08",
                     "sealsChain":"-44.41",
                     "volChain":"649.76",
-                    "url":"jchl-3"
+                    "url":"jchl-3",
+                    "ddz":""
                 },
                 {
                     "pid":"002530",
@@ -1177,7 +1261,8 @@
                     "biddingChain":"147.41",
                     "sealsChain":"-95.73",
                     "volChain":"1,275.22",
-                    "url":"jchl-4"
+                    "url":"jchl-4",
+                    "ddz":""
                 },
                 {
                     "pid":"002530",
@@ -1190,7 +1275,8 @@
                     "biddingChain":"-41.00",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jchl-5"
+                    "url":"jchl-5",
+                    "ddz":""
                 },
                 {
                     "pid":"002530",
@@ -1203,7 +1289,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jchl-6"
+                    "url":"jchl-6",
+                    "ddz":""
                 }
             ]
         },
@@ -1224,7 +1311,8 @@
                     "biddingChain":"888.64",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"bllh-0"
+                    "url":"bllh-0",
+                    "ddz":"11.499"
                 },
                 {
                     "pid":"002037",
@@ -1237,7 +1325,8 @@
                     "biddingChain":"-22.68",
                     "sealsChain":"-20.41",
                     "volChain":"17.85",
-                    "url":"bllh-1"
+                    "url":"bllh-1",
+                    "ddz":""
                 },
                 {
                     "pid":"002037",
@@ -1250,7 +1339,8 @@
                     "biddingChain":"153.87",
                     "sealsChain":"147.63",
                     "volChain":"-12.24",
-                    "url":"bllh-2"
+                    "url":"bllh-2",
+                    "ddz":""
                 },
                 {
                     "pid":"002037",
@@ -1263,7 +1353,8 @@
                     "biddingChain":"3,069.24",
                     "sealsChain":"-91.99",
                     "volChain":"1,633.87",
-                    "url":"bllh-3"
+                    "url":"bllh-3",
+                    "ddz":""
                 },
                 {
                     "pid":"002037",
@@ -1276,7 +1367,8 @@
                     "biddingChain":"-68.58",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"bllh-4"
+                    "url":"bllh-4",
+                    "ddz":""
                 }
             ]
         },
@@ -1297,7 +1389,8 @@
                     "biddingChain":"-62.51",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"hbgf-0"
+                    "url":"hbgf-0",
+                    "ddz":"219.379"
                 },
                 {
                     "pid":"002104",
@@ -1310,7 +1403,8 @@
                     "biddingChain":"-29.40",
                     "sealsChain":"115.81",
                     "volChain":"-90.89",
-                    "url":"hbgf-1"
+                    "url":"hbgf-1",
+                    "ddz":""
                 },
                 {
                     "pid":"002104",
@@ -1323,7 +1417,8 @@
                     "biddingChain":"1,983.95",
                     "sealsChain":"-61.84",
                     "volChain":"3,436.87",
-                    "url":"hbgf-2"
+                    "url":"hbgf-2",
+                    "ddz":""
                 },
                 {
                     "pid":"002104",
@@ -1336,7 +1431,8 @@
                     "biddingChain":"2,912.38",
                     "sealsChain":"-55.41",
                     "volChain":"2,083.98",
-                    "url":"hbgf-3"
+                    "url":"hbgf-3",
+                    "ddz":""
                 },
                 {
                     "pid":"002104",
@@ -1349,7 +1445,8 @@
                     "biddingChain":"-60.62",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"hbgf-4"
+                    "url":"hbgf-4",
+                    "ddz":""
                 },
                 {
                     "pid":"002104",
@@ -1362,7 +1459,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"hbgf-5"
+                    "url":"hbgf-5",
+                    "ddz":""
                 }
             ]
         },
@@ -1383,7 +1481,8 @@
                     "biddingChain":"-54.82",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zjjt-0"
+                    "url":"zjjt-0",
+                    "ddz":"41.388"
                 },
                 {
                     "pid":"002761",
@@ -1396,7 +1495,8 @@
                     "biddingChain":"4,257.14",
                     "sealsChain":"41.38",
                     "volChain":"32.35",
-                    "url":"zjjt-1"
+                    "url":"zjjt-1",
+                    "ddz":""
                 },
                 {
                     "pid":"002761",
@@ -1409,7 +1509,8 @@
                     "biddingChain":"115.99",
                     "sealsChain":"33.43",
                     "volChain":"20.79",
-                    "url":"zjjt-2"
+                    "url":"zjjt-2",
+                    "ddz":""
                 },
                 {
                     "pid":"002761",
@@ -1422,7 +1523,8 @@
                     "biddingChain":"-45.03",
                     "sealsChain":"-57.52",
                     "volChain":"256.43",
-                    "url":"zjjt-3"
+                    "url":"zjjt-3",
+                    "ddz":""
                 },
                 {
                     "pid":"002761",
@@ -1435,7 +1537,8 @@
                     "biddingChain":"-10.34",
                     "sealsChain":"115.92",
                     "volChain":"-42.73",
-                    "url":"zjjt-4"
+                    "url":"zjjt-4",
+                    "ddz":""
                 },
                 {
                     "pid":"002761",
@@ -1448,7 +1551,8 @@
                     "biddingChain":"203.33",
                     "sealsChain":"-22.67",
                     "volChain":"7.29",
-                    "url":"zjjt-5"
+                    "url":"zjjt-5",
+                    "ddz":""
                 },
                 {
                     "pid":"002761",
@@ -1461,7 +1565,8 @@
                     "biddingChain":"-57.57",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zjjt-6"
+                    "url":"zjjt-6",
+                    "ddz":""
                 },
                 {
                     "pid":"002761",
@@ -1474,7 +1579,8 @@
                     "biddingChain":"63.25",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zjjt-7"
+                    "url":"zjjt-7",
+                    "ddz":""
                 },
                 {
                     "pid":"002761",
@@ -1487,7 +1593,8 @@
                     "biddingChain":"-53.36",
                     "sealsChain":"-10.16",
                     "volChain":"-35.92",
-                    "url":"zjjt-8"
+                    "url":"zjjt-8",
+                    "ddz":""
                 },
                 {
                     "pid":"002761",
@@ -1500,7 +1607,8 @@
                     "biddingChain":"111.53",
                     "sealsChain":"-21.98",
                     "volChain":"29.64",
-                    "url":"zjjt-9"
+                    "url":"zjjt-9",
+                    "ddz":""
                 },
                 {
                     "pid":"002761",
@@ -1513,7 +1621,8 @@
                     "biddingChain":"0.72",
                     "sealsChain":"-52.21",
                     "volChain":"-14.82",
-                    "url":"zjjt-10"
+                    "url":"zjjt-10",
+                    "ddz":""
                 },
                 {
                     "pid":"002761",
@@ -1526,7 +1635,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zjjt-11"
+                    "url":"zjjt-11",
+                    "ddz":""
                 },
                 {
                     "pid":"002761",
@@ -1539,7 +1649,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zjjt-12"
+                    "url":"zjjt-12",
+                    "ddz":""
                 },
                 {
                     "pid":"002761",
@@ -1552,7 +1663,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zjjt-13"
+                    "url":"zjjt-13",
+                    "ddz":""
                 }
             ]
         },
@@ -1573,7 +1685,8 @@
                     "biddingChain":"-26.27",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zgyy-0"
+                    "url":"zgyy-0",
+                    "ddz":"37.021"
                 },
                 {
                     "pid":"600056",
@@ -1586,7 +1699,8 @@
                     "biddingChain":"2,728.71",
                     "sealsChain":"440.54",
                     "volChain":"89.41",
-                    "url":"zgyy-1"
+                    "url":"zgyy-1",
+                    "ddz":""
                 },
                 {
                     "pid":"600056",
@@ -1599,7 +1713,8 @@
                     "biddingChain":"-16.35",
                     "sealsChain":"190.77",
                     "volChain":"-75.50",
-                    "url":"zgyy-2"
+                    "url":"zgyy-2",
+                    "ddz":""
                 },
                 {
                     "pid":"600056",
@@ -1612,7 +1727,8 @@
                     "biddingChain":"1,104.25",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zgyy-3"
+                    "url":"zgyy-3",
+                    "ddz":""
                 },
                 {
                     "pid":"600056",
@@ -1625,7 +1741,8 @@
                     "biddingChain":"-54.92",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zgyy-4"
+                    "url":"zgyy-4",
+                    "ddz":""
                 },
                 {
                     "pid":"600056",
@@ -1638,7 +1755,8 @@
                     "biddingChain":"-72.22",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zgyy-5"
+                    "url":"zgyy-5",
+                    "ddz":""
                 },
                 {
                     "pid":"600056",
@@ -1651,7 +1769,8 @@
                     "biddingChain":"500.37",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zgyy-6"
+                    "url":"zgyy-6",
+                    "ddz":""
                 },
                 {
                     "pid":"600056",
@@ -1664,7 +1783,8 @@
                     "biddingChain":"-46.66",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zgyy-7"
+                    "url":"zgyy-7",
+                    "ddz":""
                 },
                 {
                     "pid":"600056",
@@ -1677,7 +1797,8 @@
                     "biddingChain":"-37.33",
                     "sealsChain":"-0.82",
                     "volChain":"-41.42",
-                    "url":"zgyy-8"
+                    "url":"zgyy-8",
+                    "ddz":""
                 },
                 {
                     "pid":"600056",
@@ -1690,7 +1811,8 @@
                     "biddingChain":"5.10",
                     "sealsChain":"-74.90",
                     "volChain":"102.26",
-                    "url":"zgyy-9"
+                    "url":"zgyy-9",
+                    "ddz":""
                 },
                 {
                     "pid":"600056",
@@ -1703,7 +1825,8 @@
                     "biddingChain":"2.82",
                     "sealsChain":"43.45",
                     "volChain":"-18.22",
-                    "url":"zgyy-10"
+                    "url":"zgyy-10",
+                    "ddz":""
                 },
                 {
                     "pid":"600056",
@@ -1716,7 +1839,8 @@
                     "biddingChain":"-50.87",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zgyy-11"
+                    "url":"zgyy-11",
+                    "ddz":""
                 },
                 {
                     "pid":"600056",
@@ -1729,7 +1853,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zgyy-12"
+                    "url":"zgyy-12",
+                    "ddz":""
                 }
             ]
         },
@@ -1750,7 +1875,8 @@
                     "biddingChain":"-91.23",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"bbgf-0"
+                    "url":"bbgf-0",
+                    "ddz":"56.643"
                 },
                 {
                     "pid":"002613",
@@ -1763,7 +1889,8 @@
                     "biddingChain":"1,065.90",
                     "sealsChain":"-2.20",
                     "volChain":"-77.26",
-                    "url":"bbgf-1"
+                    "url":"bbgf-1",
+                    "ddz":""
                 },
                 {
                     "pid":"002613",
@@ -1776,7 +1903,8 @@
                     "biddingChain":"-15.75",
                     "sealsChain":"-7.97",
                     "volChain":"-22.93",
-                    "url":"bbgf-2"
+                    "url":"bbgf-2",
+                    "ddz":""
                 },
                 {
                     "pid":"002613",
@@ -1789,7 +1917,8 @@
                     "biddingChain":"682.20",
                     "sealsChain":"101.87",
                     "volChain":"600.12",
-                    "url":"bbgf-3"
+                    "url":"bbgf-3",
+                    "ddz":""
                 },
                 {
                     "pid":"002613",
@@ -1802,7 +1931,8 @@
                     "biddingChain":"2,247.90",
                     "sealsChain":"-94.86",
                     "volChain":"4,264.30",
-                    "url":"bbgf-4"
+                    "url":"bbgf-4",
+                    "ddz":""
                 },
                 {
                     "pid":"002613",
@@ -1815,7 +1945,8 @@
                     "biddingChain":"-47.92",
                     "sealsChain":"572.37",
                     "volChain":"-10.15",
-                    "url":"bbgf-5"
+                    "url":"bbgf-5",
+                    "ddz":""
                 },
                 {
                     "pid":"002613",
@@ -1828,7 +1959,8 @@
                     "biddingChain":"91.71",
                     "sealsChain":"-91.37",
                     "volChain":"2.26",
-                    "url":"bbgf-6"
+                    "url":"bbgf-6",
+                    "ddz":""
                 },
                 {
                     "pid":"002613",
@@ -1841,7 +1973,8 @@
                     "biddingChain":"-34.03",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"bbgf-7"
+                    "url":"bbgf-7",
+                    "ddz":""
                 }
             ]
         },
@@ -1862,7 +1995,8 @@
                     "biddingChain":"12.64",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"tbjj-0"
+                    "url":"tbjj-0",
+                    "ddz":"59.039"
                 },
                 {
                     "pid":"000965",
@@ -1875,7 +2009,8 @@
                     "biddingChain":"121.93",
                     "sealsChain":"125.61",
                     "volChain":"-84.96",
-                    "url":"tbjj-1"
+                    "url":"tbjj-1",
+                    "ddz":""
                 },
                 {
                     "pid":"000965",
@@ -1888,7 +2023,8 @@
                     "biddingChain":"237.76",
                     "sealsChain":"-50.88",
                     "volChain":"1,388.47",
-                    "url":"tbjj-2"
+                    "url":"tbjj-2",
+                    "ddz":""
                 },
                 {
                     "pid":"000965",
@@ -1901,7 +2037,8 @@
                     "biddingChain":"-37.44",
                     "sealsChain":"103.74",
                     "volChain":"-63.10",
-                    "url":"tbjj-3"
+                    "url":"tbjj-3",
+                    "ddz":""
                 },
                 {
                     "pid":"000965",
@@ -1914,7 +2051,8 @@
                     "biddingChain":"-25.72",
                     "sealsChain":"-52.08",
                     "volChain":"252.57",
-                    "url":"tbjj-4"
+                    "url":"tbjj-4",
+                    "ddz":""
                 },
                 {
                     "pid":"000965",
@@ -1927,7 +2065,8 @@
                     "biddingChain":"205.71",
                     "sealsChain":"27.88",
                     "volChain":"44.52",
-                    "url":"tbjj-5"
+                    "url":"tbjj-5",
+                    "ddz":""
                 },
                 {
                     "pid":"000965",
@@ -1940,7 +2079,8 @@
                     "biddingChain":"38.81",
                     "sealsChain":"63.09",
                     "volChain":"-27.68",
-                    "url":"tbjj-6"
+                    "url":"tbjj-6",
+                    "ddz":""
                 },
                 {
                     "pid":"000965",
@@ -1953,7 +2093,8 @@
                     "biddingChain":"-8.72",
                     "sealsChain":"6.91",
                     "volChain":"-3.64",
-                    "url":"tbjj-7"
+                    "url":"tbjj-7",
+                    "ddz":""
                 },
                 {
                     "pid":"000965",
@@ -1966,7 +2107,8 @@
                     "biddingChain":"-42.20",
                     "sealsChain":"-52.24",
                     "volChain":"9.22",
-                    "url":"tbjj-8"
+                    "url":"tbjj-8",
+                    "ddz":""
                 },
                 {
                     "pid":"000965",
@@ -1979,7 +2121,8 @@
                     "biddingChain":"-9.41",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"tbjj-9"
+                    "url":"tbjj-9",
+                    "ddz":""
                 },
                 {
                     "pid":"000965",
@@ -1992,7 +2135,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"tbjj-10"
+                    "url":"tbjj-10",
+                    "ddz":""
                 }
             ]
         },
@@ -2013,7 +2157,8 @@
                     "biddingChain":"114.04",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zjdc-0"
+                    "url":"zjdc-0",
+                    "ddz":"46.670"
                 },
                 {
                     "pid":"000736",
@@ -2026,7 +2171,8 @@
                     "biddingChain":"53.72",
                     "sealsChain":"34.91",
                     "volChain":"14.34",
-                    "url":"zjdc-1"
+                    "url":"zjdc-1",
+                    "ddz":""
                 },
                 {
                     "pid":"000736",
@@ -2039,7 +2185,8 @@
                     "biddingChain":"-12.90",
                     "sealsChain":"-71.30",
                     "volChain":"88.57",
-                    "url":"zjdc-2"
+                    "url":"zjdc-2",
+                    "ddz":""
                 },
                 {
                     "pid":"000736",
@@ -2052,7 +2199,8 @@
                     "biddingChain":"118.43",
                     "sealsChain":"484.89",
                     "volChain":"-47.18",
-                    "url":"zjdc-3"
+                    "url":"zjdc-3",
+                    "ddz":""
                 },
                 {
                     "pid":"000736",
@@ -2065,7 +2213,8 @@
                     "biddingChain":"-79.77",
                     "sealsChain":"30.47",
                     "volChain":"-2.08",
-                    "url":"zjdc-4"
+                    "url":"zjdc-4",
+                    "ddz":""
                 },
                 {
                     "pid":"000736",
@@ -2078,7 +2227,8 @@
                     "biddingChain":"494.98",
                     "sealsChain":"-7.55",
                     "volChain":"135.52",
-                    "url":"zjdc-5"
+                    "url":"zjdc-5",
+                    "ddz":""
                 },
                 {
                     "pid":"000736",
@@ -2091,7 +2241,8 @@
                     "biddingChain":"-73.65",
                     "sealsChain":"55.05",
                     "volChain":"-96.45",
-                    "url":"zjdc-6"
+                    "url":"zjdc-6",
+                    "ddz":""
                 },
                 {
                     "pid":"000736",
@@ -2104,7 +2255,8 @@
                     "biddingChain":"1,070.69",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zjdc-7"
+                    "url":"zjdc-7",
+                    "ddz":""
                 },
                 {
                     "pid":"000736",
@@ -2117,7 +2269,8 @@
                     "biddingChain":"-61.26",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zjdc-8"
+                    "url":"zjdc-8",
+                    "ddz":""
                 },
                 {
                     "pid":"000736",
@@ -2130,7 +2283,8 @@
                     "biddingChain":"17.94",
                     "sealsChain":"17.94",
                     "volChain":"-5.75",
-                    "url":"zjdc-9"
+                    "url":"zjdc-9",
+                    "ddz":""
                 },
                 {
                     "pid":"000736",
@@ -2143,7 +2297,8 @@
                     "biddingChain":"-64.96",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zjdc-10"
+                    "url":"zjdc-10",
+                    "ddz":""
                 },
                 {
                     "pid":"000736",
@@ -2156,7 +2311,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zjdc-11"
+                    "url":"zjdc-11",
+                    "ddz":""
                 }
             ]
         },
@@ -2177,7 +2333,8 @@
                     "biddingChain":"-19.09",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"hnrz-0"
+                    "url":"hnrz-0",
+                    "ddz":"102.861"
                 },
                 {
                     "pid":"002596",
@@ -2190,7 +2347,8 @@
                     "biddingChain":"1,471.54",
                     "sealsChain":"-75.71",
                     "volChain":"183.33",
-                    "url":"hnrz-1"
+                    "url":"hnrz-1",
+                    "ddz":""
                 },
                 {
                     "pid":"002596",
@@ -2203,7 +2361,8 @@
                     "biddingChain":"44.41",
                     "sealsChain":"680.74",
                     "volChain":"-12.24",
-                    "url":"hnrz-2"
+                    "url":"hnrz-2",
+                    "ddz":""
                 },
                 {
                     "pid":"002596",
@@ -2216,7 +2375,8 @@
                     "biddingChain":"196.05",
                     "sealsChain":"27.15",
                     "volChain":"-58.82",
-                    "url":"hnrz-3"
+                    "url":"hnrz-3",
+                    "ddz":""
                 },
                 {
                     "pid":"002596",
@@ -2229,7 +2389,8 @@
                     "biddingChain":"-40.89",
                     "sealsChain":"-71.83",
                     "volChain":"491.34",
-                    "url":"hnrz-4"
+                    "url":"hnrz-4",
+                    "ddz":""
                 },
                 {
                     "pid":"002596",
@@ -2242,7 +2403,8 @@
                     "biddingChain":"18.29",
                     "sealsChain":"202.43",
                     "volChain":"-38.76",
-                    "url":"hnrz-5"
+                    "url":"hnrz-5",
+                    "ddz":""
                 },
                 {
                     "pid":"002596",
@@ -2255,7 +2417,8 @@
                     "biddingChain":"-13.36",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"hnrz-6"
+                    "url":"hnrz-6",
+                    "ddz":""
                 }
             ]
         },
@@ -2276,7 +2439,8 @@
                     "biddingChain":"3,403.81",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"gtgf-0"
+                    "url":"gtgf-0",
+                    "ddz":"20.138"
                 },
                 {
                     "pid":"002205",
@@ -2289,7 +2453,8 @@
                     "biddingChain":"57.10",
                     "sealsChain":"-58.61",
                     "volChain":"167.46",
-                    "url":"gtgf-1"
+                    "url":"gtgf-1",
+                    "ddz":""
                 },
                 {
                     "pid":"002205",
@@ -2302,7 +2467,8 @@
                     "biddingChain":"-20.95",
                     "sealsChain":"86.59",
                     "volChain":"14.65",
-                    "url":"gtgf-2"
+                    "url":"gtgf-2",
+                    "ddz":""
                 },
                 {
                     "pid":"002205",
@@ -2315,7 +2481,8 @@
                     "biddingChain":"139.37",
                     "sealsChain":"148.05",
                     "volChain":"-56.27",
-                    "url":"gtgf-3"
+                    "url":"gtgf-3",
+                    "ddz":""
                 },
                 {
                     "pid":"002205",
@@ -2328,7 +2495,8 @@
                     "biddingChain":"78.15",
                     "sealsChain":"-31.16",
                     "volChain":"91.97",
-                    "url":"gtgf-4"
+                    "url":"gtgf-4",
+                    "ddz":""
                 },
                 {
                     "pid":"002205",
@@ -2341,7 +2509,8 @@
                     "biddingChain":"-38.97",
                     "sealsChain":"3.80",
                     "volChain":"-60.09",
-                    "url":"gtgf-5"
+                    "url":"gtgf-5",
+                    "ddz":""
                 },
                 {
                     "pid":"002205",
@@ -2354,7 +2523,8 @@
                     "biddingChain":"26.01",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"gtgf-6"
+                    "url":"gtgf-6",
+                    "ddz":""
                 },
                 {
                     "pid":"002205",
@@ -2367,7 +2537,8 @@
                     "biddingChain":"-32.11",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"gtgf-7"
+                    "url":"gtgf-7",
+                    "ddz":""
                 }
             ]
         },
@@ -2388,7 +2559,8 @@
                     "biddingChain":"1,892.90",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"bbg-0"
+                    "url":"bbg-0",
+                    "ddz":"33.318"
                 },
                 {
                     "pid":"002251",
@@ -2401,7 +2573,8 @@
                     "biddingChain":"318.31",
                     "sealsChain":"174.79",
                     "volChain":"-53.77",
-                    "url":"bbg-1"
+                    "url":"bbg-1",
+                    "ddz":""
                 },
                 {
                     "pid":"002251",
@@ -2414,7 +2587,8 @@
                     "biddingChain":"-47.65",
                     "sealsChain":"163.80",
                     "volChain":"-66.77",
-                    "url":"bbg-2"
+                    "url":"bbg-2",
+                    "ddz":""
                 },
                 {
                     "pid":"002251",
@@ -2427,7 +2601,8 @@
                     "biddingChain":"816.37",
                     "sealsChain":"-67.85",
                     "volChain":"1,381.42",
-                    "url":"bbg-3"
+                    "url":"bbg-3",
+                    "ddz":""
                 },
                 {
                     "pid":"002251",
@@ -2440,7 +2615,8 @@
                     "biddingChain":"-43.72",
                     "sealsChain":"-3.01",
                     "volChain":"-17.88",
-                    "url":"bbg-4"
+                    "url":"bbg-4",
+                    "ddz":""
                 },
                 {
                     "pid":"002251",
@@ -2453,7 +2629,8 @@
                     "biddingChain":"-37.33",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"bbg-5"
+                    "url":"bbg-5",
+                    "ddz":""
                 },
                 {
                     "pid":"002251",
@@ -2466,7 +2643,8 @@
                     "biddingChain":"-65.10",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"bbg-6"
+                    "url":"bbg-6",
+                    "ddz":""
                 },
                 {
                     "pid":"002251",
@@ -2479,7 +2657,8 @@
                     "biddingChain":"237.83",
                     "sealsChain":"-23.38",
                     "volChain":"-30.67",
-                    "url":"bbg-7"
+                    "url":"bbg-7",
+                    "ddz":""
                 },
                 {
                     "pid":"002251",
@@ -2492,7 +2671,8 @@
                     "biddingChain":"-0.96",
                     "sealsChain":"40.25",
                     "volChain":"54.20",
-                    "url":"bbg-8"
+                    "url":"bbg-8",
+                    "ddz":""
                 },
                 {
                     "pid":"002251",
@@ -2505,7 +2685,8 @@
                     "biddingChain":"-6.31",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"bbg-9"
+                    "url":"bbg-9",
+                    "ddz":""
                 }
             ]
         },
@@ -2526,7 +2707,8 @@
                     "biddingChain":"1,738.10",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"ajsp-0"
+                    "url":"ajsp-0",
+                    "ddz":"14.886"
                 },
                 {
                     "pid":"603696",
@@ -2539,7 +2721,8 @@
                     "biddingChain":"3,149.22",
                     "sealsChain":"2,116.05",
                     "volChain":"-49.69",
-                    "url":"ajsp-1"
+                    "url":"ajsp-1",
+                    "ddz":""
                 },
                 {
                     "pid":"603696",
@@ -2552,7 +2735,8 @@
                     "biddingChain":"-45.84",
                     "sealsChain":"-63.39",
                     "volChain":"244.46",
-                    "url":"ajsp-2"
+                    "url":"ajsp-2",
+                    "ddz":""
                 },
                 {
                     "pid":"603696",
@@ -2565,7 +2749,8 @@
                     "biddingChain":"-19.95",
                     "sealsChain":"196.67",
                     "volChain":"2.41",
-                    "url":"ajsp-3"
+                    "url":"ajsp-3",
+                    "ddz":""
                 },
                 {
                     "pid":"603696",
@@ -2578,7 +2763,8 @@
                     "biddingChain":"172.89",
                     "sealsChain":"-66.00",
                     "volChain":"37.42",
-                    "url":"ajsp-4"
+                    "url":"ajsp-4",
+                    "ddz":""
                 },
                 {
                     "pid":"603696",
@@ -2591,7 +2777,8 @@
                     "biddingChain":"-32.31",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"ajsp-5"
+                    "url":"ajsp-5",
+                    "ddz":""
                 }
             ]
         },
@@ -2612,7 +2799,8 @@
                     "biddingChain":"-83.96",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"hnfz-0"
+                    "url":"hnfz-0",
+                    "ddz":"17.324"
                 },
                 {
                     "pid":"000722",
@@ -2625,7 +2813,8 @@
                     "biddingChain":"762.37",
                     "sealsChain":"71.79",
                     "volChain":"71.89",
-                    "url":"hnfz-1"
+                    "url":"hnfz-1",
+                    "ddz":""
                 },
                 {
                     "pid":"000722",
@@ -2638,7 +2827,8 @@
                     "biddingChain":"89.62",
                     "sealsChain":"-22.16",
                     "volChain":"-28.66",
-                    "url":"hnfz-2"
+                    "url":"hnfz-2",
+                    "ddz":""
                 },
                 {
                     "pid":"000722",
@@ -2651,7 +2841,8 @@
                     "biddingChain":"-57.03",
                     "sealsChain":"139.48",
                     "volChain":"-46.19",
-                    "url":"hnfz-3"
+                    "url":"hnfz-3",
+                    "ddz":""
                 },
                 {
                     "pid":"000722",
@@ -2664,7 +2855,8 @@
                     "biddingChain":"464.70",
                     "sealsChain":"-39.57",
                     "volChain":"285.24",
-                    "url":"hnfz-4"
+                    "url":"hnfz-4",
+                    "ddz":""
                 },
                 {
                     "pid":"000722",
@@ -2677,7 +2869,8 @@
                     "biddingChain":"-21.09",
                     "sealsChain":"13.77",
                     "volChain":"-57.82",
-                    "url":"hnfz-5"
+                    "url":"hnfz-5",
+                    "ddz":""
                 },
                 {
                     "pid":"000722",
@@ -2690,7 +2883,8 @@
                     "biddingChain":"-5.07",
                     "sealsChain":"-33.26",
                     "volChain":"58.31",
-                    "url":"hnfz-6"
+                    "url":"hnfz-6",
+                    "ddz":""
                 },
                 {
                     "pid":"000722",
@@ -2703,7 +2897,8 @@
                     "biddingChain":"-16.42",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"hnfz-7"
+                    "url":"hnfz-7",
+                    "ddz":""
                 },
                 {
                     "pid":"000722",
@@ -2716,7 +2911,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"hnfz-8"
+                    "url":"hnfz-8",
+                    "ddz":""
                 },
                 {
                     "pid":"000722",
@@ -2729,7 +2925,8 @@
                     "biddingChain":"-14.51",
                     "sealsChain":"-32.12",
                     "volChain":"-8.95",
-                    "url":"hnfz-9"
+                    "url":"hnfz-9",
+                    "ddz":""
                 },
                 {
                     "pid":"000722",
@@ -2742,7 +2939,8 @@
                     "biddingChain":"42.22",
                     "sealsChain":"-28.11",
                     "volChain":"72.19",
-                    "url":"hnfz-10"
+                    "url":"hnfz-10",
+                    "ddz":""
                 },
                 {
                     "pid":"000722",
@@ -2755,7 +2953,8 @@
                     "biddingChain":"-44.62",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"hnfz-11"
+                    "url":"hnfz-11",
+                    "ddz":""
                 },
                 {
                     "pid":"000722",
@@ -2768,7 +2967,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"hnfz-12"
+                    "url":"hnfz-12",
+                    "ddz":""
                 }
             ]
         },
@@ -2789,7 +2989,8 @@
                     "biddingChain":"1.34",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zsgf-0"
+                    "url":"zsgf-0",
+                    "ddz":"43.060"
                 },
                 {
                     "pid":"002883",
@@ -2802,7 +3003,8 @@
                     "biddingChain":"787.91",
                     "sealsChain":"-89.89",
                     "volChain":"352.26",
-                    "url":"zsgf-1"
+                    "url":"zsgf-1",
+                    "ddz":""
                 },
                 {
                     "pid":"002883",
@@ -2815,7 +3017,8 @@
                     "biddingChain":"183.09",
                     "sealsChain":"779.88",
                     "volChain":"-64.99",
-                    "url":"zsgf-2"
+                    "url":"zsgf-2",
+                    "ddz":""
                 },
                 {
                     "pid":"002883",
@@ -2828,7 +3031,8 @@
                     "biddingChain":"77.39",
                     "sealsChain":"22.35",
                     "volChain":"378.42",
-                    "url":"zsgf-3"
+                    "url":"zsgf-3",
+                    "ddz":""
                 },
                 {
                     "pid":"002883",
@@ -2841,7 +3045,8 @@
                     "biddingChain":"-14.89",
                     "sealsChain":"-14.90",
                     "volChain":"5.98",
-                    "url":"zsgf-4"
+                    "url":"zsgf-4",
+                    "ddz":""
                 },
                 {
                     "pid":"002883",
@@ -2854,7 +3059,8 @@
                     "biddingChain":"3.20",
                     "sealsChain":"-10.57",
                     "volChain":"-2.80",
-                    "url":"zsgf-5"
+                    "url":"zsgf-5",
+                    "ddz":""
                 },
                 {
                     "pid":"002883",
@@ -2867,7 +3073,8 @@
                     "biddingChain":"-60.70",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zsgf-6"
+                    "url":"zsgf-6",
+                    "ddz":""
                 },
                 {
                     "pid":"002883",
@@ -2880,7 +3087,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zsgf-7"
+                    "url":"zsgf-7",
+                    "ddz":""
                 }
             ]
         },
@@ -2901,7 +3109,8 @@
                     "biddingChain":"429.01",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"ztkc-0"
+                    "url":"ztkc-0",
+                    "ddz":"64.335"
                 },
                 {
                     "pid":"000957",
@@ -2914,7 +3123,8 @@
                     "biddingChain":"1,663.92",
                     "sealsChain":"92.69",
                     "volChain":"42.43",
-                    "url":"ztkc-1"
+                    "url":"ztkc-1",
+                    "ddz":""
                 },
                 {
                     "pid":"000957",
@@ -2927,7 +3137,8 @@
                     "biddingChain":"90.74",
                     "sealsChain":"151.25",
                     "volChain":"67.66",
-                    "url":"ztkc-2"
+                    "url":"ztkc-2",
+                    "ddz":""
                 },
                 {
                     "pid":"000957",
@@ -2940,7 +3151,8 @@
                     "biddingChain":"-8.82",
                     "sealsChain":"107.07",
                     "volChain":"-83.07",
-                    "url":"ztkc-3"
+                    "url":"ztkc-3",
+                    "ddz":""
                 },
                 {
                     "pid":"000957",
@@ -2953,7 +3165,8 @@
                     "biddingChain":"375.20",
                     "sealsChain":"-57.43",
                     "volChain":"298.43",
-                    "url":"ztkc-4"
+                    "url":"ztkc-4",
+                    "ddz":""
                 },
                 {
                     "pid":"000957",
@@ -2966,7 +3179,8 @@
                     "biddingChain":"-59.72",
                     "sealsChain":"8.37",
                     "volChain":"-62.32",
-                    "url":"ztkc-5"
+                    "url":"ztkc-5",
+                    "ddz":""
                 },
                 {
                     "pid":"000957",
@@ -2979,7 +3193,8 @@
                     "biddingChain":"162.94",
                     "sealsChain":"-54.56",
                     "volChain":"1,220.40",
-                    "url":"ztkc-6"
+                    "url":"ztkc-6",
+                    "ddz":""
                 },
                 {
                     "pid":"000957",
@@ -2992,7 +3207,8 @@
                     "biddingChain":"-56.86",
                     "sealsChain":"78.90",
                     "volChain":"-41.55",
-                    "url":"ztkc-7"
+                    "url":"ztkc-7",
+                    "ddz":""
                 },
                 {
                     "pid":"000957",
@@ -3005,7 +3221,8 @@
                     "biddingChain":"-0.75",
                     "sealsChain":"-45.09",
                     "volChain":"83.65",
-                    "url":"ztkc-8"
+                    "url":"ztkc-8",
+                    "ddz":""
                 },
                 {
                     "pid":"000957",
@@ -3018,7 +3235,8 @@
                     "biddingChain":"34.74",
                     "sealsChain":"108.86",
                     "volChain":"1.88",
-                    "url":"ztkc-9"
+                    "url":"ztkc-9",
+                    "ddz":""
                 },
                 {
                     "pid":"000957",
@@ -3031,7 +3249,8 @@
                     "biddingChain":"-29.34",
                     "sealsChain":"-25.41",
                     "volChain":"-52.77",
-                    "url":"ztkc-10"
+                    "url":"ztkc-10",
+                    "ddz":""
                 },
                 {
                     "pid":"000957",
@@ -3044,7 +3263,8 @@
                     "biddingChain":"31.63",
                     "sealsChain":"-60.85",
                     "volChain":"89.45",
-                    "url":"ztkc-11"
+                    "url":"ztkc-11",
+                    "ddz":""
                 },
                 {
                     "pid":"000957",
@@ -3057,7 +3277,8 @@
                     "biddingChain":"-42.87",
                     "sealsChain":"42.54",
                     "volChain":"13.28",
-                    "url":"ztkc-12"
+                    "url":"ztkc-12",
+                    "ddz":""
                 },
                 {
                     "pid":"000957",
@@ -3070,7 +3291,8 @@
                     "biddingChain":"34.47",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"ztkc-13"
+                    "url":"ztkc-13",
+                    "ddz":""
                 },
                 {
                     "pid":"000957",
@@ -3083,7 +3305,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"ztkc-14"
+                    "url":"ztkc-14",
+                    "ddz":""
                 }
             ]
         },
@@ -3104,7 +3327,8 @@
                     "biddingChain":"131.46",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"btsy-0"
+                    "url":"btsy-0",
+                    "ddz":"49.386"
                 },
                 {
                     "pid":"000595",
@@ -3117,7 +3341,8 @@
                     "biddingChain":"726.89",
                     "sealsChain":"-23.20",
                     "volChain":"148.12",
-                    "url":"btsy-1"
+                    "url":"btsy-1",
+                    "ddz":""
                 },
                 {
                     "pid":"000595",
@@ -3130,7 +3355,8 @@
                     "biddingChain":"-11.36",
                     "sealsChain":"287.11",
                     "volChain":"-45.96",
-                    "url":"btsy-2"
+                    "url":"btsy-2",
+                    "ddz":""
                 },
                 {
                     "pid":"000595",
@@ -3143,7 +3369,8 @@
                     "biddingChain":"4,522.91",
                     "sealsChain":"-80.60",
                     "volChain":"3,429.69",
-                    "url":"btsy-3"
+                    "url":"btsy-3",
+                    "ddz":""
                 },
                 {
                     "pid":"000595",
@@ -3156,7 +3383,8 @@
                     "biddingChain":"-87.04",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"btsy-4"
+                    "url":"btsy-4",
+                    "ddz":""
                 },
                 {
                     "pid":"000595",
@@ -3169,7 +3397,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"btsy-5"
+                    "url":"btsy-5",
+                    "ddz":""
                 }
             ]
         },
@@ -3190,7 +3419,8 @@
                     "biddingChain":"-43.53",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"qjsl-0"
+                    "url":"qjsl-0",
+                    "ddz":"5.743"
                 },
                 {
                     "pid":"600283",
@@ -3203,7 +3433,8 @@
                     "biddingChain":"806.77",
                     "sealsChain":"528.83",
                     "volChain":"22.71",
-                    "url":"qjsl-1"
+                    "url":"qjsl-1",
+                    "ddz":""
                 },
                 {
                     "pid":"600283",
@@ -3216,7 +3447,8 @@
                     "biddingChain":"144.90",
                     "sealsChain":"-5.51",
                     "volChain":"-48.48",
-                    "url":"qjsl-2"
+                    "url":"qjsl-2",
+                    "ddz":""
                 },
                 {
                     "pid":"600283",
@@ -3229,7 +3461,8 @@
                     "biddingChain":"22.81",
                     "sealsChain":"44.10",
                     "volChain":"181.77",
-                    "url":"qjsl-3"
+                    "url":"qjsl-3",
+                    "ddz":""
                 },
                 {
                     "pid":"600283",
@@ -3242,7 +3475,8 @@
                     "biddingChain":"-5.00",
                     "sealsChain":"27.48",
                     "volChain":"-60.64",
-                    "url":"qjsl-4"
+                    "url":"qjsl-4",
+                    "ddz":""
                 },
                 {
                     "pid":"600283",
@@ -3255,7 +3489,8 @@
                     "biddingChain":"3.73",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"qjsl-5"
+                    "url":"qjsl-5",
+                    "ddz":""
                 }
             ]
         },
@@ -3276,7 +3511,8 @@
                     "biddingChain":"661.65",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zzmd-0"
+                    "url":"zzmd-0",
+                    "ddz":"17.207"
                 },
                 {
                     "pid":"600121",
@@ -3289,7 +3525,8 @@
                     "biddingChain":"945.18",
                     "sealsChain":"-14.46",
                     "volChain":"-32.85",
-                    "url":"zzmd-1"
+                    "url":"zzmd-1",
+                    "ddz":""
                 },
                 {
                     "pid":"600121",
@@ -3302,7 +3539,8 @@
                     "biddingChain":"30.88",
                     "sealsChain":"-53.24",
                     "volChain":"220.36",
-                    "url":"zzmd-2"
+                    "url":"zzmd-2",
+                    "ddz":""
                 },
                 {
                     "pid":"600121",
@@ -3315,7 +3553,8 @@
                     "biddingChain":"-28.99",
                     "sealsChain":"60.02",
                     "volChain":"-13.75",
-                    "url":"zzmd-3"
+                    "url":"zzmd-3",
+                    "ddz":""
                 },
                 {
                     "pid":"600121",
@@ -3328,7 +3567,8 @@
                     "biddingChain":"-24.31",
                     "sealsChain":"-70.38",
                     "volChain":"56.07",
-                    "url":"zzmd-4"
+                    "url":"zzmd-4",
+                    "ddz":""
                 },
                 {
                     "pid":"600121",
@@ -3341,7 +3581,8 @@
                     "biddingChain":"-6.15",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zzmd-5"
+                    "url":"zzmd-5",
+                    "ddz":""
                 }
             ]
         },
@@ -3362,7 +3603,8 @@
                     "biddingChain":"-83.74",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jtgf-0"
+                    "url":"jtgf-0",
+                    "ddz":"29.985"
                 },
                 {
                     "pid":"002909",
@@ -3375,7 +3617,8 @@
                     "biddingChain":"4.03万",
                     "sealsChain":"297.78",
                     "volChain":"27.20",
-                    "url":"jtgf-1"
+                    "url":"jtgf-1",
+                    "ddz":""
                 },
                 {
                     "pid":"002909",
@@ -3388,7 +3631,8 @@
                     "biddingChain":"67.21",
                     "sealsChain":"11.24",
                     "volChain":"-36.18",
-                    "url":"jtgf-2"
+                    "url":"jtgf-2",
+                    "ddz":""
                 },
                 {
                     "pid":"002909",
@@ -3401,7 +3645,8 @@
                     "biddingChain":"-74.01",
                     "sealsChain":"50.20",
                     "volChain":"-47.45",
-                    "url":"jtgf-3"
+                    "url":"jtgf-3",
+                    "ddz":""
                 },
                 {
                     "pid":"002909",
@@ -3414,7 +3659,8 @@
                     "biddingChain":"1,562.26",
                     "sealsChain":"-72.34",
                     "volChain":"1,195.35",
-                    "url":"jtgf-4"
+                    "url":"jtgf-4",
+                    "ddz":""
                 },
                 {
                     "pid":"002909",
@@ -3427,7 +3673,8 @@
                     "biddingChain":"-63.16",
                     "sealsChain":"292.60",
                     "volChain":"-88.72",
-                    "url":"jtgf-5"
+                    "url":"jtgf-5",
+                    "ddz":""
                 },
                 {
                     "pid":"002909",
@@ -3440,7 +3687,8 @@
                     "biddingChain":"517.51",
                     "sealsChain":"-45.39",
                     "volChain":"937.97",
-                    "url":"jtgf-6"
+                    "url":"jtgf-6",
+                    "ddz":""
                 },
                 {
                     "pid":"002909",
@@ -3453,7 +3701,8 @@
                     "biddingChain":"13.48",
                     "sealsChain":"-42.46",
                     "volChain":"58.08",
-                    "url":"jtgf-7"
+                    "url":"jtgf-7",
+                    "ddz":""
                 },
                 {
                     "pid":"002909",
@@ -3466,7 +3715,8 @@
                     "biddingChain":"-11.90",
                     "sealsChain":"-47.82",
                     "volChain":"35.48",
-                    "url":"jtgf-8"
+                    "url":"jtgf-8",
+                    "ddz":""
                 },
                 {
                     "pid":"002909",
@@ -3479,7 +3729,8 @@
                     "biddingChain":"-7.32",
                     "sealsChain":"-46.30",
                     "volChain":"37.57",
-                    "url":"jtgf-9"
+                    "url":"jtgf-9",
+                    "ddz":""
                 },
                 {
                     "pid":"002909",
@@ -3492,7 +3743,8 @@
                     "biddingChain":"-13.77",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jtgf-10"
+                    "url":"jtgf-10",
+                    "ddz":""
                 },
                 {
                     "pid":"002909",
@@ -3505,7 +3757,8 @@
                     "biddingChain":"56.34",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jtgf-11"
+                    "url":"jtgf-11",
+                    "ddz":""
                 },
                 {
                     "pid":"002909",
@@ -3518,7 +3771,8 @@
                     "biddingChain":"72.98",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jtgf-12"
+                    "url":"jtgf-12",
+                    "ddz":""
                 }
             ]
         },
@@ -3539,7 +3793,8 @@
                     "biddingChain":"2,322.22",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"szhA-0"
+                    "url":"szhA-0",
+                    "ddz":"1056.863"
                 },
                 {
                     "pid":"000017",
@@ -3552,7 +3807,8 @@
                     "biddingChain":"109.02",
                     "sealsChain":"-42.43",
                     "volChain":"525.04",
-                    "url":"szhA-1"
+                    "url":"szhA-1",
+                    "ddz":""
                 },
                 {
                     "pid":"000017",
@@ -3565,7 +3821,8 @@
                     "biddingChain":"97.68",
                     "sealsChain":"133.06",
                     "volChain":"-34.15",
-                    "url":"szhA-2"
+                    "url":"szhA-2",
+                    "ddz":""
                 },
                 {
                     "pid":"000017",
@@ -3578,7 +3835,8 @@
                     "biddingChain":"115.60",
                     "sealsChain":"20.42",
                     "volChain":"-46.79",
-                    "url":"szhA-3"
+                    "url":"szhA-3",
+                    "ddz":""
                 },
                 {
                     "pid":"000017",
@@ -3591,7 +3849,8 @@
                     "biddingChain":"68.70",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"szhA-4"
+                    "url":"szhA-4",
+                    "ddz":""
                 },
                 {
                     "pid":"000017",
@@ -3604,7 +3863,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"szhA-5"
+                    "url":"szhA-5",
+                    "ddz":""
                 }
             ]
         },
@@ -3625,7 +3885,8 @@
                     "biddingChain":"-76.64",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"sndA-0"
+                    "url":"sndA-0",
+                    "ddz":"139.923"
                 },
                 {
                     "pid":"000037",
@@ -3638,7 +3899,8 @@
                     "biddingChain":"814.04",
                     "sealsChain":"-11.43",
                     "volChain":"118.80",
-                    "url":"sndA-1"
+                    "url":"sndA-1",
+                    "ddz":""
                 },
                 {
                     "pid":"000037",
@@ -3651,7 +3913,8 @@
                     "biddingChain":"2.19",
                     "sealsChain":"-44.39",
                     "volChain":"65.73",
-                    "url":"sndA-2"
+                    "url":"sndA-2",
+                    "ddz":""
                 },
                 {
                     "pid":"000037",
@@ -3664,7 +3927,8 @@
                     "biddingChain":"85.80",
                     "sealsChain":"150.49",
                     "volChain":"-65.79",
-                    "url":"sndA-3"
+                    "url":"sndA-3",
+                    "ddz":""
                 },
                 {
                     "pid":"000037",
@@ -3677,7 +3941,8 @@
                     "biddingChain":"73.40",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"sndA-4"
+                    "url":"sndA-4",
+                    "ddz":""
                 }
             ]
         },
@@ -3698,7 +3963,8 @@
                     "biddingChain":"2,019.57",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"tegf-0"
+                    "url":"tegf-0",
+                    "ddz":"5.614"
                 },
                 {
                     "pid":"002347",
@@ -3711,7 +3977,8 @@
                     "biddingChain":"2,954.77",
                     "sealsChain":"772.02",
                     "volChain":"13.71",
-                    "url":"tegf-1"
+                    "url":"tegf-1",
+                    "ddz":""
                 },
                 {
                     "pid":"002347",
@@ -3724,7 +3991,8 @@
                     "biddingChain":"10.08",
                     "sealsChain":"135.16",
                     "volChain":"-85.62",
-                    "url":"tegf-2"
+                    "url":"tegf-2",
+                    "ddz":""
                 },
                 {
                     "pid":"002347",
@@ -3737,7 +4005,8 @@
                     "biddingChain":"793.18",
                     "sealsChain":"-37.35",
                     "volChain":"940.45",
-                    "url":"tegf-3"
+                    "url":"tegf-3",
+                    "ddz":""
                 },
                 {
                     "pid":"002347",
@@ -3750,7 +4019,8 @@
                     "biddingChain":"-83.24",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"tegf-4"
+                    "url":"tegf-4",
+                    "ddz":""
                 },
                 {
                     "pid":"002347",
@@ -3763,7 +4033,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"tegf-5"
+                    "url":"tegf-5",
+                    "ddz":""
                 }
             ]
         },
@@ -3784,7 +4055,8 @@
                     "biddingChain":"-87.25",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jlzn-0"
+                    "url":"jlzn-0",
+                    "ddz":"113.276"
                 },
                 {
                     "pid":"002031",
@@ -3797,7 +4069,8 @@
                     "biddingChain":"25.72万",
                     "sealsChain":"262.55",
                     "volChain":"63.46",
-                    "url":"jlzn-1"
+                    "url":"jlzn-1",
+                    "ddz":""
                 },
                 {
                     "pid":"002031",
@@ -3810,7 +4083,8 @@
                     "biddingChain":"19.11",
                     "sealsChain":"-15.97",
                     "volChain":"-20.05",
-                    "url":"jlzn-2"
+                    "url":"jlzn-2",
+                    "ddz":""
                 },
                 {
                     "pid":"002031",
@@ -3823,7 +4097,8 @@
                     "biddingChain":"-2.36",
                     "sealsChain":"-20.02",
                     "volChain":"98.21",
-                    "url":"jlzn-3"
+                    "url":"jlzn-3",
+                    "ddz":""
                 },
                 {
                     "pid":"002031",
@@ -3836,7 +4111,8 @@
                     "biddingChain":"46.79",
                     "sealsChain":"74.04",
                     "volChain":"-46.55",
-                    "url":"jlzn-4"
+                    "url":"jlzn-4",
+                    "ddz":""
                 },
                 {
                     "pid":"002031",
@@ -3849,7 +4125,8 @@
                     "biddingChain":"1,245.94",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jlzn-5"
+                    "url":"jlzn-5",
+                    "ddz":""
                 },
                 {
                     "pid":"002031",
@@ -3862,7 +4139,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jlzn-6"
+                    "url":"jlzn-6",
+                    "ddz":""
                 }
             ]
         },
@@ -3883,7 +4161,8 @@
                     "biddingChain":"4.74",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"xmzt-0"
+                    "url":"xmzt-0",
+                    "ddz":"48.015"
                 },
                 {
                     "pid":"002355",
@@ -3896,7 +4175,8 @@
                     "biddingChain":"508.09",
                     "sealsChain":"65.87",
                     "volChain":"22.03",
-                    "url":"xmzt-1"
+                    "url":"xmzt-1",
+                    "ddz":""
                 },
                 {
                     "pid":"002355",
@@ -3909,7 +4189,8 @@
                     "biddingChain":"6.13",
                     "sealsChain":"-57.71",
                     "volChain":"44.91",
-                    "url":"xmzt-2"
+                    "url":"xmzt-2",
+                    "ddz":""
                 },
                 {
                     "pid":"002355",
@@ -3922,7 +4203,8 @@
                     "biddingChain":"-27.26",
                     "sealsChain":"228.44",
                     "volChain":"-45.32",
-                    "url":"xmzt-3"
+                    "url":"xmzt-3",
+                    "ddz":""
                 },
                 {
                     "pid":"002355",
@@ -3935,7 +4217,8 @@
                     "biddingChain":"86.23",
                     "sealsChain":"26.72",
                     "volChain":"94.44",
-                    "url":"xmzt-4"
+                    "url":"xmzt-4",
+                    "ddz":""
                 },
                 {
                     "pid":"002355",
@@ -3948,7 +4231,8 @@
                     "biddingChain":"36.14",
                     "sealsChain":"-38.03",
                     "volChain":"74.41",
-                    "url":"xmzt-5"
+                    "url":"xmzt-5",
+                    "ddz":""
                 },
                 {
                     "pid":"002355",
@@ -3961,7 +4245,8 @@
                     "biddingChain":"95.28",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"xmzt-6"
+                    "url":"xmzt-6",
+                    "ddz":""
                 }
             ]
         },
@@ -3982,7 +4267,8 @@
                     "biddingChain":"-6.67",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jab-0"
+                    "url":"jab-0",
+                    "ddz":"20.288"
                 },
                 {
                     "pid":"002917",
@@ -3995,7 +4281,8 @@
                     "biddingChain":"2.99万",
                     "sealsChain":"64.89",
                     "volChain":"48.01",
-                    "url":"jab-1"
+                    "url":"jab-1",
+                    "ddz":""
                 },
                 {
                     "pid":"002917",
@@ -4008,7 +4295,8 @@
                     "biddingChain":"86.84",
                     "sealsChain":"-27.26",
                     "volChain":"22.42",
-                    "url":"jab-2"
+                    "url":"jab-2",
+                    "ddz":""
                 },
                 {
                     "pid":"002917",
@@ -4021,7 +4309,8 @@
                     "biddingChain":"-16.88",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jab-3"
+                    "url":"jab-3",
+                    "ddz":""
                 }
             ]
         },
@@ -4042,7 +4331,8 @@
                     "biddingChain":"4.08万",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"rfgf-0"
+                    "url":"rfgf-0",
+                    "ddz":"65.651"
                 },
                 {
                     "pid":"002953",
@@ -4055,7 +4345,8 @@
                     "biddingChain":"2,067.96",
                     "sealsChain":"7.78",
                     "volChain":"72.54",
-                    "url":"rfgf-1"
+                    "url":"rfgf-1",
+                    "ddz":""
                 },
                 {
                     "pid":"002953",
@@ -4068,7 +4359,8 @@
                     "biddingChain":"-11.97",
                     "sealsChain":"181.77",
                     "volChain":"220.01",
-                    "url":"rfgf-2"
+                    "url":"rfgf-2",
+                    "ddz":""
                 },
                 {
                     "pid":"002953",
@@ -4081,7 +4373,8 @@
                     "biddingChain":"67.72",
                     "sealsChain":"22.61",
                     "volChain":"-8.41",
-                    "url":"rfgf-3"
+                    "url":"rfgf-3",
+                    "ddz":""
                 },
                 {
                     "pid":"002953",
@@ -4094,7 +4387,8 @@
                     "biddingChain":"-48.29",
                     "sealsChain":"95.72",
                     "volChain":"-90.47",
-                    "url":"rfgf-4"
+                    "url":"rfgf-4",
+                    "ddz":""
                 },
                 {
                     "pid":"002953",
@@ -4107,7 +4401,8 @@
                     "biddingChain":"474.28",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"rfgf-5"
+                    "url":"rfgf-5",
+                    "ddz":""
                 },
                 {
                     "pid":"002953",
@@ -4120,7 +4415,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"rfgf-6"
+                    "url":"rfgf-6",
+                    "ddz":""
                 }
             ]
         },
@@ -4141,7 +4437,8 @@
                     "biddingChain":"-24.05",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"thzn-0"
+                    "url":"thzn-0",
+                    "ddz":"30.475"
                 },
                 {
                     "pid":"603656",
@@ -4154,7 +4451,8 @@
                     "biddingChain":"1,476.70",
                     "sealsChain":"1.73",
                     "volChain":"91.19",
-                    "url":"thzn-1"
+                    "url":"thzn-1",
+                    "ddz":""
                 },
                 {
                     "pid":"603656",
@@ -4167,7 +4465,8 @@
                     "biddingChain":"43.64",
                     "sealsChain":"-68.70",
                     "volChain":"65.32",
-                    "url":"thzn-2"
+                    "url":"thzn-2",
+                    "ddz":""
                 },
                 {
                     "pid":"603656",
@@ -4180,7 +4479,8 @@
                     "biddingChain":"-46.39",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"thzn-3"
+                    "url":"thzn-3",
+                    "ddz":""
                 }
             ]
         },
@@ -4201,7 +4501,8 @@
                     "biddingChain":"-22.56",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"gngf-0"
+                    "url":"gngf-0",
+                    "ddz":"132.629"
                 },
                 {
                     "pid":"000899",
@@ -4214,7 +4515,8 @@
                     "biddingChain":"2,782.24",
                     "sealsChain":"-48.79",
                     "volChain":"380.63",
-                    "url":"gngf-1"
+                    "url":"gngf-1",
+                    "ddz":""
                 },
                 {
                     "pid":"000899",
@@ -4227,7 +4529,8 @@
                     "biddingChain":"22.62",
                     "sealsChain":"142.87",
                     "volChain":"-10.61",
-                    "url":"gngf-2"
+                    "url":"gngf-2",
+                    "ddz":""
                 },
                 {
                     "pid":"000899",
@@ -4240,7 +4543,8 @@
                     "biddingChain":"27.64",
                     "sealsChain":"13.46",
                     "volChain":"5.19",
-                    "url":"gngf-3"
+                    "url":"gngf-3",
+                    "ddz":""
                 },
                 {
                     "pid":"000899",
@@ -4253,7 +4557,8 @@
                     "biddingChain":"129.94",
                     "sealsChain":"13.46",
                     "volChain":"-41.22",
-                    "url":"gngf-4"
+                    "url":"gngf-4",
+                    "ddz":""
                 },
                 {
                     "pid":"000899",
@@ -4266,7 +4571,8 @@
                     "biddingChain":"-8.90",
                     "sealsChain":"20.65",
                     "volChain":"130.11",
-                    "url":"gngf-5"
+                    "url":"gngf-5",
+                    "ddz":""
                 },
                 {
                     "pid":"000899",
@@ -4279,7 +4585,8 @@
                     "biddingChain":"39.43",
                     "sealsChain":"-7.44",
                     "volChain":"-63.93",
-                    "url":"gngf-6"
+                    "url":"gngf-6",
+                    "ddz":""
                 },
                 {
                     "pid":"000899",
@@ -4292,7 +4599,8 @@
                     "biddingChain":"-3.82",
                     "sealsChain":"-18.29",
                     "volChain":"180.20",
-                    "url":"gngf-7"
+                    "url":"gngf-7",
+                    "ddz":""
                 },
                 {
                     "pid":"000899",
@@ -4305,7 +4613,8 @@
                     "biddingChain":"-30.67",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"gngf-8"
+                    "url":"gngf-8",
+                    "ddz":""
                 },
                 {
                     "pid":"000899",
@@ -4318,7 +4627,8 @@
                     "biddingChain":"1,245.94",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"gngf-9"
+                    "url":"gngf-9",
+                    "ddz":""
                 }
             ]
         },
@@ -4339,7 +4649,8 @@
                     "biddingChain":"1,626.36",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"gzsw-0"
+                    "url":"gzsw-0",
+                    "ddz":"46.919"
                 },
                 {
                     "pid":"600187",
@@ -4352,7 +4663,8 @@
                     "biddingChain":"1,476.70",
                     "sealsChain":"85.75",
                     "volChain":"54.80",
-                    "url":"gzsw-1"
+                    "url":"gzsw-1",
+                    "ddz":""
                 },
                 {
                     "pid":"600187",
@@ -4365,7 +4677,8 @@
                     "biddingChain":"1.61",
                     "sealsChain":"1,286.03",
                     "volChain":"-88.77",
-                    "url":"gzsw-2"
+                    "url":"gzsw-2",
+                    "ddz":""
                 },
                 {
                     "pid":"600187",
@@ -4378,7 +4691,8 @@
                     "biddingChain":"-58.15",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"gzsw-3"
+                    "url":"gzsw-3",
+                    "ddz":""
                 }
             ]
         },
@@ -4399,7 +4713,8 @@
                     "biddingChain":"192.36",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"ftgf-0"
+                    "url":"ftgf-0",
+                    "ddz":"61.030"
                 },
                 {
                     "pid":"000629",
@@ -4412,7 +4727,8 @@
                     "biddingChain":"929.95",
                     "sealsChain":"35.54",
                     "volChain":"-7.43",
-                    "url":"ftgf-1"
+                    "url":"ftgf-1",
+                    "ddz":""
                 },
                 {
                     "pid":"000629",
@@ -4425,7 +4741,8 @@
                     "biddingChain":"119.19",
                     "sealsChain":"13.94",
                     "volChain":"-20.31",
-                    "url":"ftgf-2"
+                    "url":"ftgf-2",
+                    "ddz":""
                 },
                 {
                     "pid":"000629",
@@ -4438,7 +4755,8 @@
                     "biddingChain":"-76.95",
                     "sealsChain":"-80.46",
                     "volChain":"394.34",
-                    "url":"ftgf-3"
+                    "url":"ftgf-3",
+                    "ddz":""
                 },
                 {
                     "pid":"000629",
@@ -4451,7 +4769,8 @@
                     "biddingChain":"207.32",
                     "sealsChain":"247.56",
                     "volChain":"-27.07",
-                    "url":"ftgf-4"
+                    "url":"ftgf-4",
+                    "ddz":""
                 },
                 {
                     "pid":"000629",
@@ -4464,7 +4783,8 @@
                     "biddingChain":"36.61",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"ftgf-5"
+                    "url":"ftgf-5",
+                    "ddz":""
                 },
                 {
                     "pid":"000629",
@@ -4477,7 +4797,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"ftgf-6"
+                    "url":"ftgf-6",
+                    "ddz":""
                 }
             ]
         },
@@ -4498,20 +4819,22 @@
                     "biddingChain":"-32.43",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jzkj-0"
+                    "url":"jzkj-0",
+                    "ddz":"61.207"
                 },
                 {
                     "pid":"002090",
                     "date":"2022-07-05",
                     "seals":"575.71万",
-                    "sealsAmount":"16,200.35万",
+                    "sealsAmount":"6,200.35万",
                     "sealsVol":"49.82",
                     "discharge":"",
                     "bidding":"7.97",
                     "biddingChain":"2.75万",
                     "sealsChain":"44.83",
                     "volChain":"-28.55",
-                    "url":"jzkj-1"
+                    "url":"jzkj-1",
+                    "ddz":""
                 },
                 {
                     "pid":"002090",
@@ -4524,7 +4847,8 @@
                     "biddingChain":"140.65",
                     "sealsChain":"117.07",
                     "volChain":"13.28",
-                    "url":"jzkj-2"
+                    "url":"jzkj-2",
+                    "ddz":""
                 },
                 {
                     "pid":"002090",
@@ -4537,7 +4861,8 @@
                     "biddingChain":"108.19",
                     "sealsChain":"-52.65",
                     "volChain":"592.25",
-                    "url":"jzkj-3"
+                    "url":"jzkj-3",
+                    "ddz":""
                 },
                 {
                     "pid":"002090",
@@ -4550,7 +4875,8 @@
                     "biddingChain":"-23.45",
                     "sealsChain":"36.87",
                     "volChain":"-28.80",
-                    "url":"jzkj-4"
+                    "url":"jzkj-4",
+                    "ddz":""
                 },
                 {
                     "pid":"002090",
@@ -4563,7 +4889,8 @@
                     "biddingChain":"-15.79",
                     "sealsChain":"29.14",
                     "volChain":"118.26",
-                    "url":"jzkj-5"
+                    "url":"jzkj-5",
+                    "ddz":""
                 },
                 {
                     "pid":"002090",
@@ -4576,7 +4903,8 @@
                     "biddingChain":"23.11",
                     "sealsChain":"-42.12",
                     "volChain":"7.29",
-                    "url":"jzkj-6"
+                    "url":"jzkj-6",
+                    "ddz":""
                 },
                 {
                     "pid":"002090",
@@ -4589,7 +4917,8 @@
                     "biddingChain":"-31.52",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jzkj-7"
+                    "url":"jzkj-7",
+                    "ddz":""
                 },
                 {
                     "pid":"002090",
@@ -4602,7 +4931,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jzkj-8"
+                    "url":"jzkj-8",
+                    "ddz":""
                 }
             ]
         },
@@ -4623,7 +4953,8 @@
                     "biddingChain":"-1.54",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"glgf-0"
+                    "url":"glgf-0",
+                    "ddz":"73.080"
                 },
                 {
                     "pid":"002348",
@@ -4636,7 +4967,8 @@
                     "biddingChain":"2,444.07",
                     "sealsChain":"-13.68",
                     "volChain":"-5.02",
-                    "url":"glgf-1"
+                    "url":"glgf-1",
+                    "ddz":""
                 },
                 {
                     "pid":"002348",
@@ -4649,7 +4981,8 @@
                     "biddingChain":"9.09",
                     "sealsChain":"17.75",
                     "volChain":"72.67",
-                    "url":"glgf-2"
+                    "url":"glgf-2",
+                    "ddz":""
                 },
                 {
                     "pid":"002348",
@@ -4662,7 +4995,8 @@
                     "biddingChain":"308.09",
                     "sealsChain":"-26.79",
                     "volChain":"13.59",
-                    "url":"glgf-3"
+                    "url":"glgf-3",
+                    "ddz":""
                 },
                 {
                     "pid":"002348",
@@ -4675,7 +5009,8 @@
                     "biddingChain":"-58.27",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"glgf-4"
+                    "url":"glgf-4",
+                    "ddz":""
                 }
             ]
         },
@@ -4696,7 +5031,8 @@
                     "biddingChain":"228.30",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"hdgk-0"
+                    "url":"hdgk-0",
+                    "ddz":"38.140"
                 },
                 {
                     "pid":"002144",
@@ -4709,7 +5045,8 @@
                     "biddingChain":"8,719.54",
                     "sealsChain":"11.77",
                     "volChain":"21.51",
-                    "url":"hdgk-1"
+                    "url":"hdgk-1",
+                    "ddz":""
                 },
                 {
                     "pid":"002144",
@@ -4722,7 +5059,8 @@
                     "biddingChain":"53.96",
                     "sealsChain":"-29.84",
                     "volChain":"75.18",
-                    "url":"hdgk-2"
+                    "url":"hdgk-2",
+                    "ddz":""
                 },
                 {
                     "pid":"002144",
@@ -4735,7 +5073,8 @@
                     "biddingChain":"-38.11",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"hdgk-3"
+                    "url":"hdgk-3",
+                    "ddz":""
                 }
             ]
         },
@@ -4756,7 +5095,8 @@
                     "biddingChain":"121.28",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"sxlq-0"
+                    "url":"sxlq-0",
+                    "ddz":"133.827"
                 },
                 {
                     "pid":"000755",
@@ -4769,7 +5109,8 @@
                     "biddingChain":"4,486.35",
                     "sealsChain":"-87.26",
                     "volChain":"124.23",
-                    "url":"sxlq-1"
+                    "url":"sxlq-1",
+                    "ddz":""
                 },
                 {
                     "pid":"000755",
@@ -4782,7 +5123,8 @@
                     "biddingChain":"45.62",
                     "sealsChain":"123.41",
                     "volChain":"-26.37",
-                    "url":"sxlq-2"
+                    "url":"sxlq-2",
+                    "ddz":""
                 },
                 {
                     "pid":"000755",
@@ -4795,7 +5137,8 @@
                     "biddingChain":"3,212.36",
                     "sealsChain":"-96.18",
                     "volChain":"1,955.57",
-                    "url":"sxlq-3"
+                    "url":"sxlq-3",
+                    "ddz":""
                 },
                 {
                     "pid":"000755",
@@ -4808,7 +5151,8 @@
                     "biddingChain":"-68.33",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"sxlq-4"
+                    "url":"sxlq-4",
+                    "ddz":""
                 },
                 {
                     "pid":"000755",
@@ -4821,7 +5165,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"sxlq-5"
+                    "url":"sxlq-5",
+                    "ddz":""
                 }
             ]
         },
@@ -4842,7 +5187,8 @@
                     "biddingChain":"27.78",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"rkyy-0"
+                    "url":"rkyy-0",
+                    "ddz":"36.286"
                 },
                 {
                     "pid":"002589",
@@ -4855,7 +5201,8 @@
                     "biddingChain":"4,434.90",
                     "sealsChain":"46.54",
                     "volChain":"-82.61",
-                    "url":"rkyy-1"
+                    "url":"rkyy-1",
+                    "ddz":""
                 },
                 {
                     "pid":"002589",
@@ -4868,7 +5215,8 @@
                     "biddingChain":"298.77",
                     "sealsChain":"-60.73",
                     "volChain":"1,113.81",
-                    "url":"rkyy-2"
+                    "url":"rkyy-2",
+                    "ddz":""
                 },
                 {
                     "pid":"002589",
@@ -4881,7 +5229,8 @@
                     "biddingChain":"-48.31",
                     "sealsChain":"255.05",
                     "volChain":"-70.44",
-                    "url":"rkyy-3"
+                    "url":"rkyy-3",
+                    "ddz":""
                 },
                 {
                     "pid":"002589",
@@ -4894,7 +5243,8 @@
                     "biddingChain":"88.25",
                     "sealsChain":"-75.53",
                     "volChain":"405.37",
-                    "url":"rkyy-4"
+                    "url":"rkyy-4",
+                    "ddz":""
                 },
                 {
                     "pid":"002589",
@@ -4907,7 +5257,8 @@
                     "biddingChain":"-63.80",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"rkyy-5"
+                    "url":"rkyy-5",
+                    "ddz":""
                 }
             ]
         },
@@ -4928,7 +5279,8 @@
                     "biddingChain":"1,300.00",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"ccdg-0"
+                    "url":"ccdg-0",
+                    "ddz":"45.159"
                 },
                 {
                     "pid":"600192",
@@ -4941,7 +5293,8 @@
                     "biddingChain":"2,472.01",
                     "sealsChain":"-23.94",
                     "volChain":"131.11",
-                    "url":"ccdg-1"
+                    "url":"ccdg-1",
+                    "ddz":""
                 },
                 {
                     "pid":"600192",
@@ -4954,7 +5307,8 @@
                     "biddingChain":"8.96",
                     "sealsChain":"144.09",
                     "volChain":"-36.86",
-                    "url":"ccdg-2"
+                    "url":"ccdg-2",
+                    "ddz":""
                 },
                 {
                     "pid":"600192",
@@ -4967,7 +5321,8 @@
                     "biddingChain":"78.63",
                     "sealsChain":"-88.56",
                     "volChain":"243.96",
-                    "url":"ccdg-3"
+                    "url":"ccdg-3",
+                    "ddz":""
                 },
                 {
                     "pid":"600192",
@@ -4980,7 +5335,8 @@
                     "biddingChain":"92.25",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"ccdg-4"
+                    "url":"ccdg-4",
+                    "ddz":""
                 }
             ]
         },
@@ -5001,7 +5357,8 @@
                     "biddingChain":"1,673.85",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"hdgx-0"
+                    "url":"hdgx-0",
+                    "ddz":"42.435"
                 },
                 {
                     "pid":"002591",
@@ -5014,7 +5371,8 @@
                     "biddingChain":"4,119.17",
                     "sealsChain":"-42.34",
                     "volChain":"60.20",
-                    "url":"hdgx-1"
+                    "url":"hdgx-1",
+                    "ddz":""
                 },
                 {
                     "pid":"002591",
@@ -5027,7 +5385,8 @@
                     "biddingChain":"10.65",
                     "sealsChain":"-27.36",
                     "volChain":"7.95",
-                    "url":"hdgx-2"
+                    "url":"hdgx-2",
+                    "ddz":""
                 },
                 {
                     "pid":"002591",
@@ -5040,7 +5399,8 @@
                     "biddingChain":"-22.22",
                     "sealsChain":"52.13",
                     "volChain":"-39.76",
-                    "url":"hdgx-3"
+                    "url":"hdgx-3",
+                    "ddz":""
                 },
                 {
                     "pid":"002591",
@@ -5053,7 +5413,8 @@
                     "biddingChain":"14.99",
                     "sealsChain":"26.13",
                     "volChain":"-10.14",
-                    "url":"hdgx-4"
+                    "url":"hdgx-4",
+                    "ddz":""
                 },
                 {
                     "pid":"002591",
@@ -5066,7 +5427,8 @@
                     "biddingChain":"-13.84",
                     "sealsChain":"58.09",
                     "volChain":"-79.49",
-                    "url":"hdgx-5"
+                    "url":"hdgx-5",
+                    "ddz":""
                 },
                 {
                     "pid":"002591",
@@ -5079,7 +5441,8 @@
                     "biddingChain":"-73.13",
                     "sealsChain":"-22.32",
                     "volChain":"1,271.43",
-                    "url":"hdgx-6"
+                    "url":"hdgx-6",
+                    "ddz":""
                 },
                 {
                     "pid":"002591",
@@ -5092,7 +5455,8 @@
                     "biddingChain":"347.44",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"hdgx-7"
+                    "url":"hdgx-7",
+                    "ddz":""
                 },
                 {
                     "pid":"002591",
@@ -5105,7 +5469,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"hdgx-8"
+                    "url":"hdgx-8",
+                    "ddz":""
                 }
             ]
         },
@@ -5126,7 +5491,8 @@
                     "biddingChain":"154.17",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"sjkj-0"
+                    "url":"sjkj-0",
+                    "ddz":"78.768"
                 },
                 {
                     "pid":"002796",
@@ -5139,7 +5505,8 @@
                     "biddingChain":"2,229.84",
                     "sealsChain":"123.18",
                     "volChain":"263.74",
-                    "url":"sjkj-1"
+                    "url":"sjkj-1",
+                    "ddz":""
                 },
                 {
                     "pid":"002796",
@@ -5152,7 +5519,8 @@
                     "biddingChain":"29.40",
                     "sealsChain":"79.34",
                     "volChain":"-16.97",
-                    "url":"sjkj-2"
+                    "url":"sjkj-2",
+                    "ddz":""
                 },
                 {
                     "pid":"002796",
@@ -5165,7 +5533,8 @@
                     "biddingChain":"112.03",
                     "sealsChain":"12.96",
                     "volChain":"-59.76",
-                    "url":"sjkj-3"
+                    "url":"sjkj-3",
+                    "ddz":""
                 },
                 {
                     "pid":"002796",
@@ -5178,7 +5547,8 @@
                     "biddingChain":"101.78",
                     "sealsChain":"-43.23",
                     "volChain":"542.90",
-                    "url":"sjkj-4"
+                    "url":"sjkj-4",
+                    "ddz":""
                 },
                 {
                     "pid":"002796",
@@ -5191,7 +5561,8 @@
                     "biddingChain":"-30.36",
                     "sealsChain":"7.69",
                     "volChain":"-2.00",
-                    "url":"sjkj-5"
+                    "url":"sjkj-5",
+                    "ddz":""
                 },
                 {
                     "pid":"002796",
@@ -5204,7 +5575,8 @@
                     "biddingChain":"-28.46",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"sjkj-6"
+                    "url":"sjkj-6",
+                    "ddz":""
                 }
             ]
         },
@@ -5225,7 +5597,8 @@
                     "biddingChain":"187.06",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jly-0"
+                    "url":"jly-0",
+                    "ddz":"91.284"
                 },
                 {
                     "pid":"002882",
@@ -5238,7 +5611,8 @@
                     "biddingChain":"2,079.92",
                     "sealsChain":"22.22",
                     "volChain":"154.96",
-                    "url":"jly-1"
+                    "url":"jly-1",
+                    "ddz":""
                 },
                 {
                     "pid":"002882",
@@ -5251,7 +5625,8 @@
                     "biddingChain":"113.24",
                     "sealsChain":"-52.67",
                     "volChain":"29.64",
-                    "url":"jly-2"
+                    "url":"jly-2",
+                    "ddz":""
                 },
                 {
                     "pid":"002882",
@@ -5264,7 +5639,8 @@
                     "biddingChain":"44.06",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jly-3"
+                    "url":"jly-3",
+                    "ddz":""
                 },
                 {
                     "pid":"002882",
@@ -5277,7 +5653,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jly-4"
+                    "url":"jly-4",
+                    "ddz":""
                 }
             ]
         },
@@ -5298,7 +5675,8 @@
                     "biddingChain":"160.48",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"sfhy-0"
+                    "url":"sfhy-0",
+                    "ddz":"91.989"
                 },
                 {
                     "pid":"000631",
@@ -5311,7 +5689,8 @@
                     "biddingChain":"1,304.85",
                     "sealsChain":"98.95",
                     "volChain":"69.05",
-                    "url":"sfhy-1"
+                    "url":"sfhy-1",
+                    "ddz":""
                 },
                 {
                     "pid":"000631",
@@ -5324,7 +5703,8 @@
                     "biddingChain":"101.47",
                     "sealsChain":"-40.55",
                     "volChain":"8.92",
-                    "url":"sfhy-2"
+                    "url":"sfhy-2",
+                    "ddz":""
                 },
                 {
                     "pid":"000631",
@@ -5337,7 +5717,8 @@
                     "biddingChain":"17.80",
                     "sealsChain":"35.75",
                     "volChain":"-41.50",
-                    "url":"sfhy-3"
+                    "url":"sfhy-3",
+                    "ddz":""
                 },
                 {
                     "pid":"000631",
@@ -5350,7 +5731,8 @@
                     "biddingChain":"8.44",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"sfhy-4"
+                    "url":"sfhy-4",
+                    "ddz":""
                 },
                 {
                     "pid":"000631",
@@ -5363,7 +5745,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"sfhy-5"
+                    "url":"sfhy-5",
+                    "ddz":""
                 }
             ]
         },
@@ -5384,7 +5767,8 @@
                     "biddingChain":"137.74",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zyhb-0"
+                    "url":"zyhb-0",
+                    "ddz":"57.062"
                 },
                 {
                     "pid":"000544",
@@ -5397,7 +5781,8 @@
                     "biddingChain":"9,771.03",
                     "sealsChain":"31.70",
                     "volChain":"98.28",
-                    "url":"zyhb-1"
+                    "url":"zyhb-1",
+                    "ddz":""
                 },
                 {
                     "pid":"000544",
@@ -5410,7 +5795,8 @@
                     "biddingChain":"217.83",
                     "sealsChain":"50.61",
                     "volChain":"-13.19",
-                    "url":"zyhb-2"
+                    "url":"zyhb-2",
+                    "ddz":""
                 },
                 {
                     "pid":"000544",
@@ -5423,7 +5809,8 @@
                     "biddingChain":"38.02",
                     "sealsChain":"-14.32",
                     "volChain":"-28.23",
-                    "url":"zyhb-3"
+                    "url":"zyhb-3",
+                    "ddz":""
                 },
                 {
                     "pid":"000544",
@@ -5436,7 +5823,8 @@
                     "biddingChain":"-60.60",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zyhb-4"
+                    "url":"zyhb-4",
+                    "ddz":""
                 },
                 {
                     "pid":"000544",
@@ -5449,7 +5837,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zyhb-5"
+                    "url":"zyhb-5",
+                    "ddz":""
                 }
             ]
         },
@@ -5470,7 +5859,8 @@
                     "biddingChain":"18.48",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"fes-0"
+                    "url":"fes-0",
+                    "ddz":"38.262"
                 },
                 {
                     "pid":"000890",
@@ -5483,7 +5873,8 @@
                     "biddingChain":"5,489.91",
                     "sealsChain":"16.69",
                     "volChain":"23.74",
-                    "url":"fes-1"
+                    "url":"fes-1",
+                    "ddz":""
                 },
                 {
                     "pid":"000890",
@@ -5496,7 +5887,8 @@
                     "biddingChain":"250.04",
                     "sealsChain":"87.53",
                     "volChain":"216.59",
-                    "url":"fes-2"
+                    "url":"fes-2",
+                    "ddz":""
                 },
                 {
                     "pid":"000890",
@@ -5509,7 +5901,8 @@
                     "biddingChain":"49.55",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"fes-3"
+                    "url":"fes-3",
+                    "ddz":""
                 }
             ]
         },
@@ -5530,7 +5923,8 @@
                     "biddingChain":"-94.47",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"mdgf-0"
+                    "url":"mdgf-0",
+                    "ddz":"40.046"
                 },
                 {
                     "pid":"000782",
@@ -5543,7 +5937,8 @@
                     "biddingChain":"3.68万",
                     "sealsChain":"153.07",
                     "volChain":"2.02",
-                    "url":"mdgf-1"
+                    "url":"mdgf-1",
+                    "ddz":""
                 },
                 {
                     "pid":"000782",
@@ -5556,7 +5951,8 @@
                     "biddingChain":"155.27",
                     "sealsChain":"21.09",
                     "volChain":"374.84",
-                    "url":"mdgf-2"
+                    "url":"mdgf-2",
+                    "ddz":""
                 },
                 {
                     "pid":"000782",
@@ -5569,7 +5965,8 @@
                     "biddingChain":"91.05",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"mdgf-3"
+                    "url":"mdgf-3",
+                    "ddz":""
                 }
             ]
         },
@@ -5590,7 +5987,8 @@
                     "biddingChain":"-5.71",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"frny-0"
+                    "url":"frny-0",
+                    "ddz":"49.229"
                 },
                 {
                     "pid":"002911",
@@ -5603,7 +6001,8 @@
                     "biddingChain":"3,973.08",
                     "sealsChain":"-54.69",
                     "volChain":"229.47",
-                    "url":"frny-1"
+                    "url":"frny-1",
+                    "ddz":""
                 },
                 {
                     "pid":"002911",
@@ -5616,7 +6015,8 @@
                     "biddingChain":"350.12",
                     "sealsChain":"-10.38",
                     "volChain":"50.82",
-                    "url":"frny-2"
+                    "url":"frny-2",
+                    "ddz":""
                 },
                 {
                     "pid":"002911",
@@ -5629,7 +6029,8 @@
                     "biddingChain":"9.91",
                     "sealsChain":"43.69",
                     "volChain":"-6.41",
-                    "url":"frny-3"
+                    "url":"frny-3",
+                    "ddz":""
                 },
                 {
                     "pid":"002911",
@@ -5642,7 +6043,8 @@
                     "biddingChain":"124.83",
                     "sealsChain":"190.38",
                     "volChain":"-60.16",
-                    "url":"frny-4"
+                    "url":"frny-4",
+                    "ddz":""
                 },
                 {
                     "pid":"002911",
@@ -5655,7 +6057,8 @@
                     "biddingChain":"-67.28",
                     "sealsChain":"-62.12",
                     "volChain":"133.75",
-                    "url":"frny-5"
+                    "url":"frny-5",
+                    "ddz":""
                 },
                 {
                     "pid":"002911",
@@ -5668,7 +6071,8 @@
                     "biddingChain":"123.55",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"frny-6"
+                    "url":"frny-6",
+                    "ddz":""
                 }
             ]
         },
@@ -5689,7 +6093,8 @@
                     "biddingChain":"-59.65",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"rsjt-0"
+                    "url":"rsjt-0",
+                    "ddz":"41.142"
                 },
                 {
                     "pid":"002593",
@@ -5702,7 +6107,8 @@
                     "biddingChain":"3.24万",
                     "sealsChain":"27.85",
                     "volChain":"0.41",
-                    "url":"rsjt-1"
+                    "url":"rsjt-1",
+                    "ddz":""
                 },
                 {
                     "pid":"002593",
@@ -5715,7 +6121,8 @@
                     "biddingChain":"143.05",
                     "sealsChain":"94.40",
                     "volChain":"26.02",
-                    "url":"rsjt-2"
+                    "url":"rsjt-2",
+                    "ddz":""
                 },
                 {
                     "pid":"002593",
@@ -5728,7 +6135,8 @@
                     "biddingChain":"-11.72",
                     "sealsChain":"-49.00",
                     "volChain":"1,306.18",
-                    "url":"rsjt-3"
+                    "url":"rsjt-3",
+                    "ddz":""
                 },
                 {
                     "pid":"002593",
@@ -5741,7 +6149,8 @@
                     "biddingChain":"261.43",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"rsjt-4"
+                    "url":"rsjt-4",
+                    "ddz":""
                 }
             ]
         },
@@ -5762,7 +6171,8 @@
                     "biddingChain":"16.25",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"qcjc-0"
+                    "url":"qcjc-0",
+                    "ddz":"57.065"
                 },
                 {
                     "pid":"000837",
@@ -5775,7 +6185,8 @@
                     "biddingChain":"3,564.84",
                     "sealsChain":"71.59",
                     "volChain":"-51.57",
-                    "url":"qcjc-1"
+                    "url":"qcjc-1",
+                    "ddz":""
                 },
                 {
                     "pid":"000837",
@@ -5788,7 +6199,8 @@
                     "biddingChain":"59.65",
                     "sealsChain":"21.93",
                     "volChain":"-58.16",
-                    "url":"qcjc-2"
+                    "url":"qcjc-2",
+                    "ddz":""
                 },
                 {
                     "pid":"000837",
@@ -5801,7 +6213,8 @@
                     "biddingChain":"-9.95",
                     "sealsChain":"-46.87",
                     "volChain":"1,012.02",
-                    "url":"qcjc-3"
+                    "url":"qcjc-3",
+                    "ddz":""
                 },
                 {
                     "pid":"000837",
@@ -5814,7 +6227,8 @@
                     "biddingChain":"-38.14",
                     "sealsChain":"6.42",
                     "volChain":"7.06",
-                    "url":"qcjc-4"
+                    "url":"qcjc-4",
+                    "ddz":""
                 },
                 {
                     "pid":"000837",
@@ -5827,7 +6241,8 @@
                     "biddingChain":"35.91",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"qcjc-5"
+                    "url":"qcjc-5",
+                    "ddz":""
                 }
             ]
         },
@@ -5848,7 +6263,8 @@
                     "biddingChain":"5,822.78",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"znwh-0"
+                    "url":"znwh-0",
+                    "ddz":"53.236"
                 },
                 {
                     "pid":"002445",
@@ -5861,7 +6277,8 @@
                     "biddingChain":"75.59",
                     "sealsChain":"-20.16",
                     "volChain":"133.45",
-                    "url":"znwh-1"
+                    "url":"znwh-1",
+                    "ddz":""
                 },
                 {
                     "pid":"002445",
@@ -5874,7 +6291,8 @@
                     "biddingChain":"318.06",
                     "sealsChain":"72.27",
                     "volChain":"-23.92",
-                    "url":"znwh-2"
+                    "url":"znwh-2",
+                    "ddz":""
                 },
                 {
                     "pid":"002445",
@@ -5887,7 +6305,8 @@
                     "biddingChain":"-13.10",
                     "sealsChain":"0.69",
                     "volChain":"66.40",
-                    "url":"znwh-3"
+                    "url":"znwh-3",
+                    "ddz":""
                 },
                 {
                     "pid":"002445",
@@ -5900,7 +6319,8 @@
                     "biddingChain":"-29.11",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"znwh-4"
+                    "url":"znwh-4",
+                    "ddz":""
                 }
             ]
         },
@@ -5921,7 +6341,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"swjn-0"
+                    "url":"swjn-0",
+                    "ddz":"1387.735"
                 },
                 {
                     "pid":"000820",
@@ -5934,7 +6355,8 @@
                     "biddingChain":"4,361.70",
                     "sealsChain":"-29.27",
                     "volChain":"8,047.31",
-                    "url":"swjn-1"
+                    "url":"swjn-1",
+                    "ddz":""
                 },
                 {
                     "pid":"000820",
@@ -5947,7 +6369,8 @@
                     "biddingChain":"-67.09",
                     "sealsChain":"3.35",
                     "volChain":"-55.34",
-                    "url":"swjn-2"
+                    "url":"swjn-2",
+                    "ddz":""
                 },
                 {
                     "pid":"000820",
@@ -5960,7 +6383,8 @@
                     "biddingChain":"39.27",
                     "sealsChain":"-61.75",
                     "volChain":"110.95",
-                    "url":"swjn-3"
+                    "url":"swjn-3",
+                    "ddz":""
                 },
                 {
                     "pid":"000820",
@@ -5973,7 +6397,8 @@
                     "biddingChain":"-11.45",
                     "sealsChain":"150.35",
                     "volChain":"3.20",
-                    "url":"swjn-4"
+                    "url":"swjn-4",
+                    "ddz":""
                 },
                 {
                     "pid":"000820",
@@ -5986,7 +6411,8 @@
                     "biddingChain":"-10.34",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"swjn-5"
+                    "url":"swjn-5",
+                    "ddz":""
                 },
                 {
                     "pid":"000820",
@@ -5999,7 +6425,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"swjn-6"
+                    "url":"swjn-6",
+                    "ddz":""
                 }
             ]
         },
@@ -6020,7 +6447,8 @@
                     "biddingChain":"-70.79",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"dlhn-0"
+                    "url":"dlhn-0",
+                    "ddz":"122.596"
                 },
                 {
                     "pid":"000593",
@@ -6033,7 +6461,8 @@
                     "biddingChain":"2.42万",
                     "sealsChain":"-30.94",
                     "volChain":"364.02",
-                    "url":"dlhn-1"
+                    "url":"dlhn-1",
+                    "ddz":""
                 },
                 {
                     "pid":"000593",
@@ -6046,7 +6475,8 @@
                     "biddingChain":"309.45",
                     "sealsChain":"29.91",
                     "volChain":"-59.62",
-                    "url":"dlhn-2"
+                    "url":"dlhn-2",
+                    "ddz":""
                 },
                 {
                     "pid":"000593",
@@ -6059,7 +6489,8 @@
                     "biddingChain":"25.16",
                     "sealsChain":"-68.66",
                     "volChain":"235.60",
-                    "url":"dlhn-3"
+                    "url":"dlhn-3",
+                    "ddz":""
                 },
                 {
                     "pid":"000593",
@@ -6072,7 +6503,8 @@
                     "biddingChain":"-59.17",
                     "sealsChain":"238.03",
                     "volChain":"-84.78",
-                    "url":"dlhn-4"
+                    "url":"dlhn-4",
+                    "ddz":""
                 },
                 {
                     "pid":"000593",
@@ -6085,7 +6517,8 @@
                     "biddingChain":"34.57",
                     "sealsChain":"-15.27",
                     "volChain":"219.16",
-                    "url":"dlhn-5"
+                    "url":"dlhn-5",
+                    "ddz":""
                 },
                 {
                     "pid":"000593",
@@ -6098,7 +6531,8 @@
                     "biddingChain":"26.45",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"dlhn-6"
+                    "url":"dlhn-6",
+                    "ddz":""
                 }
             ]
         },
@@ -6119,7 +6553,8 @@
                     "biddingChain":"3,268.02",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"hrsj-0"
+                    "url":"hrsj-0",
+                    "ddz":"40.488"
                 },
                 {
                     "pid":"000892",
@@ -6132,7 +6567,8 @@
                     "biddingChain":"360.18",
                     "sealsChain":"79.71",
                     "volChain":"1.99",
-                    "url":"hrsj-1"
+                    "url":"hrsj-1",
+                    "ddz":""
                 },
                 {
                     "pid":"000892",
@@ -6145,7 +6581,8 @@
                     "biddingChain":"21.53",
                     "sealsChain":"-78.82",
                     "volChain":"815.96",
-                    "url":"hrsj-2"
+                    "url":"hrsj-2",
+                    "ddz":""
                 },
                 {
                     "pid":"000892",
@@ -6158,7 +6595,8 @@
                     "biddingChain":"119.13",
                     "sealsChain":"190.11",
                     "volChain":"-72.91",
-                    "url":"hrsj-3"
+                    "url":"hrsj-3",
+                    "ddz":""
                 },
                 {
                     "pid":"000892",
@@ -6171,7 +6609,8 @@
                     "biddingChain":"-4.23",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"hrsj-4"
+                    "url":"hrsj-4",
+                    "ddz":""
                 }
             ]
         },
@@ -6192,7 +6631,8 @@
                     "biddingChain":"-46.30",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"tsgf-0"
+                    "url":"tsgf-0",
+                    "ddz":"80.957"
                 },
                 {
                     "pid":"002800",
@@ -6205,7 +6645,8 @@
                     "biddingChain":"823.79",
                     "sealsChain":"-87.26",
                     "volChain":"241.67",
-                    "url":"tsgf-1"
+                    "url":"tsgf-1",
+                    "ddz":""
                 },
                 {
                     "pid":"002800",
@@ -6218,7 +6659,8 @@
                     "biddingChain":"145.73",
                     "sealsChain":"647.57",
                     "volChain":"-60.43",
-                    "url":"tsgf-2"
+                    "url":"tsgf-2",
+                    "ddz":""
                 },
                 {
                     "pid":"002800",
@@ -6231,7 +6673,8 @@
                     "biddingChain":"63.94",
                     "sealsChain":"-34.45",
                     "volChain":"1,730.65",
-                    "url":"tsgf-3"
+                    "url":"tsgf-3",
+                    "ddz":""
                 },
                 {
                     "pid":"002800",
@@ -6244,7 +6687,8 @@
                     "biddingChain":"57.29",
                     "sealsChain":"-36.83",
                     "volChain":"-48.28",
-                    "url":"tsgf-4"
+                    "url":"tsgf-4",
+                    "ddz":""
                 },
                 {
                     "pid":"002800",
@@ -6257,7 +6701,8 @@
                     "biddingChain":"8.52",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"tsgf-5"
+                    "url":"tsgf-5",
+                    "ddz":""
                 }
             ]
         },
@@ -6278,7 +6723,8 @@
                     "biddingChain":"-61.39",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zbjt-0"
+                    "url":"zbjt-0",
+                    "ddz":"34.614"
                 },
                 {
                     "pid":"000759",
@@ -6291,7 +6737,8 @@
                     "biddingChain":"2,208.01",
                     "sealsChain":"396.49",
                     "volChain":"-15.05",
-                    "url":"zbjt-1"
+                    "url":"zbjt-1",
+                    "ddz":""
                 },
                 {
                     "pid":"000759",
@@ -6304,7 +6751,8 @@
                     "biddingChain":"120.50",
                     "sealsChain":"60.52",
                     "volChain":"32.94",
-                    "url":"zbjt-2"
+                    "url":"zbjt-2",
+                    "ddz":""
                 },
                 {
                     "pid":"000759",
@@ -6317,7 +6765,8 @@
                     "biddingChain":"77.98",
                     "sealsChain":"79.21",
                     "volChain":"-39.66",
-                    "url":"zbjt-3"
+                    "url":"zbjt-3",
+                    "ddz":""
                 },
                 {
                     "pid":"000759",
@@ -6330,7 +6779,8 @@
                     "biddingChain":"-11.26",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zbjt-4"
+                    "url":"zbjt-4",
+                    "ddz":""
                 },
                 {
                     "pid":"000759",
@@ -6343,7 +6793,8 @@
                     "biddingChain":"-27.84",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zbjt-5"
+                    "url":"zbjt-5",
+                    "ddz":""
                 },
                 {
                     "pid":"000759",
@@ -6356,7 +6807,8 @@
                     "biddingChain":"-35.13",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zbjt-6"
+                    "url":"zbjt-6",
+                    "ddz":""
                 }
             ]
         },
@@ -6377,7 +6829,8 @@
                     "biddingChain":"-54.44",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"xhl-0"
+                    "url":"xhl-0",
+                    "ddz":"196.139"
                 },
                 {
                     "pid":"000620",
@@ -6390,7 +6843,8 @@
                     "biddingChain":"283.55",
                     "sealsChain":"18.88",
                     "volChain":"120.27",
-                    "url":"xhl-1"
+                    "url":"xhl-1",
+                    "ddz":""
                 },
                 {
                     "pid":"000620",
@@ -6403,7 +6857,8 @@
                     "biddingChain":"104.10",
                     "sealsChain":"-60.60",
                     "volChain":"130.24",
-                    "url":"xhl-2"
+                    "url":"xhl-2",
+                    "ddz":""
                 },
                 {
                     "pid":"000620",
@@ -6416,7 +6871,8 @@
                     "biddingChain":"10.45",
                     "sealsChain":"16.58",
                     "volChain":"3.05",
-                    "url":"xhl-3"
+                    "url":"xhl-3",
+                    "ddz":""
                 },
                 {
                     "pid":"000620",
@@ -6429,7 +6885,8 @@
                     "biddingChain":"15.77",
                     "sealsChain":"66.09",
                     "volChain":"-15.49",
-                    "url":"xhl-4"
+                    "url":"xhl-4",
+                    "ddz":""
                 },
                 {
                     "pid":"000620",
@@ -6442,7 +6899,8 @@
                     "biddingChain":"108.82",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"xhl-5"
+                    "url":"xhl-5",
+                    "ddz":""
                 },
                 {
                     "pid":"000620",
@@ -6455,7 +6913,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"xhl-6"
+                    "url":"xhl-6",
+                    "ddz":""
                 }
             ]
         },
@@ -6476,7 +6935,8 @@
                     "biddingChain":"112.83",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"hozg-0"
+                    "url":"hozg-0",
+                    "ddz":"84.476"
                 },
                 {
                     "pid":"002084",
@@ -6489,7 +6949,8 @@
                     "biddingChain":"1,503.44",
                     "sealsChain":"56.44",
                     "volChain":"21.64",
-                    "url":"hozg-1"
+                    "url":"hozg-1",
+                    "ddz":""
                 },
                 {
                     "pid":"002084",
@@ -6502,7 +6963,8 @@
                     "biddingChain":"-57.45",
                     "sealsChain":"14.05",
                     "volChain":"88.34",
-                    "url":"hozg-2"
+                    "url":"hozg-2",
+                    "ddz":""
                 },
                 {
                     "pid":"002084",
@@ -6515,7 +6977,8 @@
                     "biddingChain":"484.45",
                     "sealsChain":"-46.74",
                     "volChain":"164.89",
-                    "url":"hozg-3"
+                    "url":"hozg-3",
+                    "ddz":""
                 },
                 {
                     "pid":"002084",
@@ -6528,7 +6991,8 @@
                     "biddingChain":"-52.71",
                     "sealsChain":"-26.81",
                     "volChain":"12.74",
-                    "url":"hozg-4"
+                    "url":"hozg-4",
+                    "ddz":""
                 },
                 {
                     "pid":"002084",
@@ -6541,7 +7005,8 @@
                     "biddingChain":"-1.55",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"hozg-5"
+                    "url":"hozg-5",
+                    "ddz":""
                 }
             ]
         },
@@ -6562,7 +7027,8 @@
                     "biddingChain":"4,300.00",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jyd-0"
+                    "url":"jyd-0",
+                    "ddz":"45.475"
                 },
                 {
                     "pid":"003005",
@@ -6575,7 +7041,8 @@
                     "biddingChain":"4,877.27",
                     "sealsChain":"41.66",
                     "volChain":"32.27",
-                    "url":"jyd-1"
+                    "url":"jyd-1",
+                    "ddz":""
                 },
                 {
                     "pid":"003005",
@@ -6588,7 +7055,8 @@
                     "biddingChain":"132.60",
                     "sealsChain":"156.57",
                     "volChain":"-64.60",
-                    "url":"jyd-2"
+                    "url":"jyd-2",
+                    "ddz":""
                 },
                 {
                     "pid":"003005",
@@ -6601,7 +7069,8 @@
                     "biddingChain":"46.31",
                     "sealsChain":"-63.83",
                     "volChain":"955.02",
-                    "url":"jyd-3"
+                    "url":"jyd-3",
+                    "ddz":""
                 },
                 {
                     "pid":"003005",
@@ -6614,7 +7083,8 @@
                     "biddingChain":"-10.63",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jyd-4"
+                    "url":"jyd-4",
+                    "ddz":""
                 },
                 {
                     "pid":"003005",
@@ -6627,7 +7097,8 @@
                     "biddingChain":"240.31",
                     "sealsChain":"",
                     "volChain":"6.45",
-                    "url":"jyd-5"
+                    "url":"jyd-5",
+                    "ddz":""
                 },
                 {
                     "pid":"003005",
@@ -6640,7 +7111,8 @@
                     "biddingChain":"-48.09",
                     "sealsChain":"55.31",
                     "volChain":"-21.11",
-                    "url":"jyd-6"
+                    "url":"jyd-6",
+                    "ddz":""
                 },
                 {
                     "pid":"003005",
@@ -6653,7 +7125,8 @@
                     "biddingChain":"-24.23",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jyd-7"
+                    "url":"jyd-7",
+                    "ddz":""
                 },
                 {
                     "pid":"003005",
@@ -6666,7 +7139,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jyd-8"
+                    "url":"jyd-8",
+                    "ddz":""
                 }
             ]
         },
@@ -6687,7 +7161,8 @@
                     "biddingChain":"386.24",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"gmkj-0"
+                    "url":"gmkj-0",
+                    "ddz":"115.065"
                 },
                 {
                     "pid":"002093",
@@ -6700,7 +7175,8 @@
                     "biddingChain":"7,068.30",
                     "sealsChain":"1.23",
                     "volChain":"25.90",
-                    "url":"gmkj-1"
+                    "url":"gmkj-1",
+                    "ddz":""
                 },
                 {
                     "pid":"002093",
@@ -6713,7 +7189,8 @@
                     "biddingChain":"46.04",
                     "sealsChain":"79.01",
                     "volChain":"-43.94",
-                    "url":"gmkj-2"
+                    "url":"gmkj-2",
+                    "ddz":""
                 },
                 {
                     "pid":"002093",
@@ -6726,7 +7203,8 @@
                     "biddingChain":"1,061.74",
                     "sealsChain":"-80.58",
                     "volChain":"3,880.83",
-                    "url":"gmkj-3"
+                    "url":"gmkj-3",
+                    "ddz":""
                 },
                 {
                     "pid":"002093",
@@ -6739,7 +7217,8 @@
                     "biddingChain":"-67.06",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"gmkj-4"
+                    "url":"gmkj-4",
+                    "ddz":""
                 }
             ]
         },
@@ -6760,7 +7239,8 @@
                     "biddingChain":"-77.18",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"yft-0"
+                    "url":"yft-0",
+                    "ddz":"62.213"
                 },
                 {
                     "pid":"002528",
@@ -6773,7 +7253,8 @@
                     "biddingChain":"9,968.60",
                     "sealsChain":"99.55",
                     "volChain":"-66.38",
-                    "url":"yft-1"
+                    "url":"yft-1",
+                    "ddz":""
                 },
                 {
                     "pid":"002528",
@@ -6786,7 +7267,8 @@
                     "biddingChain":"66.11",
                     "sealsChain":"7.00",
                     "volChain":"499.50",
-                    "url":"yft-2"
+                    "url":"yft-2",
+                    "ddz":""
                 },
                 {
                     "pid":"002528",
@@ -6799,7 +7281,8 @@
                     "biddingChain":"69.90",
                     "sealsChain":"-21.04",
                     "volChain":"-38.39",
-                    "url":"yft-3"
+                    "url":"yft-3",
+                    "ddz":""
                 },
                 {
                     "pid":"002528",
@@ -6812,7 +7295,8 @@
                     "biddingChain":"-32.86",
                     "sealsChain":"-2.63",
                     "volChain":"295.68",
-                    "url":"yft-4"
+                    "url":"yft-4",
+                    "ddz":""
                 },
                 {
                     "pid":"002528",
@@ -6825,7 +7309,8 @@
                     "biddingChain":"48.52",
                     "sealsChain":"50.64",
                     "volChain":"-58.33",
-                    "url":"yft-5"
+                    "url":"yft-5",
+                    "ddz":""
                 },
                 {
                     "pid":"002528",
@@ -6838,7 +7323,8 @@
                     "biddingChain":"116.78",
                     "sealsChain":"-33.88",
                     "volChain":"75.87",
-                    "url":"yft-6"
+                    "url":"yft-6",
+                    "ddz":""
                 },
                 {
                     "pid":"002528",
@@ -6851,7 +7337,8 @@
                     "biddingChain":"-53.21",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"yft-7"
+                    "url":"yft-7",
+                    "ddz":""
                 },
                 {
                     "pid":"002528",
@@ -6864,7 +7351,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"yft-8"
+                    "url":"yft-8",
+                    "ddz":""
                 }
             ]
         },
@@ -6885,7 +7373,8 @@
                     "biddingChain":"67.10",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"hhkj-0"
+                    "url":"hhkj-0",
+                    "ddz":"26.783"
                 },
                 {
                     "pid":"002296",
@@ -6898,7 +7387,8 @@
                     "biddingChain":"4,654.05",
                     "sealsChain":"41.10",
                     "volChain":"228.97",
-                    "url":"hhkj-1"
+                    "url":"hhkj-1",
+                    "ddz":""
                 },
                 {
                     "pid":"002296",
@@ -6911,7 +7401,8 @@
                     "biddingChain":"279.94",
                     "sealsChain":"21.47",
                     "volChain":"-19.02",
-                    "url":"hhkj-2"
+                    "url":"hhkj-2",
+                    "ddz":""
                 },
                 {
                     "pid":"002296",
@@ -6924,7 +7415,8 @@
                     "biddingChain":"-23.78",
                     "sealsChain":"68.59",
                     "volChain":"-84.64",
-                    "url":"hhkj-3"
+                    "url":"hhkj-3",
+                    "ddz":""
                 },
                 {
                     "pid":"002296",
@@ -6937,7 +7429,8 @@
                     "biddingChain":"547.45",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"hhkj-4"
+                    "url":"hhkj-4",
+                    "ddz":""
                 }
             ]
         },
@@ -6958,7 +7451,8 @@
                     "biddingChain":"91.27",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jqrj-0"
+                    "url":"jqrj-0",
+                    "ddz":"73.853"
                 },
                 {
                     "pid":"002279",
@@ -6971,7 +7465,8 @@
                     "biddingChain":"659.66",
                     "sealsChain":"53.39",
                     "volChain":"111.66",
-                    "url":"jqrj-1"
+                    "url":"jqrj-1",
+                    "ddz":""
                 },
                 {
                     "pid":"002279",
@@ -6984,7 +7479,8 @@
                     "biddingChain":"-6.92",
                     "sealsChain":"-80.01",
                     "volChain":"173.59",
-                    "url":"jqrj-2"
+                    "url":"jqrj-2",
+                    "ddz":""
                 },
                 {
                     "pid":"002279",
@@ -6997,7 +7493,8 @@
                     "biddingChain":"132.79",
                     "sealsChain":"367.92",
                     "volChain":"-53.79",
-                    "url":"jqrj-3"
+                    "url":"jqrj-3",
+                    "ddz":""
                 },
                 {
                     "pid":"002279",
@@ -7010,7 +7507,8 @@
                     "biddingChain":"-12.60",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jqrj-4"
+                    "url":"jqrj-4",
+                    "ddz":""
                 },
                 {
                     "pid":"002279",
@@ -7023,7 +7521,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"jqrj-5"
+                    "url":"jqrj-5",
+                    "ddz":""
                 }
             ]
         },
@@ -7044,7 +7543,8 @@
                     "biddingChain":"-29.71",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"zzkj-0"
+                    "url":"zzkj-0",
+                    "ddz":"21.489"
                 },
                 {
                     "pid":"003007",
@@ -7057,7 +7557,8 @@
                     "biddingChain":"16.11",
                     "sealsChain":"123.70",
                     "volChain":"-84.08",
-                    "url":"zzkj-1"
+                    "url":"zzkj-1",
+                    "ddz":""
                 },
                 {
                     "pid":"003007",
@@ -7070,7 +7571,8 @@
                     "biddingChain":"175.14",
                     "sealsChain":"-56.08",
                     "volChain":"365.05",
-                    "url":"zzkj-2"
+                    "url":"zzkj-2",
+                    "ddz":""
                 },
                 {
                     "pid":"003007",
@@ -7083,7 +7585,8 @@
                     "biddingChain":"-73.72",
                     "sealsChain":"178.21",
                     "volChain":"-85.90",
-                    "url":"zzkj-3"
+                    "url":"zzkj-3",
+                    "ddz":""
                 },
                 {
                     "pid":"003007",
@@ -7096,7 +7599,8 @@
                     "biddingChain":"-70.34",
                     "sealsChain":"5.43",
                     "volChain":"-3.43",
-                    "url":"zzkj-4"
+                    "url":"zzkj-4",
+                    "ddz":""
                 },
                 {
                     "pid":"003007",
@@ -7109,7 +7613,22 @@
                     "biddingChain":"3,172.22",
                     "sealsChain":"-90.66",
                     "volChain":"2,166.89",
-                    "url":"zzkj-5"
+                    "url":"zzkj-5",
+                    "ddz":""
+                },
+                {
+                    "pid":"003007",
+                    "date":"2022-11-03",
+                    "seals":"",
+                    "sealsAmount":"",
+                    "sealsVol":"",
+                    "discharge":"",
+                    "bidding":"-10.01",
+                    "biddingChain":"-81.23",
+                    "sealsChain":"",
+                    "volChain":"",
+                    "url":"zzkj-6",
+                    "ddz":""
                 }
             ]
         },
@@ -7130,7 +7649,8 @@
                     "biddingChain":"-24.94",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"txd-0"
+                    "url":"txd-0",
+                    "ddz":"78.291"
                 },
                 {
                     "pid":"002845",
@@ -7143,7 +7663,8 @@
                     "biddingChain":"1,236.89",
                     "sealsChain":"21.62",
                     "volChain":"52.17",
-                    "url":"txd-1"
+                    "url":"txd-1",
+                    "ddz":"34.939"
                 },
                 {
                     "pid":"002845",
@@ -7156,7 +7677,8 @@
                     "biddingChain":"35.41",
                     "sealsChain":"-71.51",
                     "volChain":"271.68",
-                    "url":"txd-2"
+                    "url":"txd-2",
+                    "ddz":"-13.46"
                 },
                 {
                     "pid":"002845",
@@ -7169,7 +7691,8 @@
                     "biddingChain":"37.24",
                     "sealsChain":"285.14",
                     "volChain":"-3.80",
-                    "url":"txd-3"
+                    "url":"txd-3",
+                    "ddz":"6.678"
                 },
                 {
                     "pid":"002845",
@@ -7182,7 +7705,8 @@
                     "biddingChain":"-11.59",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"txd-4"
+                    "url":"txd-4",
+                    "ddz":"-23.212"
                 }
             ]
         },
@@ -7203,7 +7727,8 @@
                     "biddingChain":"718.84",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"tergf-0"
+                    "url":"tergf-0",
+                    "ddz":"167.717"
                 },
                 {
                     "pid":"603029",
@@ -7216,7 +7741,8 @@
                     "biddingChain":"1,445.68",
                     "sealsChain":"-5.29",
                     "volChain":"118.69",
-                    "url":"tergf-1"
+                    "url":"tergf-1",
+                    "ddz":"1.777"
                 },
                 {
                     "pid":"603029",
@@ -7229,7 +7755,8 @@
                     "biddingChain":"-58.89",
                     "sealsChain":"154.31",
                     "volChain":"-89.32",
-                    "url":"tergf-2"
+                    "url":"tergf-2",
+                    "ddz":"12187.757"
                 },
                 {
                     "pid":"603029",
@@ -7242,7 +7769,8 @@
                     "biddingChain":"64.49",
                     "sealsChain":"-25.90",
                     "volChain":"52.35",
-                    "url":"tergf-3"
+                    "url":"tergf-3",
+                    "ddz":"2788.790"
                 },
                 {
                     "pid":"603029",
@@ -7255,7 +7783,8 @@
                     "biddingChain":"256.43",
                     "sealsChain":"-76.44",
                     "volChain":"1,594.47",
-                    "url":"tergf-4"
+                    "url":"tergf-4",
+                    "ddz":"-34.45"
                 },
                 {
                     "pid":"603029",
@@ -7268,7 +7797,8 @@
                     "biddingChain":"-34.85",
                     "sealsChain":"9.38",
                     "volChain":"-43.65",
-                    "url":"tergf-5"
+                    "url":"tergf-5",
+                    "ddz":"-0.507"
                 },
                 {
                     "pid":"603029",
@@ -7281,7 +7811,8 @@
                     "biddingChain":"-27.36",
                     "sealsChain":"-34.69",
                     "volChain":"35.11",
-                    "url":"tergf-6"
+                    "url":"tergf-6",
+                    "ddz":"-8.936"
                 },
                 {
                     "pid":"603029",
@@ -7294,7 +7825,8 @@
                     "biddingChain":"1,261.17",
                     "sealsChain":"-44.92",
                     "volChain":"9.97",
-                    "url":"tergf-7"
+                    "url":"tergf-7",
+                    "ddz":"-21.429"
                 },
                 {
                     "pid":"603029",
@@ -7307,7 +7839,8 @@
                     "biddingChain":"-93.65",
                     "sealsChain":"102.39",
                     "volChain":"-51.79",
-                    "url":"tergf-8"
+                    "url":"tergf-8",
+                    "ddz":"-14.909"
                 },
                 {
                     "pid":"603029",
@@ -7320,7 +7853,8 @@
                     "biddingChain":"51.03",
                     "sealsChain":"-69.83",
                     "volChain":"94.60",
-                    "url":"tergf-9"
+                    "url":"tergf-9",
+                    "ddz":"-11.305"
                 },
                 {
                     "pid":"603029",
@@ -7333,7 +7867,22 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"tergf-10"
+                    "url":"tergf-10",
+                    "ddz":"-14.789"
+                },
+                {
+                    "pid":"603029",
+                    "date":"2022-11-22",
+                    "seals":"",
+                    "sealsAmount":"",
+                    "sealsVol":"",
+                    "discharge":"",
+                    "bidding":"-10.01",
+                    "biddingChain":"-56.79",
+                    "sealsChain":"",
+                    "volChain":"",
+                    "url":"tergf-11",
+                    "ddz":"-83.400"
                 },
                 {
                     "pid":"603029",
@@ -7346,7 +7895,8 @@
                     "biddingChain":"",
                     "sealsChain":"",
                     "volChain":"",
-                    "url":"tergf-11"
+                    "url":"tergf-12",
+                    "ddz":"0.169"
                 }
             ]
         }

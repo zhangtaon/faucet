@@ -9,7 +9,8 @@ export interface faucetItem {
     biddingChain: string,
     sealsChain: string,
     volChain: string,
-    url: string
+    url: string,
+    ddz: string
 }
 
 export interface faucet {
@@ -32,25 +33,31 @@ export const getImageUrl = (name: string) => {
 //数字格式转换
 export const numberOf = (numberStr: string) => {
     const separate = numberStr.indexOf(",");
-    const unit = numberStr.indexOf("万");
+    const unitW = numberStr.indexOf("万");
+    const unitY = numberStr.indexOf("亿");
 
     let n: number = 0;
 
-    // 3,896.02万
-    if (separate != -1 && unit != -1) {
-        n = Math.trunc(Number(numberStr.substring(0, separate)) * 10000000 + Number(numberStr.substring(separate + 1, unit)) * 10000);
-    }
-    // 1,294
-    if (separate != -1 && unit == -1) {
-        n = Math.trunc(Number(numberStr.substring(0, separate)) * 1000 + Number(numberStr.substring(separate + 1)));
-    }
-    // 332.02万
-    if (separate == -1 && unit != -1) {
-        n = Math.trunc(Number(numberStr.substring(0, unit)) * 10000);
-    }
-    // 806.77
-    if (separate == -1 && unit == -1 && numberStr != "") {
-        n = Math.trunc(Number(numberStr));
+    if(unitY != -1){
+        n = Math.trunc(Number(numberStr.substring(0, unitY)) * 100000000);
+    }else{
+
+        // 3,896.02万
+        if (separate != -1 && unitW != -1) {
+            n = Math.trunc(Number(numberStr.substring(0, separate)) * 10000000 + Number(numberStr.substring(separate + 1, unitW)) * 10000);
+        }
+        // 1,294
+        if (separate != -1 && unitW == -1) {
+            n = Math.trunc(Number(numberStr.substring(0, separate)) * 1000 + Number(numberStr.substring(separate + 1)));
+        }
+        // 332.02万
+        if (separate == -1 && unitW != -1) {
+            n = Math.trunc(Number(numberStr.substring(0, unitW)) * 10000);
+        }
+        // 806.77
+        if (separate == -1 && unitW == -1 && numberStr != "") {
+            n = Math.trunc(Number(numberStr));
+        }
     }
 
     return n;

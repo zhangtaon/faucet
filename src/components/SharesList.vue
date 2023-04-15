@@ -50,6 +50,10 @@
     {
       title: '成环比(%)',
       dataIndex: 'volChain'
+    },
+    {
+      title: 'DDZ',
+      dataIndex: 'ddz'
     }
   ];
 </script>

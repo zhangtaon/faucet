@@ -76,6 +76,12 @@
   // 列表列配置
   const columns = [
     {
+      title: '序号',
+      width: 60,
+      customRender: (obj: {index:number}) => obj.index + 1
+      // customRender: ({index}:number) => index + 1
+    },
+    {
       title: '日期',
       dataIndex: 'date'
     },
@@ -89,15 +95,29 @@
     },
     {
       title: '封单额(元)',
-      dataIndex: 'sealsAmount'
+      dataIndex: 'sealsAmount',
+      sorter: {
+        compare: (a: faucetItem, b: faucetItem) => numberOf(a.sealsAmount) - numberOf(b.sealsAmount),
+        multiple: 7,
+      }
     },
     {
       title: '封成比(%)',
+      width: 110,
       dataIndex: 'sealsVol'
     },
     {
       title: '放量',
+      width: 80,
       dataIndex: 'discharge',
+    },
+    {
+      title: 'DDZ',
+      dataIndex: 'ddz',
+      sorter: {
+        compare: (a: faucetItem, b: faucetItem) => numberOf(a.ddz) - numberOf(b.ddz),
+        multiple: 6,
+      }
     },
     {
       title: '竞价(%)',
