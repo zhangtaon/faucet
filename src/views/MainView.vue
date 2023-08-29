@@ -55,12 +55,19 @@
   const router = useRouter();
   const yearLine = ref < Number > (0);
   const up=(event: Event)=>{
-    (event.target as HTMLInputElement).previousElementSibling.focus();
-    (event.target as HTMLInputElement).previousElementSibling.click();
+    // console.dir(event.target)
+    let target:HTMLLIElement = event.target as HTMLLIElement;
+    if(target.previousElementSibling){
+      (target.previousElementSibling as HTMLLIElement).focus();
+      (target.previousElementSibling as HTMLLIElement).click();
+    }
   }
   const down=(event: Event)=>{
-    (event.target as HTMLInputElement).nextElementSibling.focus();
-    (event.target as HTMLInputElement).nextElementSibling.click();
+    let target:HTMLLIElement = event.target as HTMLLIElement;
+    if(target.nextElementSibling){
+      (target.nextElementSibling as HTMLLIElement).focus();
+      (target.nextElementSibling as HTMLLIElement).click();
+    }
   }
   function go() {
     router.push(`/shares/${faucetStore.$state.faucet.id}`);
