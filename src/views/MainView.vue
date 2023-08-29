@@ -2,7 +2,7 @@
   <a-layout class="main-view" style="min-height: 100vh">
     <a-layout-sider v-model:collapsed="collapsed" collapsible>
       <!-- <div class="logo" /> -->
-      <MenuConfigButton :collapsed="collapsed"/>
+      <MenuConfigButton :collapsed="collapsed" />
       <a-menu v-model:selectedKeys="selectedKeys" theme="dark" mode="inline">
         <a-sub-menu key="sub1">
           <template #title>
@@ -11,7 +11,8 @@
               <span>股票列表（{{faucetStore.$state.menu.length}}）</span>
             </span>
           </template>
-          <a-menu-item v-for="item in faucetStore.$state.menu" :key="item.id" @click="faucetStore.setFaucet(item),go()">
+          <a-menu-item v-for="item in faucetStore.$state.menu" :key="item.id" @click="faucetStore.setFaucet(item),go()"
+            @keyup.right="faucetStore.next()" @keyup.left="faucetStore.previous()" @keyup.up="up" @keyup.down="down" >
             <span>{{item.name}}</span>
             <span>{{item.count}}</span>
             <span class="code">({{item.id}})</span>
@@ -29,7 +30,7 @@
     </a-layout-sider>
     <a-layout>
       <a-layout-content style="margin: 0 16px">
-        <router-view/>
+        <router-view />
       </a-layout-content>
       <a-layout-footer style="text-align: center">
         龙头主升启动案例 ©2022 Created by zto
@@ -46,41 +47,53 @@
   import { useRouter } from 'vue-router'
   import { PieChartOutlined, DesktopOutlined, BarChartOutlined } from '@ant-design/icons-vue';
   import { ref } from "vue";
-  import MenuConfigButton from "../components/MenuConfigButton.vue"; 
-  import { useFaucetStore } from "../stores/faucetStore"; 
-  const selectedKeys = ref<string[]>(['1']);
-  const collapsed = ref<boolean>(false);
+  import MenuConfigButton from "../components/MenuConfigButton.vue";
+  import { useFaucetStore } from "../stores/faucetStore";
+  const selectedKeys = ref < string[] > (['1']);
+  const collapsed = ref < boolean > (false);
   const faucetStore = useFaucetStore();
   const router = useRouter();
-  const yearLine = ref<Number>(0);
-
-  function go(){
+  const yearLine = ref < Number > (0);
+  const up=(event: Event)=>{
+    (event.target as HTMLInputElement).previousElementSibling.focus();
+    (event.target as HTMLInputElement).previousElementSibling.click();
+  }
+  const down=(event: Event)=>{
+    (event.target as HTMLInputElement).nextElementSibling.focus();
+    (event.target as HTMLInputElement).nextElementSibling.click();
+  }
+  function go() {
     router.push(`/shares/${faucetStore.$state.faucet.id}`);
   }
 </script>
 <style>
-#components-layout-demo-side .logo {
-  height: 32px;
-  margin: 16px;
-  background: rgba(255, 255, 255, 0.3);
-}
+  #components-layout-demo-side .logo {
+    height: 32px;
+    margin: 16px;
+    background: rgba(255, 255, 255, 0.3);
+  }
 
-.site-layout .site-layout-background {
-  background: #fff;
-}
-[data-theme='dark'] .site-layout .site-layout-background {
-  background: #141414;
-}
+  .site-layout .site-layout-background {
+    background: #fff;
+  }
 
-.main-view .ant-layout-sider-children{
-  position: absolute;
-  overflow: scroll;
-  padding-bottom: 180px;
-  width: 100%;
-}
-.main-view .code{
-  font-size: 12px; 
-  padding-left: 3px;
-  float: right;
-}
+  [data-theme='dark'] .site-layout .site-layout-background {
+    background: #141414;
+  }
+
+  .main-view .ant-layout-sider-children {
+    position: absolute;
+    overflow: scroll;
+    padding-bottom: 180px;
+    width: 100%;
+  }
+
+  .main-view .code {
+    font-size: 12px;
+    padding-left: 3px;
+    float: right;
+  }
+  .main-view .ant-menu-dark .ant-menu-item:focus-visible{
+    box-shadow: none;
+  }
 </style>

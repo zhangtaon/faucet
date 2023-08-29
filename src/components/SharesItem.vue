@@ -1,5 +1,5 @@
 <template>
-  <div class="shares-item">
+  <div class="shares-item" >
     <a-descriptions :column="9">
       <a-descriptions-item label="日期" style="width:150px">{{faucetStore.$state.faucet.list[faucetStore.$state.currentIndex].date}}</a-descriptions-item>
       <a-descriptions-item :class="{'active':!faucetStore.$state.currentIndex}" label="封单量(股)" style="width:170px">{{faucetStore.$state.faucet.list[faucetStore.$state.currentIndex].seals}}</a-descriptions-item>
